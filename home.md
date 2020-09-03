@@ -11,3 +11,4 @@ editor: undefined
 Welcome to our Wiki !
 
 This is a test to see if changes in the git repository are applied.
+Second test here
