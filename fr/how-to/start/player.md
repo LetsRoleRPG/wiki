@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T10:25:24.768Z
+date: 2020-09-04T10:26:05.399Z
 tags: 
 editor: markdown
 ---
@@ -61,5 +61,5 @@ Vous pouvez discuter avec les autres joueurs et la MJ en ouvrant la panneaux de 
 ## Journal
 ![journal-preview.png](/medias/french/journal-preview.png)
 
-Vous pouvez créer des entrées de journal en cliquant sur "New Entry". Par défaut, une entrée de journal n'est accessible que par vous, mais vous pouvez la partager avec la table en utilisant les options de partage à gauche du document.
+Le journal vous permet d'écrire des notes. Vous pouvez créer des entrées de journal en cliquant sur "New Entry". Par défaut, une entrée de journal n'est accessible que par vous, mais vous pouvez la partager avec la table en utilisant les options de partage à gauche du document.
 
