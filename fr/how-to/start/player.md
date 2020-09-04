@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T10:26:05.399Z
+date: 2020-09-04T10:26:46.746Z
 tags: 
 editor: markdown
 ---
@@ -47,7 +47,7 @@ En rejoignant la table, vous devriez voir un fond blanc ou une image au centre, 
 
 Sur la toute gauche de l'écran, il y a la liste des personnage. Si le jouer est connecté à la table, une icône verte est affichée à côté de son nom. Vous pouvez ouvrir/fermer les avatars en cliquant sur le nom du personnage.
 
-Pour afficher votre feuille de personnage, cliquez sur votre avatar.
+**Pour afficher votre feuille de personnage, cliquez sur votre avatar.**
 
 ## Le chat
 Vous pouvez discuter avec les autres joueurs et la MJ en ouvrant la panneaux de chat. Le chat peut aussi servir à lancer des dés voir [xxx].
