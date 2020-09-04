@@ -11,5 +11,3 @@ editor: markdown
 
 # Find documentation about Let's Role here !
 Welcome to our Wiki !
-
-Test pour Tenshi
