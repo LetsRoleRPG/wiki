@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T10:05:29.126Z
+date: 2020-09-04T10:08:04.850Z
 tags: 
 editor: markdown
 ---
@@ -34,4 +34,7 @@ Il peut parfois être pratique de créer une copie d'un personnage. Cliquez sur 
 Une fois la campagne terminée, où si votre personnage n'est plus utilisé, vous pouvez le mettre à la retraite en cliquant sur *Options* > *Retire*.
 
 # Rejoindre une table
-Votre MJ vous enverra un lien au format https://alpha.lets-role.com/join/quelquechose. En cliquant dessus, vous pourrez rejoindre la table avec votre personnage.
+Votre MJ vous enverra un lien au format https://alpha.lets-role.com/join/quelquechose. En cliquant dessus, vous pourrez rejoindre la table avec votre personnage. Une fois que vous aurez rejoint la table, celle-ci sera affichée dans votre liste de tables.
+
+## La liste des tables
+En cliquant sur *My Tables* dans le menu principal, vous aurez accès à toutes les tables que vous avez rejoint. Vous pouvez ajouter une table à vos favoris en cliquant sur l'étoile à droite du nom, et vous pouvez voir si des gens sont connectés à cette table en ce moment. Pour rejoindre la table de jeu et commencer à jouer, cliquez sur le bouton *Play now*.
