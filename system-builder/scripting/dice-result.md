@@ -2,7 +2,7 @@
 title: Dice Result
 description: 
 published: true
-date: 2020-09-04T13:43:14.602Z
+date: 2020-09-04T13:43:30.959Z
 tags: 
 editor: markdown
 ---
