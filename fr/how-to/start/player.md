@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T10:22:26.250Z
+date: 2020-09-04T10:23:55.888Z
 tags: 
 editor: markdown
 ---
@@ -53,6 +53,9 @@ Pour afficher votre feuille de personnage, cliquez sur votre avatar.
 Vous pouvez discuter avec les autres joueurs et la MJ en ouvrant la panneaux de chat. Le chat peut aussi servir à lancer des dés voir [xxx].
 
 ## Dice Log
+
+![dice-log-preview.png](/medias/french/dice-log-preview.png)
+
 À chaque fois qu'un jet de dés est fait, celui-ci est consigné ici.
 
 ## Journal
