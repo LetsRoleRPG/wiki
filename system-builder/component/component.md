@@ -2,7 +2,7 @@
 title: Component
 description: 
 published: true
-date: 2020-09-04T13:35:22.410Z
+date: 2020-09-04T13:36:18.142Z
 tags: 
 editor: markdown
 ---
