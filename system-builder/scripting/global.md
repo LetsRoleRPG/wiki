@@ -2,7 +2,7 @@
 title: Global Functions
 description: 
 published: true
-date: 2020-09-04T12:46:48.624Z
+date: 2020-09-04T12:55:40.271Z
 tags: 
 editor: markdown
 ---
@@ -12,11 +12,8 @@ Those functions must be defined in the global scope. If you do not want to use
 one of there features, simply don't define the function.
 
 # `init(sheet)`
-**`sheet`**
-type: [`Sheet`](/builder/documentation/sheet)
-The sheet to initialize
-
-return `void`
+**`sheet`**, type: [`Sheet`](/system-builder/scripting/sheet), The sheet to initialize
+Return `void`
 
 Initialize a sheet, as a character sheet or a craft. You can see what type of sheet it is via `sheet.id`. Tabs entries are not initialized individually, and should be initialized as if they were part of the parent view.
 
@@ -41,15 +38,9 @@ const initWeapon = function(sheet) {
 ```
 
 # `drop(from, to)`
-**`from`**
-type: [`Sheet`](/builder/documentation/sheet)
-Source's sheet
-
-**`to`**
-type: [`Sheet`](/builder/documentation/sheet)
-Target's sheet
-
-return `void|string`  
+**`from`**, type: [`Sheet`](/system-builder/scripting/sheet), Source's sheet
+**`to`**, type: [`Sheet`](/system-builder/scripting/sheet), Target's sheet
+Return `void|string`  
 
 Called when dropping a craft onto a character sheet. If you simply want to append the data to a repeater, return the repeater's id. Otherwise, you'll have to manipulate the target sheet data.
 
@@ -75,9 +66,7 @@ drop = function(from, to) {
 ```
 
 # `dropDice(result, to)`
-**`result`**
-type: [`DiceResult`](/builder/documentation/dice-result)
-A dice result from the dice log.
+**`result`**, type: [`DiceResult`](/system-builder/scripting/dice-result), A dice result from the dice log.
 
 **`sheet`**
 type: [`Sheet`](/builder/documentation/sheet)
