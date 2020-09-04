@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T10:15:06.667Z
+date: 2020-09-04T10:22:26.250Z
 tags: 
 editor: markdown
 ---
@@ -48,3 +48,15 @@ En rejoignant la table, vous devriez voir un fond blanc ou une image au centre, 
 Sur la toute gauche de l'écran, il y a la liste des personnage. Si le jouer est connecté à la table, une icône verte est affichée à côté de son nom. Vous pouvez ouvrir/fermer les avatars en cliquant sur le nom du personnage.
 
 Pour afficher votre feuille de personnage, cliquez sur votre avatar.
+
+## Le chat
+Vous pouvez discuter avec les autres joueurs et la MJ en ouvrant la panneaux de chat. Le chat peut aussi servir à lancer des dés voir [xxx].
+
+## Dice Log
+À chaque fois qu'un jet de dés est fait, celui-ci est consigné ici.
+
+## Journal
+![journal-preview.png](/medias/french/journal-preview.png)
+
+Vous pouvez créer des entrées de journal en cliquant sur "New Entry". Par défaut, une entrée de journal n'est accessible que par vous, mais vous pouvez la partager avec la table en utilisant les options de partage à gauche du document.
+
