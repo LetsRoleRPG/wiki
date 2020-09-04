@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T09:27:28.772Z
+date: 2020-09-04T10:05:29.126Z
 tags: 
 editor: markdown
 ---
@@ -32,3 +32,6 @@ Il peut parfois être pratique de créer une copie d'un personnage. Cliquez sur 
 
 ## Mettre un personnage à la retraite
 Une fois la campagne terminée, où si votre personnage n'est plus utilisé, vous pouvez le mettre à la retraite en cliquant sur *Options* > *Retire*.
+
+# Rejoindre une table
+Votre MJ vous enverra un lien au format https://alpha.lets-role.com/join/quelquechose. En cliquant dessus, vous pourrez rejoindre la table avec votre personnage.
