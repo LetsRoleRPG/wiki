@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T10:08:04.850Z
+date: 2020-09-04T10:15:06.667Z
 tags: 
 editor: markdown
 ---
@@ -38,3 +38,13 @@ Votre MJ vous enverra un lien au format https://alpha.lets-role.com/join/quelque
 
 ## La liste des tables
 En cliquant sur *My Tables* dans le menu principal, vous aurez accès à toutes les tables que vous avez rejoint. Vous pouvez ajouter une table à vos favoris en cliquant sur l'étoile à droite du nom, et vous pouvez voir si des gens sont connectés à cette table en ce moment. Pour rejoindre la table de jeu et commencer à jouer, cliquez sur le bouton *Play now*.
+
+# L'interface joueur
+En rejoignant la table, vous devriez voir un fond blanc ou une image au centre, ainsi que de nombreux *dock* : des éléments d'interface avec chacun leur utilité.
+
+## La liste des personnages
+![character-list.png](/medias/french/character-list.png)
+
+Sur la toute gauche de l'écran, il y a la liste des personnage. Si le jouer est connecté à la table, une icône verte est affichée à côté de son nom. Vous pouvez ouvrir/fermer les avatars en cliquant sur le nom du personnage.
+
+Pour afficher votre feuille de personnage, cliquez sur votre avatar.
