@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T09:24:14.418Z
+date: 2020-09-04T09:25:39.413Z
 tags: 
 editor: markdown
 ---
@@ -26,3 +26,6 @@ Vous pouvez choisir parmis plusieurs skins à partir du menu *Skin* en haut à d
 
 ## Partager le personnage
 Vous pouvez partager votre feuille de personnage avec un lien publique. Les personnes qui ont ce lien ne pourront pas modifier votre personnage, mais pourront le consulter, et le cloner dans leur bibliothèque de persos. Pour partager votre personnage, cliquez sur *Options* > *Share*. Un lien de partage vous sera donné.
+
+## Cloner le personnage
+Il peut parfois être pratique de créer une copie d'un personnage. Cliquez sur *Options* > *Clone* pour en créer une nouvelle copie. La copie est indépendante du personnage, ce qui veut dire que modifier l'un, ne modifie pas l'autre.
