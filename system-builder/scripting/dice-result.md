@@ -2,7 +2,7 @@
 title: Dice Result
 description: 
 published: true
-date: 2020-09-04T13:42:33.985Z
+date: 2020-09-04T13:43:14.602Z
 tags: 
 editor: markdown
 ---
@@ -11,44 +11,44 @@ Represents a dice result, rolled by a player or the GM.
 
 # Properties
 
-## `.title`
+## `title`
 return: `string`
 
 Only available in the top result.
 
-## `.expression`
+## `expression`
 return: `string`
 
 Only available in the top result.
 
-## `.visibility`
+## `visibility`
 return: `string`
 
 The visibility of the current roll. Possible values are `visible`, `gm` or `gmonly`. Only available in the top result.
 
-## `.type`
+## `type`
 return: `string`
 
 The type of the current roll. Possible values are `number`, `dice` or `comparison`.
 
-## `.total`
+## `total`
 return: `number`
 
 * For a `dice` roll: the total value of the rolls
 * For a `number` roll: the result of the operation
 * For a `comparison` roll: the number of success
 
-## `.tags`
+## `tags`
 return: `string[]`
 
 Get the tags for the current roll. If you want all the tags, including in the children, use `.allTags`.
 
-## `.allTags`
+## `allTags`
 return: `string[]`
 
 Get all the tags, including the one in the children.
 
-## `.all`
+## `all`
 return: `SingleDiceResult[]`
 
 Get all the results of the rolled dice, including in the children. A `SingleDiceResult` is an object composed of : 
@@ -57,56 +57,56 @@ Get all the results of the rolled dice, including in the children. A `SingleDice
 * `value`: `number` the rolled number
 * `discarded`: `boolean` is this roll discarded? (for example when using `keeph`)
 
-## `.children`
+## `children`
 return: `DiceResult[]`
 
 Get the children of the current roll.
 
-## `.size`
+## `size`
 return: `number`
 
 The number of rolled dice. For example 3d6, returns 3. Returns null if the roll is not of type `dice`.
 
-## `.dimension`
+## `dimension`
 return: `number`
 
 The dimension of the dice. For example 3d6, returns 6. Returns null if the roll is not of type `dice`.
 
-## `.values`
+## `values`
 return: `number[]`
 
 The results of the roll. Does not include the discarded values.
 Returns null if the roll is not of type `dice` 
 
-## `.discarded`
+## `discarded`
 return: `number[]`
 
 The discarded results of the roll. Returns null if the roll is not of type `dice`.
 
-## `.left` 
+## `left` 
 return: `DiceResult`
 
 The left part of the comparison. Returns null if the roll is not of type `comparison`.
 
-## `.right` 
+## `right` 
 return: `DiceResult`
 
 The right part of the comparison. Returns null if the roll is not of type `comparison`.
 
-## `.success` 
+## `success` 
 return: `number`
 
 The number of successes of the comparison. Returns null if the roll is not 
 of type `comparison`.
 
-## `.failure` 
+## `failure` 
 return: `number`
 
 The number of failures of the comparison. Returns null if the roll is not of type `comparison`.
 
 # Methods
 
-## `.containsTag(tag)`
+## `containsTag(tag)`
 `tag`, type: `string`, The tag to lookup
 return: `boolean`
 
