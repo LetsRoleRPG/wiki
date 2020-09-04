@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T09:26:47.742Z
+date: 2020-09-04T09:27:28.772Z
 tags: 
 editor: markdown
 ---
