@@ -2,7 +2,7 @@
 title: Global Functions
 description: 
 published: true
-date: 2020-09-04T12:55:40.271Z
+date: 2020-09-04T12:57:20.949Z
 tags: 
 editor: markdown
 ---
@@ -67,10 +67,7 @@ drop = function(from, to) {
 
 # `dropDice(result, to)`
 **`result`**, type: [`DiceResult`](/system-builder/scripting/dice-result), A dice result from the dice log.
-
-**`sheet`**
-type: [`Sheet`](/builder/documentation/sheet)
-Target's sheet
+**`sheet`**, type: [`Sheet`](/builder/documentation/sheet), Target's sheet
 
 For some systems, it can be usefull to drag'n drop a dice result onto the sheet. With this function, you can create interaction between the dice log and a character sheet or craft.
 
@@ -85,13 +82,8 @@ dropDice = function(result, sheet) {
 ```
 
 # `initRoll(result, callback)`
-**`result`**
-type: [`DiceResult`](/builder/documentation/dice-result)
-A dice result from the dice log.
-
-**`callback`**
-type: `Function`
-A callback to render the dice result.
+**`result`**, type: [`DiceResult`](/system-builder/scripting/dice-result), A dice result from the dice log.
+**`callback`**,type: `Function`, A callback to render the dice result.
 
 This function allows you to customize the rendering of a dice result. You should call the callback with two arguments : 
 
@@ -112,9 +104,8 @@ initRoll = function(result, callback) {
 ```
 
 # `getReferences(sheet)`
-**`sheet`**
-type: [`Sheet`](/builder/documentation/sheet)
-The sheet with references
+**`sheet`**, type: [`Sheet`](/system-builder/scripting/sheet), The sheet with references
+Return `Object`
 
 If you want to create references programmatically, you can use this method. Return an object with the reference's id as key and the reference content  as value. Values are interpreted.
 
@@ -130,9 +121,8 @@ getReferences = function(sheet) {
 ```
 
 # `getBarAttributes(sheet)`
-**`sheet`**
-type: [`Sheet`](/builder/documentation/sheet)
-The sheet
+**`sheet`**, type: [`Sheet`](/system-builder/scripting/sheet), The sheet
+Return `Object`
 
 Players can connect bars to some attributes with this method. It is required to have a value, and a maximum value. The method should return an `Object` with the titles as keys, and an `Array(2)`, with the first element being the value, and the second the max value.
 
