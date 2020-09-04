@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T09:20:21.690Z
+date: 2020-09-04T09:24:14.418Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,16 @@ Dans le menu principal, cliquez sur *My Characters*, puis sur *Create a new char
 
 Pour l'instant il n'y a que quelques systèmes disponibles par défaut, mais vous pouvez en trouver plein d'autres ici : https://community.lets-role.com/c/system-builder/17
 
-Si vous trouvez le système que vous voulez sur le forum, cliquez sur le lien d'accès au système (qui ressemble à *https://alpha.lets-role.com/sy/quelquechose*), puis cliquez sur *Add to my systems*. Vous pourrez désormais créer un personnage avec ce système.
+Si vous trouvez le système que vous voulez sur le forum, cliquez sur le lien d'accès au système (qui ressemble à *https://alpha.lets-role.com/sy/quelquechose*), puis cliquez sur *Add to my systems*. Vous pouvez désormais créer un personnage avec ce système.
 
 # La feuille de personnage
+Vous pouvez accéder à votre feuille de personnage directement sur le site, et l'éditer sans avoir rejoint de table.
+
+## Changer le nom du personnage
+Cliquez sur la petite icône d'édition à droite du nom de votre personnage pour changer de nom.
+
+## Changer la skin
+Vous pouvez choisir parmis plusieurs skins à partir du menu *Skin* en haut à droite.
+
+## Partager le personnage
+Vous pouvez partager votre feuille de personnage avec un lien publique. Les personnes qui ont ce lien ne pourront pas modifier votre personnage, mais pourront le consulter, et le cloner dans leur bibliothèque de persos. Pour partager votre personnage, cliquez sur *Options* > *Share*. Un lien de partage vous sera donné.
