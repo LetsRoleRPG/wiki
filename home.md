@@ -2,12 +2,14 @@
 title: Welcome
 description: 
 published: true
-date: 2020-09-03T14:06:24.197Z
+date: 2020-09-04T14:07:48.808Z
 tags: 
 editor: markdown
 ---
 
-![logo.png](/medias/logo.png)
+![logo.png](/medias/logo.png =250x)
 
 # Find documentation about Let's Role here !
 Welcome to our Wiki !
+
+Here you can find various documentation about the Virtual TableTop **Let's Role**.
