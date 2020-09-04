@@ -2,7 +2,7 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-04T10:23:55.888Z
+date: 2020-09-04T10:25:24.768Z
 tags: 
 editor: markdown
 ---
@@ -43,7 +43,7 @@ En cliquant sur *My Tables* dans le menu principal, vous aurez accès à toutes 
 En rejoignant la table, vous devriez voir un fond blanc ou une image au centre, ainsi que de nombreux *dock* : des éléments d'interface avec chacun leur utilité.
 
 ## La liste des personnages
-![character-list.png](/medias/french/character-list.png)
+![character-list-preview.png](/medias/french/character-list-preview.png)
 
 Sur la toute gauche de l'écran, il y a la liste des personnage. Si le jouer est connecté à la table, une icône verte est affichée à côté de son nom. Vous pouvez ouvrir/fermer les avatars en cliquant sur le nom du personnage.
 
