@@ -2,7 +2,7 @@
 title: Comment utiliser ce Wiki ?
 description: 
 published: true
-date: 2020-09-07T10:23:25.330Z
+date: 2020-09-07T10:24:32.918Z
 tags: 
 editor: markdown
 ---
@@ -47,7 +47,7 @@ Dans *base repository*, gardez LetsRoleRPG/wiki, et dans *head repository*, choi
 
 Vous pourrez voir les changements que vous avez fait par rapport au fichiers d'origine.
 
-Cliquez sur **Create pull request**.
+Cliquez sur **Create pull request**, indiquez ce que vous avez modifié dans le formulaire, plus recliquez sur **Create pull request**.
 
 ### Attendre que la modification soit validée
 Les modérateurs et modératrices de Let's Role vont relire vos modifications, et si tout est bon, accepter la pull request. Si il y a un soucis, un commentaire vous indiquera le problème. Une fois votre pull request acceptée, votre modification sera rapidement passée en ligne.
