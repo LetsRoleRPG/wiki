@@ -2,7 +2,7 @@
 title: Comment utiliser ce Wiki ?
 description: 
 published: true
-date: 2020-09-07T10:07:40.746Z
+date: 2020-09-07T10:13:17.634Z
 tags: 
 editor: markdown
 ---
@@ -34,12 +34,23 @@ Vous remarquerez que la page commence par une liste entourée des caractères *-
 Pour formatter le texte en dessous des *---*, utilisez la [syntaxe markdown](https://www.markdownguide.org/basic-syntax/).
 
 ### Commit les modifications
-Une fois vos modifications finies, scrollez un peu pour arriver à *Commit changes*. Entrez un titre qui décrit les modifications que vous avez faites, puis cliquez sur *Commit Changes*.
+Une fois vos modifications finies, scrollez un peu pour arriver à *Commit changes*. Entrez un titre qui décrit les modifications que vous avez faites, puis cliquez sur *Commit Changes*. Vous pouvez faire cela pour plusieurs fichiers.
 
 ### Faire la pull request
 Vos changements sont enregistrés, mais seulement sur votre clone. Il faut maintenant propager les modifications sur notre projet. Retournez sur https://github.com/LetsRoleRPG/wiki, puis cliquez sur *Pull requests* dans les onglet. Cliquez maintenant sur **New pull request**.
 
 ![github-pull-request.png](/medias/github-pull-request.png)
+
+Cliquez sur le lien **compare across forks**.
+
+Dans *base repository*, gardez LetsRoleRPG/wiki, et dans *head repository*, choisissez votre fork (si votre pseudo github est kitten, choisissez *kitten/wiki*).
+
+Vous pourrez voir les changements que vous avez fait par rapport au fichiers d'origine.
+
+Cliquez sur **Create pull request**.
+
+### Attendre que la modification soit validée
+Les modérateurs et modératrices de Let's Role vont relire vos modifications, et si tout est bon, accepter la pull request. Si il y a un soucis, un commentaire vous indiquera le problème. Une fois votre pull request acceptée, votre modification sera rapidement passée en ligne.
 
 # Licence
 Toutes les pages de ce wiki utilisent la licence *Creative Commons Attribution-NonCommercial*, ce qui veut dire que vous êtes libres de partager et d'adapter le contenu, mais vous devez attribuer l'origine (avec au moins un lien vers ce wiki) et vous ne pouvez pas utiliser ce contenu a des fins commerciales.
