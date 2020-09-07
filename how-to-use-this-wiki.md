@@ -2,12 +2,12 @@
 title: How to use this Wiki?
 description: 
 published: true
-date: 2020-09-07T10:32:39.305Z
+date: 2020-09-07T10:32:48.546Z
 tags: 
 editor: markdown
 ---
 
-> We need your help translation this page !
+> We need your help translating this page !
 {.is-info}
 
 # Licence
