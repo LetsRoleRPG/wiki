@@ -2,7 +2,7 @@
 title: Comment lancer des dés ?
 description: 
 published: true
-date: 2020-09-07T09:19:51.739Z
+date: 2020-09-07T09:23:23.146Z
 tags: 
 editor: markdown
 ---
@@ -20,3 +20,12 @@ Quelques exemples :
  - `/r keeph(2d20)`
 
 Il y a plusieurs commandes pour lancer des dés : 
+
+ - `/roll` (ou `/r`) permet de jeter des dés visibles par tous
+ - `/gmroll` (ou `/gr`) permet de jeter des dés visibles par uniquement vous et le GM
+ - `/gmonlyroll` (ou `/gor`) permet de jeter des dés qui seront visibles uniquement par le GM (et même pas par vous)
+
+## Utiliser les références dans les jets
+Vous pouvez référencer certains éléments de votre feuille de personnage dans les jets en utilisant un `@`. Par exemple : 
+
+ - `/r 1d20 + @str_mod`
