@@ -2,7 +2,7 @@
 title: Comment utiliser ce Wiki ?
 description: 
 published: true
-date: 2020-09-07T10:13:17.634Z
+date: 2020-09-07T10:23:25.330Z
 tags: 
 editor: markdown
 ---
@@ -51,6 +51,9 @@ Cliquez sur **Create pull request**.
 
 ### Attendre que la modification soit validée
 Les modérateurs et modératrices de Let's Role vont relire vos modifications, et si tout est bon, accepter la pull request. Si il y a un soucis, un commentaire vous indiquera le problème. Une fois votre pull request acceptée, votre modification sera rapidement passée en ligne.
+
+# Demander des accès
+Si vous avez déjà fait beaucoup de modifications avec succès, où que vous êtes un(e) membre de confiance de la communauté, vous pouvez contacter les modérateurs pour demander un accès direct en écriture au wiki. Vous pourrez alors modifier les pages directement sans passer par github.
 
 # Licence
 Toutes les pages de ce wiki utilisent la licence *Creative Commons Attribution-NonCommercial*, ce qui veut dire que vous êtes libres de partager et d'adapter le contenu, mais vous devez attribuer l'origine (avec au moins un lien vers ce wiki) et vous ne pouvez pas utiliser ce contenu a des fins commerciales.
