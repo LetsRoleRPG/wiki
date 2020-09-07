@@ -2,7 +2,7 @@
 title: Gérer vos documents
 description: 
 published: true
-date: 2020-09-07T09:46:34.303Z
+date: 2020-09-07T09:47:15.203Z
 tags: 
 editor: markdown
 ---
@@ -12,7 +12,7 @@ Le journal est un système de documents : vous pouvez écrire des pages et les p
 ![journal.png](/medias/french/journal.png)
 
 # Créer une page
-Le bouton + vous permet de créer des éléments dans votre journal. En cliquant sur new entry une popup apparaîtra vous permettant d’écrire un nouveau document. Un document est compris d’un titre, de tags optionnels, et du contenu.
+Le bouton *+ New entry* vous permet de créer des éléments dans votre journal. En cliquant sur new entry une popup apparaîtra vous permettant d’écrire un nouveau document. Un document est compris d’un titre, de tags optionnels, et du contenu.
 
 L’éditeur de contenu vous permettra de formater et structurer votre document, en rajoutant des titres, du gras ou même des vidéos.
 
