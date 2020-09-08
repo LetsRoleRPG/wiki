@@ -2,7 +2,7 @@
 title: Le brouillard de Guerre
 description: 
 published: true
-date: 2020-09-08T13:10:00.404Z
+date: 2020-09-08T13:10:58.775Z
 tags: 
 editor: markdown
 ---
@@ -13,7 +13,7 @@ Le brouillard de guerre est un moyen simple de dévoiler une zone au fur et à m
 Dans le dock *Scene*, reperez la roue crantée à droite du nom de votre scène et cliquez dessus. Les options de la scène vont s'afficher, dans lequel vous pourrez trouver une option *Fog of War*. Cliquez sur la case à cocher pour l'activer.
 
 # Réveler ou cacher des zones
-Une fois que le brouillard de guerre est activé sur la scène, celle ci est entièrement cachée. Un nouveau dock "*Fog of War* a dû faire son apparition, contenant plusieurs outils.
+Une fois que le brouillard de guerre est activé sur la scène, celle ci est entièrement cachée. Un nouveau dock "*Fog of War*" a dû faire son apparition, contenant plusieurs outils.
 
 ![fog-of-war-tools.png](/medias/fog-of-war-tools.png)
 
