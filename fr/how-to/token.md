@@ -2,12 +2,12 @@
 title: Comment utiliser des tokens ?
 description: 
 published: true
-date: 2020-09-08T12:09:09.659Z
+date: 2020-09-08T12:10:19.937Z
 tags: 
 editor: markdown
 ---
 
-Les tokens représentent des entités présentes sur la scène, tel qu'un personnage ou un monstre.
+Les tokens représentent des entités présentes sur la scène, tel que des personnages ou des monstres.
 
 # Mettre un token sur la scène
 - Pour les personnages, drag'n droppez l'avatar dans la colonne de gauche sur la scène
