@@ -2,12 +2,12 @@
 title: Liens utiles
 description: 
 published: true
-date: 2020-09-08T13:51:24.796Z
+date: 2020-09-08T13:51:30.795Z
 tags: 
 editor: markdown
 ---
 
-- [Invitation sur le Discord*Le meilleur moyen pour discuter avec l'équipe et la communauté*](https://discord.gg/m5cqTwa) 
+- [Invitation sur le Discord *Le meilleur moyen pour discuter avec l'équipe et la communauté*](https://discord.gg/m5cqTwa) 
 - [Le site web *Toute l'actualité du projet*](https://lets-role.com/)
 - [Le Trello *Suivez l'avancement du projet étape par étape*](https://trello.com/b/MBqcaQSn/lets-role-roadmap)
 - [Chaîne YouTube *Vidéo d'introduction, présentation de features, etc*](https://www.youtube.com/channel/UCAS4mytue3sYAbQlABhdeSA)
