@@ -2,7 +2,7 @@
 title: Comment utiliser des tokens ?
 description: 
 published: true
-date: 2020-09-08T12:07:49.566Z
+date: 2020-09-08T12:09:09.659Z
 tags: 
 editor: markdown
 ---
@@ -35,6 +35,8 @@ Sur certain systèmes, vous pouvez choisir de connecter une barre à un attribut
 
 ## Auras
 Une aura affiche un texte qui tourne autour du token. C'est entre autres pratique pour indiquer un statut, tel que "Empoisonné" ou "Blessé".
+
+![token-aura.png](/medias/token-aura.png)
 
 ## Donner le contrôle
 Comme n'importe quel autre élément de la scène, le MJ peut décider de donner le contrôle du token à un autre joueur, qui pourra alors déplacer ou redimensionner le token.
