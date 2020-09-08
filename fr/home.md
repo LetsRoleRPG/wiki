@@ -2,7 +2,7 @@
 title: Bienvenue !
 description: 
 published: true
-date: 2020-09-08T08:48:03.961Z
+date: 2020-09-08T08:52:21.304Z
 tags: 
 editor: markdown
 ---
@@ -18,6 +18,6 @@ Pour en apprendre plus sur ce qu'est Let's Role, n'hésitez pas à jeter un coup
 Si vous souhaitez apporter des modifications à ce wiki, jetez un coup d'oeil à [Comment utiliser ce wiki ?](/fr/how-to-use-this-wiki).
 
 # Nous rejoindre
-![discord-logo.png](/medias/discord-logo.png =100x)
-
-[Venez discuter avec nous sur Discord !](https://discord.gg/m5cqTwa)
+- [Venez discuter avec nous sur Discord !](https://discord.gg/m5cqTwa)
+- [Suivez notre twitter](https://twitter.com/LetsRoleRPG)
+- [Likez notre facebook](https://www.facebook.com/LetsRoleRPG)
