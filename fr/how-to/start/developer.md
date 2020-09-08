@@ -2,7 +2,7 @@
 title: Comment débuter comme développeur ?
 description: 
 published: true
-date: 2020-09-08T09:57:56.601Z
+date: 2020-09-08T09:58:37.160Z
 tags: 
 editor: markdown
 ---
@@ -22,4 +22,4 @@ Sur le site, cliquez sur votre pseudonyme en haut à droite, puis sur *My System
 Faire un système génial c'est une chose, mais c'est mieux si les gens peuvent l'utiliser ! Dans votre système, un encard *Share* vous donne un lien que vous pouvez partager avec d'autres afin qu'ils puisse jouer avec votre système.
 
 # Créer un système
-La création de système est un sujet complexe, qui a [sa propre documentation ici](/en/system-builder/developer) (en anglais). Amusez-vous bien !
+La création de système est un sujet complexe, qui a [sa propre documentation ici](/en/system-builder) (en anglais). Amusez-vous bien !
