@@ -2,27 +2,27 @@
 title: My first steps
 description: 
 published: true
-date: 2020-09-08T08:09:12.140Z
+date: 2020-09-08T19:27:02.161Z
 tags: 
 editor: markdown
 ---
 
-# S'inscrire
+# Sign up
 
-L'inscription à l'Alpha se fait sur la page : https://alpha.lets-role.com/register. Une fois inscrit, vous recevrez un mail de bienvenu, ainsi qu'un mail avec un lien à cliquer pour confirmer votre adresse email.
+To registering for the Alpha, go to [this page](https://alpha.lets-role.com/register). After your registration, you will receive a welcome message with a confirmation link to validate your email address.
 
-Dans un premier temps, vous n'aurez pas accès à toute l'alpha, seulement à la création de personnages. Afin de sortir de la zone restreinte, vous devez attendre qu'un email vous confirmant la validation de votre compte vous soit envoyé. Cela ne devrait pas prendre plus de quelques jours.
+At the beginning, you will not have a full access on the alpha, you will only have the possibility to create some characters. After some times, you will receive an email which tells you that a full access is granted to you. It will not take more than a few days.
 
-# La zone *community*
+# *community* zone
 
-L'onglet community vous permet d'accéder aux forums. Il n'y a pas d'inscription supplémentaire, vous serez automatiquement connectés avec votre compte Let's Role.
+The community tab allows you to access to forums. You will not need any other registration, you will be automatically connected with your Let's Role account.
 
-## Configurer son profil
+## Configuring your profile
 
-# Relier son compte à Discord
+# Link to you Discord account
 
-En cliquant sur votre pseudonyme en haut à droite, vous pouvez accéder à votre compte, et y connecter votre compte Discord. Celà vous donnera des avantages sur [notre server discord](https://discord.gg/m5cqTwa) ainsi qu'une couleur différente sur votre pseudo.
+By clicking on you nick in the top right, you can access to your account page, and in this one you can link your discord account. This will give you some advantage on [our discord server](https://discord.gg/m5cqTwa) and a different nickname color.
 
-# Changer d'email ou de mot de passe
+# Change your email or password
 
-Vous pouvez changer de mot de passe en cliquant sur *Change password* dans votre compte. Vous pouvez changer d'email de la même manière. Sachez que si vous changez d'email, vous n'aurez plus accès au forum *community* tant que cet email n'aura pas été validé via un lien que nous vous aurons envoyé.
+You can change you password by clinking on *Change password* in your account. You can change your email with the same way. But be carefull, you will loose your community access until you will not have activate your new email with the link sended when you change it.
