@@ -2,7 +2,7 @@
 title: Mes premiers pas
 description: 
 published: true
-date: 2020-09-08T08:33:10.167Z
+date: 2020-09-08T08:34:30.310Z
 tags: 
 editor: markdown
 ---
@@ -15,7 +15,7 @@ Dans un premier temps, vous n'aurez pas accès à toute l'alpha, seulement à la
 
 # La zone *community*
 
-L'onglet *community* vous permet d'accéder aux forums. Il n'y a pas d'inscription supplémentaire, vous serez automatiquement connectés avec votre compte Let's Role.
+L'onglet *community* vous permet d'accéder aux forums. Il n'y a pas d'inscription supplémentaire, vous serez automatiquement connecté avec votre compte Let's Role.
 
 ## Configurer son profil
 
