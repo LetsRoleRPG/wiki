@@ -1,13 +1,13 @@
 ---
-title: Comment créer des NPC, Monstres, etc.
+title: Comment créer des PNJ, Monstres, etc.
 description: 
 published: true
-date: 2020-09-07T09:32:56.928Z
+date: 2020-09-08T13:18:03.166Z
 tags: 
 editor: markdown
 ---
 
-Le Content Crafting permet au GM de créer du contenu dynamique pour la table, comme des NPC, des monstres, des compétences de personnage, etc.
+Le Content Crafting permet au GM de créer du contenu dynamique pour la table, comme des PNJ, des monstres, des compétences de personnage, etc.
 
 La gestion et la création de crafts se fait via le dock **Content Crafting** :
 
