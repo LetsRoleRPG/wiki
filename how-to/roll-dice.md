@@ -2,7 +2,7 @@
 title: How to roll dice
 description: 
 published: true
-date: 2020-09-08T09:44:01.720Z
+date: 2020-09-08T10:04:22.675Z
 tags: 
 editor: markdown
 ---
@@ -26,6 +26,6 @@ There are several commands you can use to roll dice:
  - `/gmonlyroll` (or `/gor`) will throw dice only visible to the GM (not even yourself)
 
 ## Using references within rolls
-You can add references to some elements from you character sheet within a roll by using `@`. For example:
+You can add references to some elements from your character sheet within a roll by using `@`. For example:
 
  - `/r 1d20 + @str_mod`
