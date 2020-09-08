@@ -2,12 +2,12 @@
 title: Le brouillard de Guerre
 description: 
 published: true
-date: 2020-09-08T13:09:22.709Z
+date: 2020-09-08T13:10:00.404Z
 tags: 
 editor: markdown
 ---
 
-Le brouillard de guerre est un moyen simple de dévoiler une zone (comme un donjon) au fur et à mesure. Les zones non devoilées par la MJ sont transparentes pour les joueurs.
+Le brouillard de guerre est un moyen simple de dévoiler une zone au fur et à mesure (comme les pièces d'un donjon). Les zones non devoilées par la MJ sont transparentes pour les joueurs.
 
 # Activer le brouillard de guerre
 Dans le dock *Scene*, reperez la roue crantée à droite du nom de votre scène et cliquez dessus. Les options de la scène vont s'afficher, dans lequel vous pourrez trouver une option *Fog of War*. Cliquez sur la case à cocher pour l'activer.
