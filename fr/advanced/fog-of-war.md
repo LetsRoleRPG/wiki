@@ -2,7 +2,7 @@
 title: Le brouillard de Guerre
 description: 
 published: true
-date: 2020-09-08T13:10:58.775Z
+date: 2020-09-08T13:12:18.754Z
 tags: 
 editor: markdown
 ---
@@ -19,7 +19,7 @@ Une fois que le brouillard de guerre est activé sur la scène, celle ci est ent
 
 Les trois premiers outils vous permettent de revéler des zones : 
 
-- Par forme polygonal, cliquez à chaque angle que vous souhaitez faire, puis double-cliquez pour fermer la forme et réveler la zone
+- Par forme polygonale, cliquez à chaque angle que vous souhaitez faire, puis double-cliquez pour fermer la forme et réveler la zone
 - Par rectangle, appuyez pour commencer à dessiner la zone, relâchez pour réveler la zone
 - "*All*" permet d'afficher tout sur la scène
 
