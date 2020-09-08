@@ -2,7 +2,7 @@
 title: How to roll dice
 description: 
 published: true
-date: 2020-09-08T09:42:55.193Z
+date: 2020-09-08T09:44:01.720Z
 tags: 
 editor: markdown
 ---
@@ -13,7 +13,7 @@ Most of character sheets include the roll dice functionality. You can click on a
 # Via the chat
 You can also roll dice through the chat by typing `/r formula`. The formula is based on our roll syntax [which you can test here](https://roll.lets-role.com/).
 
-A few examples : 
+A few examples: 
 
  - `/r 3d6`
  - `/r 1D100>55`
