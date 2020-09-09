@@ -2,12 +2,12 @@
 title: Gérer vos documents
 description: 
 published: true
-date: 2020-09-07T09:47:15.203Z
+date: 2020-09-09T13:08:58.571Z
 tags: 
 editor: markdown
 ---
 
-Le journal est un système de documents : vous pouvez écrire des pages et les partager avec les joueurs.
+Le journal est un système de documents : vous pouvez écrire des pages, les organiser et les partager avec les joueurs.
 
 ![journal.png](/medias/french/journal.png)
 
@@ -17,7 +17,7 @@ Le bouton *+ New entry* vous permet de créer des éléments dans votre journal.
 L’éditeur de contenu vous permettra de formater et structurer votre document, en rajoutant des titres, du gras ou même des vidéos.
 
 # Rechercher un document
-Lorsque vous aurez beaucoup écrit dans votre journal, la fonction de recherche vous permettra de trouver ce que vous voulez plus rapidement. Écrivez simplement ce que vous recherchez dans la barre de recherche, et les documents correspondant seront affichés. En interne, nous utilisons un moteur de recherche puissant, qui permet de fouiller dans le titre, les tags et le contenu des documents, même si votre recherche est partielle (par exemple tiam pour trouver les pages avec Tiamat).
+Lorsque vous aurez beaucoup écrit dans votre journal, la fonction de recherche vous permettra de trouver ce que vous voulez plus rapidement. Écrivez simplement ce que vous recherchez dans la barre de recherche, et les documents correspondant seront affichés. En interne, nous utilisons un moteur de recherche puissant, qui permet de fouiller dans le titre, les tags et le contenu des documents, même si votre recherche est partielle (par exemple `tiam` pour trouver les pages avec `Tiamat`).
 
 # Partager des documents
 Vous pouvez partager un document avec toute une table, ou avec un ou des joueurs spécifiques. De plus, vous pouvez choisir si la ou les personnages peuvent modifier ou non le document. Pour cela, une fois sur un document, cliquez le menu hamburger dans la zone de titre du document. Un lien share apparaîtra. A partir de cette page, vous pouvez choisir quelles tables et quels joueurs aurons accès à ce document. Si vous partagez le document, un message sera envoyé aux concernés dans le chat pour leur indiquer le partage.
