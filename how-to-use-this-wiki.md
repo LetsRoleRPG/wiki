@@ -2,17 +2,17 @@
 title: How to use this Wiki?
 description: 
 published: true
-date: 2020-09-09T19:24:14.399Z
+date: 2020-09-09T19:27:41.613Z
 tags: 
 editor: markdown
 ---
 
 # Using Github
-The easiest way to create or edit a page is to make a pull request to the [github repository](https://github.com/LetsRoleRPG/wiki) of this wiki. Any changes accepted on the github project are synced with this site every 5 minutes.
+If you are not an approved wiki editor the easiest way to create or edit a page is to make a pull request to the [github repository](https://github.com/LetsRoleRPG/wiki) of this wiki. Any changes accepted on the github project will be synced with this site every 5 minutes. In order to do this, follow the instructions below.
 
 ## Make an edit
 ### Create a GitHub account
-If you don't already have a GitHub account, go to https://github.com/join and create one.
+If you do not already have a GitHub account, go to https://github.com/join and create one.
 
 ### Fork the project
 Once connected, go to https://github.com/LetsRoleRPG/wiki, and click on *Fork* in the top right.
@@ -45,15 +45,15 @@ Then click on the link **compare across forks**.
 
 In *base repository*, keep LetsRoleRPG/wiki, and in *head repository*, choose your fork (if your github username is kitten, choose *kitten/wiki*).
 
-You can see the changes that you've done compared to the original file.
+You can see the changes that you did compared to the original file.
 
 Click on **Create pull request**, tell us what you modified in the form, then click again on **Create pull request**.
 
 ### Wait for your edits to be validated
-The Let's Role [moderators](/en/staff) will proof read your edits, and if everything is alright, accept the pull request. If there is a problem, an explanation comment will be provided to you. Your edit will appear on the wiki site after acceptance of your pull request.
+The Let's Role [moderators](/en/staff) will proof read your edits, and if everything is alright, accept the pull request. Your edit will appear on the wiki site after acceptance of your pull request. If there is a problem, an explanation comment will be provided to you. 
 
 # Ask for write access
-If you've already made a lot of edits with success, or that you're a trusted member of our community, you can contact on of the [moderators](/en/staff) to ask for a direct access to the wiki. You will then be able to edit pages without using github.
+If you've already made a lot of edits with success, or that you are a trusted member of our community, you can contact on of the [moderators](/en/staff) to ask for a direct access to the wiki. You will then be able to edit pages without using github.
 
 # Licence
 All the pages in this wiki are under the *Creative Commons Attribution-NonCommercial License*, which mean you are free to share and adapt the content, but you need to give attribution (with at least a link to this wiki) and you cannot use the content for commercial purpose.
