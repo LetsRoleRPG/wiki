@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2020-09-09T19:05:55.765Z
+date: 2020-09-09T19:08:28.564Z
 tags: 
 editor: markdown
 ---
@@ -12,11 +12,11 @@ editor: markdown
 # Welcome to our Wiki !
 Let's Role is a browser-based web application designed for playing TableTop RPGs online with your friends. Let's Role is free, has been created by [a team of passionate people](/en/staff) and use the latest web technology to bring an easy-to-use website as well as powerful features.
 
-Right now Let's Role is in Alpha and you can [register here](https://alpha.lets-role.com/register). Please note that your account should be accepted after within a few days. Our next major step will come very soon with a Kickstarter crowdfunding followed by the start of the Beta a few months later !
+Right now Let's Role is in Alpha and you can [register here](https://alpha.lets-role.com/register). Please note that your account will be accepted after a few days. Our next big step will be coming very soon in the form of a Kickstarter followed by the start of the Beta a few months later !
 
 To learn more about Let's Role, check out [our website](https://lets-role.com), and our [manifesto](https://www.lets-role.com/manifesto).
 
-You will find here all the documentation you need to start on Let's Role and how to take advantage of all the features of the app!
+You will find in this wiki all the documentation needed to start on Let's Role and learn how to take advantage of all the features of the app!
 
 If you want to edit this wiki, please read the page [How to use this wiki ?](/en/how-to-use-this-wiki)
 
