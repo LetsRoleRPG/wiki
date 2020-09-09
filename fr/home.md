@@ -2,7 +2,7 @@
 title: Bienvenue !
 description: 
 published: true
-date: 2020-09-08T12:12:48.020Z
+date: 2020-09-09T09:50:36.517Z
 tags: 
 editor: markdown
 ---
@@ -19,5 +19,5 @@ Si vous souhaitez apporter des modifications à ce wiki, consultez la page [Comm
 
 # Nous rejoindre
 - [Venez discuter avec nous sur Discord !](https://discord.gg/m5cqTwa)
-- [Suivez notre twitter](https://twitter.com/LetsRoleRPG)
-- [Likez notre facebook](https://www.facebook.com/LetsRoleRPG)
+- [Notre twitter](https://twitter.com/LetsRoleRPG)
+- [Notre facebook](https://www.facebook.com/LetsRoleRPG)
