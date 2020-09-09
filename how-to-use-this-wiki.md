@@ -2,7 +2,7 @@
 title: How to use this Wiki?
 description: 
 published: true
-date: 2020-09-09T19:22:45.913Z
+date: 2020-09-09T19:24:14.399Z
 tags: 
 editor: markdown
 ---
