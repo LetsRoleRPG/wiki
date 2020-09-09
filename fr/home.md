@@ -2,7 +2,7 @@
 title: Bienvenue !
 description: 
 published: true
-date: 2020-09-09T10:50:13.560Z
+date: 2020-09-09T17:37:51.198Z
 tags: 
 editor: markdown
 ---
@@ -19,6 +19,8 @@ Pour en apprendre plus sur ce qu'est Let's Role, n'hésitez pas à jeter un coup
 Vous trouverez ici toute la documentation nécessaire pour bien débuter sur Let's Role et prendre complètement en main la plateforme !
 
 Si vous souhaitez apporter des modifications à ce wiki, consultez la page [Comment utiliser ce wiki ?](/fr/how-to-use-this-wiki).
+
+[:gb: This wiki is available in English !](/en/home)
 
 # Nous rejoindre
 - [Venez discuter avec nous sur Discord !](https://discord.gg/m5cqTwa)
