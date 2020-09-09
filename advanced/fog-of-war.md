@@ -2,7 +2,7 @@
 title: Fog of War
 description: 
 published: true
-date: 2020-09-09T17:28:37.385Z
+date: 2020-09-09T17:29:00.761Z
 tags: 
 editor: markdown
 ---
@@ -11,6 +11,8 @@ Fog of War is a tool used to easily reveal a zone steps by steps (like the rooms
 
 # Enable Fog of War
 In the *Scene* dock, find the cog on the right of the name of your scene and click it. Options for the scene will show up, and inside them you should find an option *Fog of War*. Click on the checkbox to enable it.
+
+![scene.png](/medias/scene.png)
 
 # Reveal of hide zones
 Once the fog of war is enabled on the scene, this one is totally hidden. A new dock, "*Fog of War*" should have appeared, which contains several tools.
