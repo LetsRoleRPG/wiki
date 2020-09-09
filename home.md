@@ -2,13 +2,12 @@
 title: Welcome
 description: 
 published: true
-date: 2020-09-09T11:32:13.338Z
+date: 2020-09-09T11:32:17.938Z
 tags: 
 editor: markdown
 ---
 
 ![logo.png](/medias/logo.png =250x)
-
 
 # Welcome to our Wiki !
 Let's Role is a web application in the browser made for playing TableTop RPGs online with your friends. Let's Role is free, has been created by [a team of passionate people](/en/staff), and use the latest web technology to bring a easy-to-use website as well as powerful features.
