@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2020-09-09T11:32:17.938Z
+date: 2020-09-09T17:37:12.007Z
 tags: 
 editor: markdown
 ---
@@ -19,6 +19,8 @@ To learn more about Let's Role, check out [our website](https://lets-role.com), 
 You'll find here all the documentation you need to start on Let's Role and take advantage of all the features of the app!
 
 If you want to edit this wiki, read the page [How to use this wiki ?](/en/how-to-use-this-wiki)
+
+[:fr: Ce wiki est disponible en français !](/fr/home)
 
 # Join us
 - [Come chat with us on Discord !](https://discord.gg/m5cqTwa)
