@@ -2,7 +2,7 @@
 title: Fog of War
 description: 
 published: true
-date: 2020-09-09T17:29:00.761Z
+date: 2020-09-09T17:29:27.584Z
 tags: 
 editor: markdown
 ---
@@ -15,7 +15,7 @@ In the *Scene* dock, find the cog on the right of the name of your scene and cli
 ![scene.png](/medias/scene.png)
 
 # Reveal of hide zones
-Once the fog of war is enabled on the scene, this one is totally hidden. A new dock, "*Fog of War*" should have appeared, which contains several tools.
+Once the fog of war is enabled on the scene, it is totally hidden. A new dock, "*Fog of War*" should have appeared, which contains several tools.
 
 ![fog-of-war-tools.png](/medias/fog-of-war-tools.png)
 
