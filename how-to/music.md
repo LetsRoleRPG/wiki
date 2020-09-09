@@ -2,7 +2,7 @@
 title: Play music in the background
 description: 
 published: true
-date: 2020-09-09T17:19:35.844Z
+date: 2020-09-09T17:19:59.384Z
 tags: 
 editor: markdown
 ---
@@ -17,7 +17,7 @@ Click on *Open the Music Manager* id the *Music* dock, then click on *Create a n
 
 Now click on the title of your playlist recently created. You can add full YouTube playlists, or individual videos. You can also edit, rename and delete songs.
 
-Once your playlist is created, you can close the manager, and play it for the whole table by selecting the playlist in *Quick Play one of your playlist* and clicking on play.
+Once your playlist is created, you can close the manager, and play the playlist for the whole table by selecting it in *Quick Play one of your playlist* and clicking on play.
 
 # Play a playlist when loading a scene
 See: Scene
