@@ -2,7 +2,7 @@
 title: Scene configuration
 description: 
 published: true
-date: 2020-09-09T17:46:20.774Z
+date: 2020-09-09T20:28:43.044Z
 tags: 
 editor: markdown
 ---
@@ -15,10 +15,10 @@ To change the configuration of a scene, click on the cog on the right of the nam
 ![scene-parameters.png](/medias/scene-parameters.png)
 
 ## Name
-The name of your scene, so you can find it easily in the *Scene Browser*.
+This is the name of your scene, so you can find it easily in the *Scene Browser*.
 
 ## Dimensions
-The width and height of the scene in pixels. If you use the option *Adapt Scene to Image* on an image, those values will be updated according to the size of the image.
+This are the width and height of the scene in pixels. If you use the option *Adapt Scene to Image* on an image, those values will be updated according to the size of the image you used as background.
 
 ## Background color
 You can choose the background color (default: white).
@@ -36,7 +36,7 @@ If you enable this option, tokens and other scenes elements will snap to the gri
 Color and opacity of the grid.
 
 ### Size
-The size, in pixels, of the grid. Warning: if you decrease too much this value, there is a possibility than the grid won't cover the whole scene, for performance reasons.
+The size, in pixels, of the grid. Warning: if you decrease too much this value, there is a possibility than the grid will not cover the whole scene anymore, for performance reasons.
 
 ## Fog of War
 Check this option to enable [fog of war](/en/advanced/fog-of-war).
