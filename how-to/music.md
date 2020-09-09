@@ -2,7 +2,7 @@
 title: Play music in the background
 description: 
 published: true
-date: 2020-09-09T17:19:59.384Z
+date: 2020-09-09T17:47:35.013Z
 tags: 
 editor: markdown
 ---
@@ -20,4 +20,4 @@ Now click on the title of your playlist recently created. You can add full YouTu
 Once your playlist is created, you can close the manager, and play the playlist for the whole table by selecting it in *Quick Play one of your playlist* and clicking on play.
 
 # Play a playlist when loading a scene
-See: Scene
+See: [Scene](/en/advanced/scene#play-when-loading)
