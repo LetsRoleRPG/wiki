@@ -2,7 +2,7 @@
 title: How to use tokens?
 description: 
 published: true
-date: 2020-09-09T17:58:30.892Z
+date: 2020-09-09T20:31:01.886Z
 tags: 
 editor: markdown
 ---
@@ -10,16 +10,16 @@ editor: markdown
 Tokens represent entities on the scene, like characters or monsters.
 
 # Add a token to the scene
-- For characters, drag'n drop the avatar from the left colone on the scene
-- For crafts, drag'n drop the craft from the *Content Crafting* dock
+- For characters, drag'n drop the avatar from the left coloumn to the scene
+- For crafts, drag'n drop the craft from the *Content Crafting* dock to the scene
 
 # Tokens options
-By right clicking on a token, several options are available:
+By right clicking on a token, several options will be available:
 
 ![token.png](/medias/token.png)
 
 ## Open character sheet
-By double-clicking on the token, or by clicking on *Character sheet*, you can open the sheet linked to the token (if you are granted the autorisation).
+By double-clicking on the token, or by clicking on *Character sheet*, you will be able to open the sheet linked to the token (if you are authorized to do so by your GM).
 
 ## Barres
 By clicking on *Bars*, you can configure bars around the token. Usually, bars represent resources linked to the token, like hit points or mana points.
