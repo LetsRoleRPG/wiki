@@ -2,7 +2,7 @@
 title: How to start as a GM ?
 description: 
 published: true
-date: 2020-09-09T12:04:01.982Z
+date: 2020-09-09T12:05:32.327Z
 tags: 
 editor: markdown
 ---
@@ -24,4 +24,4 @@ Find the *Scene* dock on the screen, then click on *Media Manager*.
 In the *Media Manager*, click on the *Partners Content* tab on the left. Choose a map that you like, and drag'n drop it on the white background of the scene. The picture should appear in the background. You can now close the *Media Manager* and right-click on the picture, and click on *Adapt Scene to Image*. Congratulations, your first scene is ready!
 
 ## Upload a map
-Si you've already downloaded a map and wish to use it, click on *Click here to upload media* and browse your hard drive to find the map. Once the picture is selected, it will be automatically uploaded and should appear as a thumbnail in the media list. Drag'n drop this thumbnail on the white background of the scene, and the picture should appear full size on the scene. You can now close the *Media Manager* and right-click on the picture then click on *Adapt Scene to Image*. Your scene with a custom background is ready!
+If you've already downloaded a map and wish to use it, click on *Click here to upload media* and browse your hard drive to find the map. Once the picture is selected, it will be automatically uploaded and should appear as a thumbnail in the media list. Drag'n drop this thumbnail on the white background of the scene, and the picture should appear full size on the scene. You can now close the *Media Manager* and right-click on the picture and then click on *Adapt Scene to Image*. Your scene with a custom background is ready!
