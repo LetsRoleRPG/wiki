@@ -2,15 +2,15 @@
 title: Fog of War
 description: 
 published: true
-date: 2020-09-09T17:29:27.584Z
+date: 2020-09-09T20:26:43.085Z
 tags: 
 editor: markdown
 ---
 
-Fog of War is a tool used to easily reveal a zone steps by steps (like the rooms of a dungeon). The areas not revealed by the GM are transparent for the players.
+Fog of War is a tool used to easily reveal a zone steps by steps (like the rooms of a dungeon). The areas not revealed by the GM are not visible to the players.
 
 # Enable Fog of War
-In the *Scene* dock, find the cog on the right of the name of your scene and click it. Options for the scene will show up, and inside them you should find an option *Fog of War*. Click on the checkbox to enable it.
+In the *Scene* dock, find the cog on the right of the name of your scene and click it. The options for the scene will show up, and inside them you should find an option *Fog of War*. Click on the checkbox to enable it.
 
 ![scene.png](/medias/scene.png)
 
@@ -24,4 +24,4 @@ The first three tools allow you to reveal zones:
 - By rectangle: press down the mouse button to start to draw the zone, and release the button to reveal
 - "*All*" allows you to display the whole scene
 
-The 3 tools in *Hide* work exactly the same, but are used to hide zones instead of revealing them.
+The 3 tools located in *Hide* work in the exact same way, but are used to hide zones instead of revealing them.
