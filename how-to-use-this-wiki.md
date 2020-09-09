@@ -2,7 +2,7 @@
 title: How to use this Wiki?
 description: 
 published: true
-date: 2020-09-09T17:08:46.766Z
+date: 2020-09-09T17:10:21.526Z
 tags: 
 editor: markdown
 ---
@@ -50,10 +50,10 @@ You can see the changes that you've done compared to the original file.
 Click on **Create pull request**, tell us what you modified in the form, then click again on **Create pull request**.
 
 ### Wait for your edits to be validated
-The Let's Role moderators will proof read your edits, and if everything's alright, accept the pull request. If there is a problem, a comment will tell you what it is. Once the pull request accepted, your edit should be soon on the wiki site.
+The Let's Role [moderators](/en/staff) will proof read your edits, and if everything's alright, accept the pull request. If there is a problem, a comment will tell you what it is. Once the pull request accepted, your edit should be soon on the wiki site.
 
 # Ask for write access
-If you've already made a lot of edits with success, or that you're a trusted member of our community, you can contact on of the moderators to ask for a direct access to the wiki. Then you'll be able to edit pages without using github.
+If you've already made a lot of edits with success, or that you're a trusted member of our community, you can contact on of the [moderators](/en/staff) to ask for a direct access to the wiki. Then you'll be able to edit pages without using github.
 
 # Licence
 All the pages in this wiki are under the *Creative Commons Attribution-NonCommercial License*, which mean you are free to share and adapt the content, but you need to give attribution (with at least a link to this wiki) and you cannot use the content for commercial purpose.
