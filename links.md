@@ -2,7 +2,7 @@
 title: Useful links
 description: 
 published: true
-date: 2020-09-09T17:33:35.290Z
+date: 2020-09-10T06:36:46.320Z
 tags: 
 editor: markdown
 ---
@@ -13,6 +13,6 @@ editor: markdown
 - [YouTube Channel *Demos, Features introduction, etc.*](https://www.youtube.com/channel/UCAS4mytue3sYAbQlABhdeSA)
 - [Twitter](https://twitter.com/LetsRoleRPG)
 - [Facebook](https://www.facebook.com/LetsRoleRPG)
-- [Out forum *Chat at a slow pace with the community here*](https://community.lets-role.com/)
+- [Our forum *Chat at a slow pace with the community here*](https://community.lets-role.com/)
 - [List of all the systems created by the community](https://community.lets-role.com/c/system-builder/17)
 {.links-list}
