@@ -2,7 +2,7 @@
 title: How to use this Wiki?
 description: 
 published: true
-date: 2020-09-09T19:27:41.613Z
+date: 2020-09-10T08:14:37.539Z
 tags: 
 editor: markdown
 ---
@@ -26,10 +26,10 @@ The *wiki* project has now been cloned in your namespace. Browse the folders to 
 
 ![github-page-example.png](/medias/github-page-example.png)
 
-Now, click on the small edit icon on right of *Raw | Blame*. You will end up in a text editor where you can make your edits.
+Now, click on the small edit icon on the right of *Raw | Blame*. You will end up in a text editor where you can make your edits.
 
 ### Data & Syntax
-Yo will notice that the page starts with a list surrounded by *---*. You can change the title of the page here, but you should not edit any other information in this list.
+You will notice that the page starts with a list surrounded by *---*. You can change the title of the page here, but you should not edit any other information in this list.
 
 To format the text under the *---*, use the [markdown syntax](https://www.markdownguide.org/basic-syntax/).
 
@@ -43,9 +43,9 @@ The changes you made are now saved, but only on your clone. You will now need to
 
 Then click on the link **compare across forks**.
 
-In *base repository*, keep LetsRoleRPG/wiki, and in *head repository*, choose your fork (if your github username is kitten, choose *kitten/wiki*).
+In *base repository*, keep LetsRoleRPG/wiki, and in *head repository*, choose your fork (if your github username is *kitten*, choose *kitten/wiki*).
 
-You can see the changes that you did compared to the original file.
+You can see the changes that you made compared to the original file.
 
 Click on **Create pull request**, tell us what you modified in the form, then click again on **Create pull request**.
 
