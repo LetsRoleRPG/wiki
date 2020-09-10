@@ -2,7 +2,7 @@
 title: System Builder
 description: 
 published: true
-date: 2020-09-04T14:00:18.084Z
+date: 2020-09-10T09:12:30.811Z
 tags: 
 editor: markdown
 ---
@@ -12,13 +12,13 @@ This is the documentation for Let's Role's **System Builder**. You will find her
 # General
 * [Workflow *How are systems managed ?*](/system-builder/general/workflow) 
 * [Guidelines *General tips for a good system*](/system-builder/general/guidelines)
-* [Styling *How to design your system*](/system-builder/general/workflow) 
-* [Rolling Dice *How to roll advanced dice*](/system-builder/general/workflow) 
-* [References *Referencing one part of the sheet in another*](/system-builder/general/workflow) 
-* [Variables *Using globally defined variables*](/system-builder/general/workflow) 
-* [Computed Values *Advanced computation without scripting*](/system-builder/general/workflow) 
-* [Context Variables *Display information related to a block*](/system-builder/general/workflow) 
-* [Translations *How to translate your system in different languages*](/system-builder/general/workflow) 
+* [Styling *How to design your system*](/en/system-builder/general/styling) 
+* [Rolling Dice *How to roll advanced dice*](/en/system-builder/general/rolling-dice) 
+* [References *Referencing one part of the sheet in another*](/en/system-builder/general/references) 
+* [Variables *Using globally defined variables*](/en/system-builder/general/variables) 
+* [Computed Values *Advanced computation without scripting*](/en/system-builder/general/computed-values) 
+* [Context Variables *Display information related to a block*](/en/system-builder/general/context-variables) 
+* [Translations *How to translate your system in different languages*](/en/system-builder/general/translations) 
 {.links-list}
 
 # Components
