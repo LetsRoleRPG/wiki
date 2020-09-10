@@ -2,7 +2,7 @@
 title: Sheet
 description: 
 published: true
-date: 2020-09-04T12:52:19.252Z
+date: 2020-09-10T10:43:10.340Z
 tags: 
 editor: markdown
 ---
@@ -34,6 +34,9 @@ sheet.setData({
     //...
 });
 ```
+
+## `.prompt(title, view, callback)
+See: [Prompt API](/en/system-builder/scripting/prompt)
 
 ## `id()`
 Return: `string`
