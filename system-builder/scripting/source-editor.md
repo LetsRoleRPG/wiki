@@ -2,7 +2,7 @@
 title: Directly editing the source of the tree
 description: 
 published: true
-date: 2020-09-11T12:30:20.542Z
+date: 2020-09-11T12:30:47.399Z
 tags: 
 editor: markdown
 ---
@@ -106,4 +106,11 @@ Value can be either `left` or `right`.
 ## Textarea
 ### placeholder `string`
 ### defaultValue `string`
+Also used for the computed value.
+### computed `boolean`
+
+## TextInput
+### placeholder `string`
+### defaultValue `string`
+Also used for the computed value.
 ### computed `boolean`
