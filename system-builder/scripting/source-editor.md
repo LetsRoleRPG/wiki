@@ -2,7 +2,7 @@
 title: Directly editing the source of the tree
 description: 
 published: true
-date: 2020-09-11T12:26:37.488Z
+date: 2020-09-11T12:30:20.542Z
 tags: 
 editor: markdown
 ---
@@ -82,3 +82,28 @@ The "roll on click" value
 Either `Left`, `Right` or `Center`
 ### computed `boolean`
 ### computedValue `string`
+
+## Repeater
+### readViewId `string`
+The view for reading data.
+### viewId `string`
+The view for editing data.
+
+## Tab
+### tableId `string`
+The table where the tab data is stored
+### titleAttribute `string`
+The name of the column storing the title of the tab
+### viewAttribute `string`
+The name of the column storing the view id of the tab
+### vertical `boolean`
+### verticalWidth `number`
+### verticalText `boolean`
+Display the text also vertically
+### verticalAlign `string`
+Value can be either `left` or `right`.
+
+## Textarea
+### placeholder `string`
+### defaultValue `string`
+### computed `boolean`
