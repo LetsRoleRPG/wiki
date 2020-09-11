@@ -2,7 +2,7 @@
 title: Directly editing the source of the tree
 description: 
 published: true
-date: 2020-09-11T12:30:47.399Z
+date: 2020-09-11T12:33:04.016Z
 tags: 
 editor: markdown
 ---
@@ -114,3 +114,17 @@ Also used for the computed value.
 ### defaultValue `string`
 Also used for the computed value.
 ### computed `boolean`
+
+## View
+### type `string`
+The type of the view, either `Main` or `SubComponent`.
+### craft `boolean`
+Is this view representing a craft ?
+### avatarId `string`
+The id of the avatar in this view
+### tokenizable `boolean`
+For crafts, if they can have tokens
+### droppable `boolean`
+For crafts, if they can be dropped on a sheet
+### width `number`
+### height `number`
