@@ -2,7 +2,7 @@
 title: System Builder
 description: 
 published: true
-date: 2020-09-10T09:12:30.811Z
+date: 2020-09-11T12:35:15.341Z
 tags: 
 editor: markdown
 ---
@@ -37,6 +37,9 @@ This is the documentation for Let's Role's **System Builder**. You will find her
 * [Avatar](/system-builder/component/avatar)
 * [Color](/system-builder/component/color)
 * [Icon](/system-builder/component/icon) 
+{.links-list}
+---
+* [Directly editing the source of the tree](/en/system-builder/scripting/source-editor) 
 {.links-list}
 
 # Scripting
