@@ -2,7 +2,7 @@
 title: Directly editing the source of the tree
 description: 
 published: true
-date: 2020-09-11T12:25:00.017Z
+date: 2020-09-11T12:26:37.488Z
 tags: 
 editor: markdown
 ---
@@ -74,4 +74,11 @@ Can the label be put in the quickbar
 ### roll `string`
 The "roll on click" value
 
-##
+## NumberInput
+### min `number`
+### max `number`
+### defaultValue `number`
+### align `string`
+Either `Left`, `Right` or `Center`
+### computed `boolean`
+### computedValue `string`
