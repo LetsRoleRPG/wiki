@@ -2,12 +2,12 @@
 title: Directly editing the source of the tree
 description: 
 published: true
-date: 2020-09-11T12:33:04.016Z
+date: 2020-09-11T12:35:37.823Z
 tags: 
 editor: markdown
 ---
 
-If you know what you are doing, you can edit the source of the tree by clicking *Source Editor*.
+If you know what you are doing, you can edit the source of the tree by clicking on *Source Editor*.
 
 > We do not recommand using the source editor if you do not know how to manage JSON document. It's very easy to break the whole system you're building.
 {.is-warning}
