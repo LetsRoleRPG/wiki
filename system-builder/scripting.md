@@ -2,12 +2,16 @@
 title: Scripting
 description: 
 published: true
-date: 2020-09-13T09:44:21.304Z
+date: 2020-09-13T09:45:44.408Z
 tags: 
 editor: markdown
 ---
 
 # Scripting
+Use scripting to make incredible and advanced features to your systems.
+
+Scripting uses a subset of the **javascript** language.
+
 * [Global *Functions that can be used in the global scope*](/system-builder/scripting/global)
 * [Sheet *Class that represents a character or craft*](/system-builder/scripting/sheet)
 * [Component *Class that represents a single component*](/system-builder/scripting/component)
