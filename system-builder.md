@@ -2,7 +2,7 @@
 title: System Builder
 description: 
 published: true
-date: 2020-09-11T12:35:15.341Z
+date: 2020-09-13T09:45:26.744Z
 tags: 
 editor: markdown
 ---
@@ -43,6 +43,10 @@ This is the documentation for Let's Role's **System Builder**. You will find her
 {.links-list}
 
 # Scripting
+Use scripting to make incredible and advanced features to your systems.
+
+Scripting uses a subset of the **javascript** language.
+
 * [Global *Functions that can be used in the global scope*](/system-builder/scripting/global)
 * [Sheet *Class that represents a character or craft*](/system-builder/scripting/sheet)
 * [Component *Class that represents a single component*](/system-builder/scripting/component)
