@@ -2,7 +2,7 @@
 title: Sheet
 description: 
 published: true
-date: 2020-09-10T10:43:30.797Z
+date: 2020-09-14T11:43:48.771Z
 tags: 
 editor: markdown
 ---
@@ -42,3 +42,8 @@ See: [Prompt API](/en/system-builder/scripting/prompt)
 Return: `string`
 
 The id of the sheet (ie the id of the top view component).
+
+## `name()`
+Return: `string`
+
+The name of the sheet.
