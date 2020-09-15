@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T21:34:32.260Z
+date: 2020-09-15T21:34:56.926Z
 tags: 
 editor: markdown
 ---
@@ -37,7 +37,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Ethera                                      | Aidymouse     | EN       | [Ethera](https://alpha.lets-role.com/sy/JxpXpZmL0r7gXW1F)                              | [Ethera](https://community.lets-role.com/t/ethera-character-sheet/1883)  |
 | Everyone is John                            | Dyzae         | EN       | [Everyone is John](https://alpha.lets-role.com/sy/gLzij9EAlSsfGwp9)                    | [Everyone is John](https://community.lets-role.com/t/everyone-is-john/1457)  |
 | The Fantasy Trip                            | Aidymouse     | EN       | [Fantasy Trip](https://alpha.lets-role.com/sy/YWXHcLGsHfApOVdg)                        | [The Fantasy Trip](https://community.lets-role.com/t/the-fantasy-trip/1887)  |
-| Freeform Universal                          | Fanfan        | FR / EN  | [Freeform Universal](https://alpha.lets-role.com/sy/cWhE0GXVhstVtMqo)      | [Freeform Universal by Nathan Russel](https://community.lets-role.com/t/freeform-universal-by-nathan-russel-en-fr-f/3590)  |
+| Freeform Universal                          | Fanfan        | FR / EN  | [Freeform Universal](https://alpha.lets-role.com/sy/cWhE0GXVhstVtMqo)                  | [Freeform Universal by Nathan Russel](https://community.lets-role.com/t/freeform-universal-by-nathan-russel-en-fr-f/3590)  |
 | Green Dawn Mall                             | CaiusRomanus  | EN       | [Green Dawn Mall](https://alpha.lets-role.com/sy/rYZOloYj8erWfROT)                     | [Green Dawn Mall](https://community.lets-role.com/t/green-dawn-mall/3219)              |
 | Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) |                                                                                                |
 | Monster of the Week                         | CaiusRomanus  | FR / EN  | [Monster of the Week](https://alpha.lets-role.com/sy/gq07E0ifDDLNUixt)                 | [Monster of the Week](https://community.lets-role.com/t/monster-of-the-week/3143)              |
