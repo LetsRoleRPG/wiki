@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T16:53:05.179Z
+date: 2020-09-15T16:57:15.748Z
 tags: 
 editor: markdown
 ---
@@ -27,6 +27,7 @@ All the systems above were created by the community and will be maintained by th
 | Cthulhu Hack 						                    | erkadae       | FR       | [Cthulhu Hack](https://alpha.lets-role.com/sy/l8PYbA0YqmSt0hHq)                        | [Cthulhu Hack](https://community.lets-role.com/t/cthulhu-hack-vf/3608)  |
 | Cyberpunk 2020						                  | JojoDeLanhuon | FR       | [Cyberpunk 2020](https://alpha.lets-role.com/sy/VvSQv9ZmAVLFnrs1)                      | [Cyberpunk 2020](https://community.lets-role.com/t/cyberpunk-2020-feuille-simple/2501)  |
 | Cypher System 						                  | JojoDeLanhuon | FR       | [Cypher System](https://alpha.lets-role.com/sy/Px8nYzIlz8NeXJZr)                       | [Cypher System](https://community.lets-role.com/t/cypher-system-work-in-progress/3539)  |
+| D-critique                                  | Sunder        | FR       | [D-critique](https://alpha.lets-role.com/sy/beRIpqP8UeTS9x1K)                          | [D-critique](https://community.lets-role.com/t/fiche-personnage-pour-le-systeme-d-critique/3068)  |
 | Doctor Who (Cubible 7)                      | garthh        | FR / EN  | [Doctor Who](https://alpha.lets-role.com/sy/V7CeyvKBYCIGbpan)                          | [Doctor Who](https://community.lets-role.com/t/doctor-who-rpg-cubicle-7/2655)  |
 | Dominion: Jeux de pouvoir et Maisons nobles | Zracoh        | FR       | [Dominion](https://alpha.lets-role.com/sy/3puTDbPSL6s8i1OE)                            | [Dominion](https://community.lets-role.com/t/dominion-jeux-de-pouvoir-et-maisons-nobles/3043)  |
 | Dragon Age                                  | Sykelig       | FR / EN  | [Dragon Age](https://alpha.lets-role.com/sy/H08wbadmiLtoAVfl)                          | [Dragon Age](https://community.lets-role.com/t/dragon-age-fr-eng-work-in-progress/4354)            |
