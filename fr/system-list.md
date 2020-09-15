@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T21:34:56.926Z
+date: 2020-09-15T21:39:13.810Z
 tags: 
 editor: markdown
 ---
@@ -39,6 +39,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | The Fantasy Trip                            | Aidymouse     | EN       | [Fantasy Trip](https://alpha.lets-role.com/sy/YWXHcLGsHfApOVdg)                        | [The Fantasy Trip](https://community.lets-role.com/t/the-fantasy-trip/1887)  |
 | Freeform Universal                          | Fanfan        | FR / EN  | [Freeform Universal](https://alpha.lets-role.com/sy/cWhE0GXVhstVtMqo)                  | [Freeform Universal by Nathan Russel](https://community.lets-role.com/t/freeform-universal-by-nathan-russel-en-fr-f/3590)  |
 | Green Dawn Mall                             | CaiusRomanus  | EN       | [Green Dawn Mall](https://alpha.lets-role.com/sy/rYZOloYj8erWfROT)                     | [Green Dawn Mall](https://community.lets-role.com/t/green-dawn-mall/3219)              |
+| Héros & Dragons                             | Alex2212 & Ocleos  | FR       | [Héros & Dragons](https://alpha.lets-role.com/sy/jetaLJWIu1sbhoQX)                | [Héros & Dragons](https://community.lets-role.com/t/heros-dragons/1675)              |
 | Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) |                                                                                                |
 | Monster of the Week                         | CaiusRomanus  | FR / EN  | [Monster of the Week](https://alpha.lets-role.com/sy/gq07E0ifDDLNUixt)                 | [Monster of the Week](https://community.lets-role.com/t/monster-of-the-week/3143)              |
 | Les Ombres d'Esteren                        | Theo          | FR       | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)                |                                                                                                |
