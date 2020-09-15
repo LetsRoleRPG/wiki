@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T22:17:48.434Z
+date: 2020-09-15T22:24:04.280Z
 tags: 
 editor: markdown
 ---
@@ -68,3 +68,4 @@ All the systems above were created by the community and will be maintained by th
 | Warhammer Fantasy Role Play V4              | Skas          | FR       | [WFRP4](https://alpha.lets-role.com/sy/8O43ELHETUdFV8mf)                               | [WFRP4](https://community.lets-role.com/t/warhammer-fantasy-role-play-v4-wfrp4-cubicle-7/2952) |
 | Warhammer V4                                | Stakhanovitch | FR       | [Warhammer V4](https://alpha.lets-role.com/sy/Yitn3r9IsKPdcCqe)                        |                                                                                                |
 | Within                                      | Neuralnoise   | FR       | [Within](https://alpha.lets-role.com/sy/fGtIGjVrif5viWqB)                              |                                                                                                |
+| XVII - Au Fil de l’âme                      | NicoTex       | FR       | [XVII - Au Fil de l’âme](https://alpha.lets-role.com/sy/8FRbmHXRWDXpChen)               | [XVII - Au Fil de l’âme](https://community.lets-role.com/t/within-le-jeu-dhorreur-sans-de/2434)    |
