@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T22:06:54.324Z
+date: 2020-09-15T22:17:28.019Z
 tags: 
 editor: markdown
 ---
@@ -43,6 +43,7 @@ All the systems above were created by the community and will be maintained by th
 | Harry Potter Wolrd                          | Kurblink      | FR       | [Harry Potter Wolrd](https://alpha.lets-role.com/sy/JbYAOAeoA02H1Eqh)                  | [Harry Potter Wolrd](https://community.lets-role.com/t/jdr-harry-potter-wolrd/4264)              |
 | Héros & Dragons                             | Alex2212 & Ocleos  | FR  | [Héros & Dragons](https://alpha.lets-role.com/sy/jetaLJWIu1sbhoQX)                     | [Héros & Dragons](https://community.lets-role.com/t/heros-dragons/1675)              |
 | Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) |                                                                                                |
+| Kémi                                        | Verdad        | FR       | [Kémi](https://alpha.lets-role.com/sy/hgDYS7KLBAGSNU9B)                                | [Kémi](https://community.lets-role.com/t/systeme-pour-kemi/3542)              |
 | Knight v1.5                                 | Stram         | FR       | [Knight v1.5](https://alpha.lets-role.com/sy/sdyMdRoDETvoBvyv)                         | [JDR Knight v1.5](https://community.lets-role.com/t/jdr-knight-v1-5/3728)              |
 | Meute                                       | Verdad        | FR       | [Meute](https://alpha.lets-role.com/sy/VF1vxFsipVkD0FMU)                               | [Meute](https://community.lets-role.com/t/meute-feuille-de-personnage-et-de-meute/2773)              |
 | Mindjammer (FATE)                           | Caine_Dombre  | FR       | [Mindjammer (FATE)](https://alpha.lets-role.com/sy/YHMLcydYqIZMQ33E)                   | [Mindjammer (FATE)](https://community.lets-role.com/t/mindjammer-fate/2221)              |
@@ -51,11 +52,16 @@ All the systems above were created by the community and will be maintained by th
 | Neon City Overdrive                         | Aeciobf       | EN       | Not release                                                                            | [Neon City Overdrive](https://community.lets-role.com/t/neon-city-overdrive/4006)              |
 | Nephilim Légende                            | Bruzbros & Garthh     | FR       | [Nephilim Légende](https://alpha.lets-role.com/sy/uNT71qsOj36rRAKl)            | [Nephilim Légende](https://community.lets-role.com/t/nephilim-legende/2610)              |
 | Noc                                         | Verdad        | FR       | [Noc](https://alpha.lets-role.com/sy/51HLbciORB892J9G)                                 | [Noc](https://community.lets-role.com/t/noc-feuille-de-personnage-kit-dinitiation/2774)              |
-| Les Ombres d'Esteren                        | Theo          | FR       | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)                |                                                                                                |
+| Les Ombres d'Esteren / Shadows of Esteren   | Theo          | FR / EN      | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)            | [les Ombres d'Esteren](https://community.lets-role.com/t/shadows-of-esteren-ombres-desteren/2527)      |
 | Open Legend                                 | Vyzzini       | EN       | [Open Legend](https://alpha.lets-role.com/sy/vG49dp1GzCQlK3rf)                         | [Open Legend RPG](https://community.lets-role.com/t/open-legend-rpg/3823)              |
 | Oreste                                      | Ocleos        | FR       | [Oreste](https://alpha.lets-role.com/sy/7kuktJIhqOqCYIC1)                              | [Oreste](https://community.lets-role.com/t/oreste-vf-wip/3286)              |
 | Pathfinder 1ed                              | Dyzae         | FR / EN  | [Pathfinder](https://alpha.lets-role.com/sy/JZkvSOv0SZzcz8Ty)                          | [Pathfinder 1ed](https://community.lets-role.com/t/pathfinder-1-edition/3077)            |
 | Pavillon Noir 2ed                           | Jetman        | FR       | [Pavillon Noir 2ed](https://alpha.lets-role.com/sy/znU0dLEVTvVKcGLf)                   | [Pavillon Noir 2ed](https://community.lets-role.com/t/pavillon-noir-deuxieme-edition/2869)            |
+| Ryuutama : Les oeufs de dragons             | Indemmar      | FR       | [Ryuutama](https://alpha.lets-role.com/sy/Zu5VoPqnE7PIKpv6)                            | [Ryuutama : Les oeufs de dragons](https://community.lets-role.com/t/ryuutama-les-oeufs-de-dragons/2124)            |
+| SAWO Rifts                                  | TheUnicorn    | FR       | [SAWO Rifts](https://alpha.lets-role.com/sy/WFc202MFaQulTDy8)                          | [SAWO Rifts](https://community.lets-role.com/t/sawo-rifts-francais/1954)              |
+| Shadowrun 5                                 | Theclawfr     | FR       | [Shadowrun 5](https://alpha.lets-role.com/sy/s8YI0GL216eOL4ua)                         | [Shadowrun 5](https://community.lets-role.com/t/shadowrun-5-work-in-progress/1939)              |
+| Shadowrun Anarchy                           | Neuralnoise   | FR       | [Shadowrun Anarchy](https://alpha.lets-role.com/sy/bOHIDVN9VhjpI82H)                   | [Shadowrun Anarchy](https://community.lets-role.com/t/shadowrun-anarchy/2946)              |
+| Starfinder                                  | Actarus        | FR       | [Starfinder](https://alpha.lets-role.com/sy/cH4Uap2v6n8DAzJK)                          | [Starfinder](https://community.lets-role.com/t/starfinder-avec-dnd5/3411)              |
 | Tiny                                        | Jetman        | FR       | [Tiny](https://alpha.lets-role.com/sy/8ZIghWOFvz5LDioG)                                |                                                                                                |
 | Vampire la mascarade 20e anniv              | Dyzae         | FR / EN  | [Vampire la mascarade 20e anniv](https://alpha.lets-role.com/sy/uqwI6owuvt6KB1Ff)      | [Vampire la mascarade 20e anniv](https://community.lets-role.com/t/vampire-la-mascarade-20e-annif/1188/) |
 | Vampire la mascarade v5                     | Reiaka        | FR / EN  | [Vampire la mascarade 5ed](https://alpha.lets-role.com/sy/ldXo3kinfYR5KSiL)            | [Vampire la mascarade 5d](https://community.lets-role.com/t/vampire-la-mascarade-5e-edition/1618) |
