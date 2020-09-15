@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T21:47:49.072Z
+date: 2020-09-15T21:50:51.095Z
 tags: 
 editor: markdown
 ---
@@ -44,6 +44,8 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Héros & Dragons                             | Alex2212 & Ocleos  | FR       | [Héros & Dragons](https://alpha.lets-role.com/sy/jetaLJWIu1sbhoQX)                | [Héros & Dragons](https://community.lets-role.com/t/heros-dragons/1675)              |
 | Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) |                                                                                                |
 | Knight v1.5                                 | Stram         | FR       | [Knight v1.5](https://alpha.lets-role.com/sy/sdyMdRoDETvoBvyv)                | [JDR Knight v1.5](https://community.lets-role.com/t/jdr-knight-v1-5/3728)              |
+| Meute                                       | Verdad        | FR       | [Meute](https://alpha.lets-role.com/sy/VF1vxFsipVkD0FMU)                | [Meute](https://community.lets-role.com/t/meute-feuille-de-personnage-et-de-meute/2773)              |
+| Mindjammer (FATE)                           | Caine_Dombre  | FR       | [Mindjammer (FATE)](https://alpha.lets-role.com/sy/YHMLcydYqIZMQ33E)                | [Mindjammer (FATE)](https://community.lets-role.com/t/mindjammer-fate/2221)              |
 | Monster of the Week                         | CaiusRomanus  | FR / EN  | [Monster of the Week](https://alpha.lets-role.com/sy/gq07E0ifDDLNUixt)                 | [Monster of the Week](https://community.lets-role.com/t/monster-of-the-week/3143)              |
 | Les Ombres d'Esteren                        | Theo          | FR       | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)                |                                                                                                |
 | Pathfinder 1ed                              | Dyzae         | FR / EN  | [Pathfinder](https://alpha.lets-role.com/sy/JZkvSOv0SZzcz8Ty)                          | [Pathfinder 1ed](https://community.lets-role.com/t/pathfinder-1-edition/3077)            |
