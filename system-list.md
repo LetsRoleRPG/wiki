@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T16:57:15.748Z
+date: 2020-09-15T17:10:27.293Z
 tags: 
 editor: markdown
 ---
@@ -36,6 +36,8 @@ All the systems above were created by the community and will be maintained by th
 | Escape from Dino Island                     | Caius Romanus | FR       | [Escape from Dino Island](https://alpha.lets-role.com/sy/Ew6Igd6Sx1WP1goe)             | [Escape from Dino Island](https://community.lets-role.com/t/escape-from-dino-island/3321)  |
 | Ethera                                      | Aidymouse     | EN       | [Ethera](https://alpha.lets-role.com/sy/JxpXpZmL0r7gXW1F)                              | [Ethera](https://community.lets-role.com/t/ethera-character-sheet/1883)  |
 | Everyone is John                            | Dyzae         | EN       | [Everyone is John](https://alpha.lets-role.com/sy/gLzij9EAlSsfGwp9)                    | [Everyone is John](https://community.lets-role.com/t/everyone-is-john/1457)  |
+| The Fantasy Trip                            | Aidymouse     | EN       | [Fantasy Trip](https://alpha.lets-role.com/sy/YWXHcLGsHfApOVdg)                        | [The Fantasy Trip](https://community.lets-role.com/t/the-fantasy-trip/1887)  |
+| Freeform Universal                          | Fanfan        | FR / EN  | [Freeform Universal](https://alpha.lets-role.com/sy/cWhE0GXVhstVtMqo)      | [Freeform Universal by Nathan Russel](https://community.lets-role.com/t/freeform-universal-by-nathan-russel-en-fr-f/3590)  |
 | Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) |                                                                                                |
 | Monster of the Week                         | CaiusRomanus  | FR / EN  | [Monster of the Week](https://alpha.lets-role.com/sy/gq07E0ifDDLNUixt)                 | [Monster of the Week](https://community.lets-role.com/t/monster-of-the-week/3143)              |
 | Les Ombres d'Esteren                        | Theo          | FR       | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)                |                                                                                                |
