@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T22:18:23.865Z
+date: 2020-09-15T22:18:37.990Z
 tags: 
 editor: markdown
 ---
@@ -61,7 +61,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | SAWO Rifts                                  | TheUnicorn    | FR       | [SAWO Rifts](https://alpha.lets-role.com/sy/WFc202MFaQulTDy8)                          | [SAWO Rifts](https://community.lets-role.com/t/sawo-rifts-francais/1954)              |
 | Shadowrun 5                                 | Theclawfr     | FR       | [Shadowrun 5](https://alpha.lets-role.com/sy/s8YI0GL216eOL4ua)                         | [Shadowrun 5](https://community.lets-role.com/t/shadowrun-5-work-in-progress/1939)              |
 | Shadowrun Anarchy                           | Neuralnoise   | FR       | [Shadowrun Anarchy](https://alpha.lets-role.com/sy/bOHIDVN9VhjpI82H)                   | [Shadowrun Anarchy](https://community.lets-role.com/t/shadowrun-anarchy/2946)              |
-| Starfinder                                  | Actarus        | FR       | [Starfinder](https://alpha.lets-role.com/sy/cH4Uap2v6n8DAzJK)                          | [Starfinder](https://community.lets-role.com/t/starfinder-avec-dnd5/3411)              |
+| Starfinder                                  | Actarus        | FR       | [Starfinder](https://alpha.lets-role.com/sy/cH4Uap2v6n8DAzJK)                         | [Starfinder](https://community.lets-role.com/t/starfinder-avec-dnd5/3411)              |
 | Tiny                                        | Jetman        | FR       | [Tiny](https://alpha.lets-role.com/sy/8ZIghWOFvz5LDioG)                                |                                                                                                |
 | Vampire la mascarade 20e anniv              | Dyzae         | FR / EN  | [Vampire la mascarade 20e anniv](https://alpha.lets-role.com/sy/uqwI6owuvt6KB1Ff)      | [Vampire la mascarade 20e anniv](https://community.lets-role.com/t/vampire-la-mascarade-20e-annif/1188/) |
 | Vampire la mascarade v5                     | Reiaka        | FR / EN  | [Vampire la mascarade 5ed](https://alpha.lets-role.com/sy/ldXo3kinfYR5KSiL)            | [Vampire la mascarade 5d](https://community.lets-role.com/t/vampire-la-mascarade-5e-edition/1618) |
