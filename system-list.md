@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T22:27:12.261Z
+date: 2020-09-15T22:29:12.212Z
 tags: 
 editor: markdown
 ---
@@ -42,7 +42,7 @@ All the systems above were created by the community and will be maintained by th
 | Green Dawn Mall                             | CaiusRomanus  | EN       | [Green Dawn Mall](https://alpha.lets-role.com/sy/rYZOloYj8erWfROT)                     | [Green Dawn Mall](https://community.lets-role.com/t/green-dawn-mall/3219)              |
 | Harry Potter Wolrd                          | Kurblink      | FR       | [Harry Potter Wolrd](https://alpha.lets-role.com/sy/JbYAOAeoA02H1Eqh)                  | [Harry Potter Wolrd](https://community.lets-role.com/t/jdr-harry-potter-wolrd/4264)              |
 | Héros & Dragons                             | Alex2212 & Ocleos  | FR  | [Héros & Dragons](https://alpha.lets-role.com/sy/jetaLJWIu1sbhoQX)                     | [Héros & Dragons](https://community.lets-role.com/t/heros-dragons/1675)              |
-| Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) |                                                                                                |
+| Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) | [into the Odd](https://community.lets-role.com/t/into-the-odd-electricbastionland/2947)       |
 | Kémi                                        | Verdad        | FR       | [Kémi](https://alpha.lets-role.com/sy/hgDYS7KLBAGSNU9B)                                | [Kémi](https://community.lets-role.com/t/systeme-pour-kemi/3542)              |
 | Knight v1.5                                 | Stram         | FR       | [Knight v1.5](https://alpha.lets-role.com/sy/sdyMdRoDETvoBvyv)                         | [JDR Knight v1.5](https://community.lets-role.com/t/jdr-knight-v1-5/3728)              |
 | Meute                                       | Verdad        | FR       | [Meute](https://alpha.lets-role.com/sy/VF1vxFsipVkD0FMU)                               | [Meute](https://community.lets-role.com/t/meute-feuille-de-personnage-et-de-meute/2773)              |
