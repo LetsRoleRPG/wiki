@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-15T16:34:06.856Z
+date: 2020-09-15T16:52:34.148Z
 tags: 
 editor: markdown
 ---
@@ -31,6 +31,10 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Dominion: Jeux de pouvoir et Maisons nobles | Zracoh        | FR       | [Dominion](https://alpha.lets-role.com/sy/3puTDbPSL6s8i1OE)                            | [Dominion](https://community.lets-role.com/t/dominion-jeux-de-pouvoir-et-maisons-nobles/3043)  |
 | Dragon Age                                  | Sykelig       | FR / EN  | [Dragon Age](https://alpha.lets-role.com/sy/H08wbadmiLtoAVfl)                          | [Dragon Age](https://community.lets-role.com/t/dragon-age-fr-eng-work-in-progress/4354)            |
 | Dungeon Crawl Classics                      | Neuralnoise   | FR       | [Dungeon Crawl Classics](https://alpha.lets-role.com/sy/Hxj00ENML5eDAzkj)              | [Dungeon Crawl Classics](https://community.lets-role.com/t/dungeon-crawl-classics-vf-wip/3557)  |
+| Ecryme - La geste des traveres              | Liesunder68   | FR       | [Ecryme](https://alpha.lets-role.com/sy/taWjEWS2eA8xMzh8)                              | [Ecryme](https://community.lets-role.com/t/ecryme-la-geste-des-traveres/2432)  |
+| Escape from Dino Island                     | Caius Romanus | FR       | [Escape from Dino Island](https://alpha.lets-role.com/sy/Ew6Igd6Sx1WP1goe)             | [Escape from Dino Island](https://community.lets-role.com/t/escape-from-dino-island/3321)  |
+| Ethera                                      | Aidymouse     | EN       | [Ethera](https://alpha.lets-role.com/sy/JxpXpZmL0r7gXW1F)                              | [Ethera](https://community.lets-role.com/t/ethera-character-sheet/1883)  |
+| Everyone is John                            | Dyzae         | EN       | [Everyone is John](https://alpha.lets-role.com/sy/gLzij9EAlSsfGwp9)                    | [Everyone is John](https://community.lets-role.com/t/everyone-is-john/1457)  |
 | Into the Odd / Electric BastionLand         | Neuralnoise   | FR       | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) |                                                                                                |
 | Monster of the Week                         | CaiusRomanus  | FR / EN  | [Monster of the Week](https://alpha.lets-role.com/sy/gq07E0ifDDLNUixt)                 | [Monster of the Week](https://community.lets-role.com/t/monster-of-the-week/3143)              |
 | Les Ombres d'Esteren                        | Theo          | FR       | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)                |                                                                                                |
