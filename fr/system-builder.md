@@ -7,55 +7,55 @@ tags:
 editor: markdown
 ---
 
-This is the documentation for Let's Role's **System Builder**. You will find here everything you need to start building a custom game system.
+Voici la documentation du **System Builder** de Let's Role. Vous trouverez ici tous ce dont vous aurez besoin pour commencer à créer votre système de jeu customisé.
 
-# General
-* [Workflow *How are systems managed ?*](/system-builder/general/workflow) 
-* [Guidelines *General tips for a good system*](/system-builder/general/guidelines)
-* [Styling *How to design your system*](/en/system-builder/general/styling) 
-* [Rolling Dice *How to roll advanced dice*](/en/system-builder/general/rolling-dice) 
-* [References *Referencing one part of the sheet in another*](/en/system-builder/general/references) 
-* [Variables *Using globally defined variables*](/en/system-builder/general/variables) 
-* [Computed Values *Advanced computation without scripting*](/en/system-builder/general/computed-values) 
-* [Context Variables *Display information related to a block*](/en/system-builder/general/context-variables) 
-* [Translations *How to translate your system in different languages*](/en/system-builder/general/translations) 
+# Géneralité
+* [Workflow *Comment les système sont-ils gérés ?*](/system-builder/general/workflow) 
+* [Indications *Conseils généraux pour un bon système*](/system-builder/general/guidelines)
+* [Mise en forme *Comment modifier l'aspect de votre système*](/en/system-builder/general/styling) 
+* [Jetter un dès *Comment jetter des dès compliqués sans script*](/en/system-builder/general/rolling-dice) 
+* [Réferences *Faire référence à une partie de la fiche dans une autre partie*](/en/system-builder/general/references) 
+* [Variables *Créer et user de variables définies globallement*](/en/system-builder/general/variables) 
+* [Calcul de valeurs *Faire des calculs avancés sans script*](/en/system-builder/general/computed-values) 
+* [Variables contextuelles *Faire référence et afficher les information d'un repeater ou d'un script*](/en/system-builder/general/context-variables) 
+* [Traduction *Comment traduire votre système dans une autre langue*](/en/system-builder/general/translations) 
 {.links-list}
 
-# Components
-* [View](/system-builder/component/view) 
-* [Row](/system-builder/component/row) 
-* [Column](/system-builder/component/column) 
-* [Label](/system-builder/component/label) 
-* [Number Input](/system-builder/component/number-input) 
-* [Text Input](/system-builder/component/text-input) 
-* [Textarea](/system-builder/component/textarea) 
-* [Checkbox](/system-builder/component/checkbox)
-* [Choice](/system-builder/component/choice)
-* [Container](/system-builder/component/container) 
-* [Repeater](/system-builder/component/repeater)
-* [Tabs](/system-builder/component/tabs)
+# Composant
+* [Vue/View](/system-builder/component/view) 
+* [Section/Row](/system-builder/component/row) 
+* [Colonne/Column](/system-builder/component/column) 
+* [Étiquette/Label](/system-builder/component/label) 
+* [Entrée numérique/Number Input](/system-builder/component/number-input) 
+* [Entrée textuelle/Text Input](/system-builder/component/text-input) 
+* [Aire de texte/Textarea](/system-builder/component/textarea) 
+* [Case à cocher/Checkbox](/system-builder/component/checkbox)
+* [Choix/Choice](/system-builder/component/choice)
+* [Conteneur/Container](/system-builder/component/container) 
+* [Répétiteur/Repeater](/system-builder/component/repeater)
+* [Onglet/Tabs](/system-builder/component/tabs)
 * [Avatar](/system-builder/component/avatar)
-* [Color](/system-builder/component/color)
+* [Couleur/Color](/system-builder/component/color)
 * [Icon](/system-builder/component/icon) 
 {.links-list}
 ---
-* [Directly editing the source of the tree](/en/system-builder/scripting/source-editor) 
+* [Editer directement l'arboressence à la source](/en/system-builder/scripting/source-editor) 
 {.links-list}
 
-# Scripting
-Use scripting to make incredible and advanced features to your systems.
+# Scripter
+Utiliser le script pour créer d'incroyable fonctionnalités avancée pour vos systèmes. 
 
-Scripting uses a subset of the **javascript** language.
+Les scripts utilisent un sous-ensemble du langage **javascript**. 
 
-* [Global *Functions that can be used in the global scope*](/system-builder/scripting/global)
-* [Sheet *Class that represents a character or craft*](/system-builder/scripting/sheet)
-* [Component *Class that represents a single component*](/system-builder/scripting/component)
-* [DiceBuilder *Class that allow fluid dice rolls creation*](/system-builder/scripting/dice-builder)
-* [DiceResult *How to interpret the result of a throw*](/system-builder/scripting/dice-result)
-* [Dice API *How to roll dice*](/system-builder/scripting/dice-api)
-* [Bindings API *How to display advanced information in the chat*](/system-builder/scripting/bindings)
-* [Prompt API *How to ask players for additionnal information*](/system-builder/scripting/prompt)
-* [Tables API *Data table access API*](/system-builder/scripting/tables)
-* [Utilities *Various useful tools*](/system-builder/scripting/utilities)
-* [Security *Check this page if you found a security breach*](/system-builder/scripting/security)
+* [Généralités *Les fonctions qui peuvent être utilisé dans le cadre global*](/system-builder/scripting/global)
+* [Fiche *Les fonctions utilisables sur un personnage ou un craft*](/system-builder/scripting/sheet)
+* [Composant *Les fonctions utilisables sur un composant*](/system-builder/scripting/component)
+* [Créateur de dès *Les fonctions qui permettent de créer des formules de lancer de dès*](/system-builder/scripting/dice-builder)
+* [Résultat de dès *Comment interpréter les résultats d'un lancé*](/system-builder/scripting/dice-result)
+* [API de lancer *Comment lancer les dès*](/system-builder/scripting/dice-api)
+* [API de tchat *Comment afficher des informations dans le tchat*](/system-builder/scripting/bindings)
+* [API de demandes *Comment demander au joueurs des informations adittionelles*](/system-builder/scripting/prompt)
+* [API des tableaux *API pour accèder aux données des tableaux*](/system-builder/scripting/tables)
+* [Outils *Les divers outils utiles*](/system-builder/scripting/utilities)
+* [Sécurité *Regarder cette page si vous avez trouvé une brèche dans la sécurité*](/system-builder/scripting/security)
 {.links-list}
