@@ -7,23 +7,23 @@ tags:
 editor: markdown
 ---
 
-# Components
-* [View](/system-builder/component/view) 
-* [Row](/system-builder/component/row) 
-* [Column](/system-builder/component/column) 
-* [Label](/system-builder/component/label) 
-* [Number Input](/system-builder/component/number-input) 
-* [Text Input](/system-builder/component/text-input) 
-* [Textarea](/system-builder/component/textarea) 
-* [Checkbox](/system-builder/component/checkbox)
-* [Choice](/system-builder/component/choice)
-* [Container](/system-builder/component/container) 
-* [Repeater](/system-builder/component/repeater)
-* [Tabs](/system-builder/component/tabs)
+# Composant
+* [Vue/View](/system-builder/component/view) 
+* [Section/Row](/system-builder/component/row) 
+* [Colonne/Column](/system-builder/component/column) 
+* [Étiquette/Label](/system-builder/component/label) 
+* [Entrée numérique/Number Input](/system-builder/component/number-input) 
+* [Entrée textuelle/Text Input](/system-builder/component/text-input) 
+* [Aire de texte/Textarea](/system-builder/component/textarea) 
+* [Case à cocher/Checkbox](/system-builder/component/checkbox)
+* [Choix/Choice](/system-builder/component/choice)
+* [Conteneur/Container](/system-builder/component/container) 
+* [Répétiteur/Repeater](/system-builder/component/repeater)
+* [Onglet/Tabs](/system-builder/component/tabs)
 * [Avatar](/system-builder/component/avatar)
-* [Color](/system-builder/component/color)
+* [Couleur/Color](/system-builder/component/color)
 * [Icon](/system-builder/component/icon) 
 {.links-list}
 ---
-* [Directly editing the source of the tree](/en/system-builder/scripting/source-editor) 
+* [Editer directement l'arboressence à la source](/en/system-builder/scripting/source-editor) 
 {.links-list}
