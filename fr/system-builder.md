@@ -2,14 +2,14 @@
 title: System Builder
 description: 
 published: true
-date: 2020-09-13T09:45:26.744Z
+date: 2020-09-21T15:01:01.602Z
 tags: 
 editor: markdown
 ---
 
 Voici la documentation du **System Builder** de Let's Role. Vous trouverez ici tous ce dont vous aurez besoin pour commencer à créer votre système de jeu customisé.
 
-# Géneralité
+# Géneral
 * [Workflow *Comment les systèmes sont-ils gérés ?*](/system-builder/general/workflow) 
 * [Indications *Conseils généraux pour un bon système*](/system-builder/general/guidelines)
 * [Mise en forme *Comment modifier l'aspect de votre système*](/en/system-builder/general/styling) 
