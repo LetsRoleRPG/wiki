@@ -8,7 +8,7 @@ editor: markdown
 ---
 
 # Scripter
-Utiliser le script pour créer d'incroyables fonctionnalités avancées pour vos systèmes. 
+Utilisez le script pour créer d'incroyables fonctionnalités avancées pour vos systèmes. 
 
 Les scripts utilisent un sous-ensemble du langage **javascript**. 
 
