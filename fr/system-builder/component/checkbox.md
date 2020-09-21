@@ -19,4 +19,4 @@ Quand vous faites référence à une case à cocher, la référence aura soit la
 + Que la référence est seule, la valeur sera *true*.
 + Que la référence est à l'intérieur d'un calcul numérique, la valeur sera *1*. (exemple : 1+@id_de_la_case => 2)
 + Que la référence est à l'intérieure d'une phrase créé par concaténation, elle sera égale à *true*. (exemple : "Ceci est "+@id => Ceci est true )
-+ Que la référence est précédé et suivi de calculs et de concaténation, ce sera le therme qui suit la référence qui influencera sa valeur : Exemple 1 : "Ceci est "+ @id + 1 => Ceci est 2 Exemple 2 : 1+ @id + "Ceci est " => 1trueCeci est 
++ Que la référence est précédé et suivi de calculs et de concaténation, ce sera le therme qui suit la référence qui influencera sa valeur : Exemple 1 : "Ceci est "+ @id + 1 => Ceci est 2 | Exemple 2 : 1+ @id + "Ceci est " => 1trueCeci est 
