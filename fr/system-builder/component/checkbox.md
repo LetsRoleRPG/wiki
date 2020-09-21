@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-A simple checkbox.
+Une simple case à cocher.
 
 # Label
-The label on the right of the checkbox. Clicking the label check or uncheck the box.
+Le label qui se trouvera à droite de la case à coché. Cliquez sur le label validera au videra la case.
