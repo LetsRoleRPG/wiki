@@ -14,5 +14,5 @@ editor: markdown
 - [Twitter](https://twitter.com/LetsRoleRPG)
 - [Facebook](https://www.facebook.com/LetsRoleRPG)
 - [Notre forum *Discutez tranquillement avec la communauté !*](https://community.lets-role.com/)
-- [Liste des systèmes créer par nos membres](https://community.lets-role.com/c/system-builder/17)
+- [Liste des systèmes créés par nos membres](https://community.lets-role.com/c/system-builder/17)
 {.links-list}
