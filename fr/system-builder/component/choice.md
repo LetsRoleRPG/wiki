@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-Ce composant vous permettra de créer des choix à menus déroulants, et des questionnaires à choix multiples ou à choix unique. 
+Ce composant vous permettra de créer des choix à menus déroulants et des questionnaires à choix multiples ou à choix unique. 
 
 # Champ "Table"
 On y renseigne la table dans laquelle les choix possibles sont écrits. Il y aura un choix par ligne dans cette table.
@@ -20,13 +20,13 @@ Cochée, elle ajoute un choix vide qui sera sélectionné par défaut (au lieux 
 
 # Référence
 Quand vous faites référence à un choix/choice, la valeur de cette référence correspond à ce qui est indiqué dans la colonne "id" et dans la ligne du choix correspondant.
-Si aucun choix n'est fait, la référence sera égale à 0. Si plusieurs choix sont cochés (voir plus bas) chaque identifiant sera séparés d'un virgule.
+Si aucun choix n'est fait, la référence sera égale à 0. Si plusieurs choix sont cochés (voir plus bas) chaque identifiant sera séparé d'un virgule.
 
 # Etendu
 Cocher "expanded" changera le menu déroulant en liste d'objet avec des cases à cocher ou des radiobox à gauche.
 
 # Champ "Expanded item classes"
-Ce champ permet de modifier l'apparences des objets quand ils sont étendus, cela utilise les même règles que les *classes* des composants.
+Ce champ permet de modifier l'apparences des objets quand ils sont étendus, cela utilise les mêmes règles que les *classes* des composants.
 
 # Multiple
 Cette case à cocher permet de transformer un choix unique étendu (case "Expanded" cochée) en choix multiple.
