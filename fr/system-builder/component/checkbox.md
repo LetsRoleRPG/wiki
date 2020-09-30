@@ -10,7 +10,7 @@ editor: markdown
 Une simple case à cocher.
 
 # Champ "Label"
-Ce que vous écrivez dans ce champ se retrouvera à droite de la case à cocher. Cliquez sur le label cochera au décochera la case.
+Ce que vous écrivez dans ce champ se retrouvera à droite de la case à cocher. Cliquer sur le label cochera au décochera la case.
 
 # Retour du composant lors d'une référence
 Quand vous faites référence à une case à cocher, la référence aura soit la valeur *0*, soit la valeur *"true"*, soit la valeur *1*.
