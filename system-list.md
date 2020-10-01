@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-09-25T17:05:06.564Z
+date: 2020-10-01T15:46:04.755Z
 tags: 
 editor: markdown
 ---
@@ -16,6 +16,7 @@ All the systems above were created by the community and will be maintained by th
 | 7e Mer V2                                   | Neuralnoise       | :fr:      | [7e Mer V2](https://alpha.lets-role.com/sy/VdyCrUJ7wmhXhHfW)                           | [7e Mer v2](https://community.lets-role.com/t/7e-mer-v2-les-secrets-de-la-septieme-mer/2997)                              |
 | ALIEN by Free League Publishing             | Stefouch          | :fr: :gb: | [ALIEN RPG](https://alpha.lets-role.com/sy/QqEoxwYVhRR6zvdx)                           | [ALIEN RPG](https://community.lets-role.com/t/alien-rpg-by-free-league-eng-fra/3060)                                      |
 | L'anneau unique / The One Ring              | Ghorin            | :fr: :gb: | [The One Ring](https://alpha.lets-role.com/sy/kk7UEWz1P3d2bHmz)                        | [The One Ring](https://community.lets-role.com/t/the-one-ring-lanneau-unique/3913/)                                       |
+| L'appel de Cthulhu v6                       | Dyzae        			| :fr:  		| [Call of Cthulhu v6](https://alpha.lets-role.com/sy/GogG0LsIEX0sct1Q)                  | [Call of Cthulhu v6](https://community.lets-role.com/t/call-of-cthulhu-v6/4640)  
 | L'appel de Cthulhu v7                       | Jaggerwock        | :fr: :gb: | [Call of Cthulhu v7](https://alpha.lets-role.com/sy/fcYYEimo2ZVYBuzF)                  | [Call of Cthulhu v7](https://community.lets-role.com/t/call-of-cthulhu-7e/1255)                                           |
 | Barbarians of Lemuria                       | DLDone            | :fr:      | [Barbarians of Lemuria](https://alpha.lets-role.com/sy/XDhu9s4ROc5mFrZQ)               | [Barbarians of Lemuria](https://community.lets-role.com/t/barbarians-of-lemuria-fr/3927)                                  |
 | Beast & Barbarian                           | Pignata           | :fr:      | [Beast & Barbarian](https://alpha.lets-role.com/sy/N8mxjJuKDKWFpnpi)                   | [Beast & Barbarian](https://community.lets-role.com/t/beast-barbarian/2902)                                               |
