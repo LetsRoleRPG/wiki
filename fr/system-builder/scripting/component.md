@@ -2,9 +2,9 @@
 title: Component
 description: 
 published: true
-date: 2020-09-04T13:36:18.142Z
+date: 2020-09-24T12:03:24.369Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Represents a element that has been placed on a Sheet.

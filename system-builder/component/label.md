@@ -2,9 +2,9 @@
 title: Label
 description: 
 published: true
-date: 2020-09-04T11:06:25.204Z
+date: 2020-09-04T11:06:26.553Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A simple text.

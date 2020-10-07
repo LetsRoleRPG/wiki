@@ -2,9 +2,9 @@
 title: Utilities
 description: 
 published: true
-date: 2020-09-04T13:53:57.854Z
+date: 2020-09-04T13:53:59.182Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # `log(var1, var2, ...)`

@@ -2,9 +2,9 @@
 title: Global Functions
 description: 
 published: true
-date: 2020-09-04T12:57:24.708Z
+date: 2020-09-04T13:42:36.235Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 

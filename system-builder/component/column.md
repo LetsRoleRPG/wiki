@@ -2,9 +2,9 @@
 title: Column
 description: 
 published: true
-date: 2020-09-04T11:05:22.700Z
+date: 2020-09-04T11:05:24.008Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Columns should **always** be placed inside a Row component. See https://getbootstrap.com/docs/4.5/layout/grid/ for more informations about columns.

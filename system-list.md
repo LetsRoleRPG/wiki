@@ -2,9 +2,9 @@
 title: System list
 description: 
 published: true
-date: 2020-10-01T15:46:04.755Z
+date: 2020-10-01T15:46:06.347Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Systems created by the Let's role community

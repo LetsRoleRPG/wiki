@@ -2,9 +2,9 @@
 title: Choice
 description: 
 published: true
-date: 2020-09-04T11:09:53.264Z
+date: 2020-09-04T11:09:54.563Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A list of items.

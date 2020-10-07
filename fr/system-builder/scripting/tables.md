@@ -2,9 +2,9 @@
 title: Tables
 description: 
 published: true
-date: 2020-09-04T13:52:04.731Z
+date: 2020-09-24T12:03:28.035Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 You can access the tables created in the builder.

@@ -2,9 +2,9 @@
 title: Sheet
 description: 
 published: true
-date: 2020-10-07T11:55:12.161Z
+date: 2020-10-07T11:55:13.504Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A Sheet instance represents a Character Sheet or Craft.

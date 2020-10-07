@@ -2,9 +2,9 @@
 title: Directly editing the source of the tree
 description: 
 published: true
-date: 2020-09-11T12:35:37.823Z
+date: 2020-09-24T12:03:25.875Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 If you know what you are doing, you can edit the source of the tree by clicking on *Source Editor*.

@@ -2,9 +2,9 @@
 title: Guidelines
 description: 
 published: true
-date: 2020-09-04T10:39:42.801Z
+date: 2020-09-24T12:02:48.369Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Sheet layout

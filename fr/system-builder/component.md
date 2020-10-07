@@ -2,9 +2,9 @@
 title: System builder - component
 description: 
 published: true
-date: 2020-09-13T09:36:58.189Z
+date: 2020-09-24T12:02:40.536Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Composant

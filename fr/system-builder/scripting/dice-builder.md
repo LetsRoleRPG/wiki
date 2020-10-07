@@ -2,9 +2,9 @@
 title: Dice Builder
 description: 
 published: true
-date: 2020-09-04T13:40:14.405Z
+date: 2020-09-24T12:03:12.408Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 The Dice Builder is a fluid API to create dice rolls.

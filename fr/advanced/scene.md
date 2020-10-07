@@ -2,9 +2,9 @@
 title: La configuration d'une scène
 description: 
 published: true
-date: 2020-09-09T10:05:12.096Z
+date: 2020-09-09T10:05:13.466Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Pour changer la configuration d'une scène, cliquez sur la roue crantée à droite du nom de la scène, dans le dock *Scene* :
@@ -15,10 +15,10 @@ Pour changer la configuration d'une scène, cliquez sur la roue crantée à droi
 ![scene-parameters.png](/medias/scene-parameters.png)
 
 ## Name
-Le nom de votre scène est important pour pouvoir la retrouver facilement dans le *Scene Browser*.
+Le nom de votre scène, important pour pouvoir la retrouver facilement dans le *Scene Browser*.
 
 ## Dimensions
-La largeur et la hauteur de la scène en pixels. Si vous utilisez l'option *Adapt Scene to Image* sur une image, ces valeurs seront changées en fonction des dimensions de l'image.
+La largeur et hauteur de la scène en pixels. Si vous utilisez l'option *Adapt Scene to Image* sur une image, ces valeurs seront changées en fonction des dimensions de l'image.
 
 ## Background color
 Vous pouvez choisir la couleur de fond de la scène (blanc par défaut).
@@ -36,7 +36,7 @@ Si vous cochez cette option, les tokens et éléments de scènes seront magnéti
 La couleur et l'opacité de la grille.
 
 ### Size
-La largeur, en pixels, de la grille. Attention : si vous diminuez trop cette valeur, il est possible que la grille ne recouvre plus tout l'écran pour des raisons de performance.
+La largeur, en pixels, de la grille. Attention, si vous diminuez trop cette valeur, il est possible que la grille ne recouvre plus tout l'écran pour des raisons de performance.
 
 ## Fog of War
 Cochez cette option pour activer le [fog of war](/fr/advanced/fog-of-war).

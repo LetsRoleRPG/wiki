@@ -2,9 +2,9 @@
 title: The team
 description: 
 published: true
-date: 2020-09-09T11:31:21.909Z
+date: 2020-09-09T11:31:23.254Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Who are we ?

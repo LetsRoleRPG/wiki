@@ -2,9 +2,9 @@
 title: Icon
 description: 
 published: true
-date: 2020-09-04T11:14:34.362Z
+date: 2020-09-24T12:02:22.627Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 All free solid icons by font awesome are available. [Full list here](https://fontawesome.com/icons?d=gallery&s=solid&m=free).

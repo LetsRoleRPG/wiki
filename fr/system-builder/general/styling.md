@@ -2,9 +2,9 @@
 title: Styling
 description: 
 published: true
-date: 2020-09-04T10:42:39.852Z
+date: 2020-09-24T12:02:54.855Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 You can apply several classes to any component. Classes should be separated by a space " ". We use Bootstrap 4 as a base, so any class available in the [bootstrap utilities](https://getbootstrap.com/docs/4.4/utilities/spacing/), is also available to you. They are very useful for spacing, padding and flex.

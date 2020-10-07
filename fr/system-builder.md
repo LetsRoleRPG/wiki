@@ -2,14 +2,14 @@
 title: System Builder
 description: 
 published: true
-date: 2020-09-24T12:28:05.240Z
+date: 2020-09-24T12:28:06.657Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Voici la documentation du **System Builder** de Let's Role. Vous trouverez ici tout ce dont vous aurez besoin pour commencer à créer votre système de jeu customisé.
 
-> ***Il est important de noter que tout n'a pas encore été traduit en français.***
+> ***Il est important de noter que tout n'as pas encore été traduit en français.***
 {.is-warning}
 
 

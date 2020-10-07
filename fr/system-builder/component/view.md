@@ -2,9 +2,9 @@
 title: View
 description: 
 published: true
-date: 2020-09-04T11:03:09.469Z
+date: 2020-09-24T12:02:39.708Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A view is the main element of a sheet, a craft, a sheet element (like the content of a tab), or a prompt.

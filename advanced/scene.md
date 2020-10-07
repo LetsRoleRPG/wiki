@@ -2,9 +2,9 @@
 title: Scene configuration
 description: 
 published: true
-date: 2020-09-09T20:28:43.044Z
+date: 2020-09-09T20:28:44.386Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 To change the configuration of a scene, click on the cog on the right of the name of scene, in the *Scene* dock:

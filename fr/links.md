@@ -2,9 +2,9 @@
 title: Liens utiles
 description: 
 published: true
-date: 2020-09-08T13:51:30.795Z
+date: 2020-09-08T13:51:32.092Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 - [Invitation sur le Discord *Le meilleur moyen pour discuter avec l'équipe et la communauté*](https://discord.gg/m5cqTwa) 
@@ -14,5 +14,5 @@ editor: markdown
 - [Twitter](https://twitter.com/LetsRoleRPG)
 - [Facebook](https://www.facebook.com/LetsRoleRPG)
 - [Notre forum *Discutez tranquillement avec la communauté !*](https://community.lets-role.com/)
-- [Liste des systèmes créés par nos membres](https://community.lets-role.com/c/system-builder/17)
+- [Liste des systèmes créer par nos membres](https://community.lets-role.com/c/system-builder/17)
 {.links-list}

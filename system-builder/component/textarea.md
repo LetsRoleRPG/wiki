@@ -2,9 +2,9 @@
 title: Textarea
 description: 
 published: true
-date: 2020-09-04T11:08:26.726Z
+date: 2020-09-04T11:08:28.018Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A field that can contain multi-lines text.

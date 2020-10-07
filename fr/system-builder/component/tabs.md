@@ -2,9 +2,9 @@
 title: Tabs
 description: 
 published: true
-date: 2020-09-04T11:12:38.424Z
+date: 2020-09-24T12:02:33.268Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Table

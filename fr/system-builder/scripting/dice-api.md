@@ -2,9 +2,9 @@
 title: Dice API
 description: 
 published: true
-date: 2020-09-04T13:45:23.167Z
+date: 2020-09-24T12:03:10.215Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 The Dice API allows you to roll dice. It is available through the global `Dice` object.
