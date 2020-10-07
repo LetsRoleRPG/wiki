@@ -2,7 +2,7 @@
 title: Sheet
 description: 
 published: true
-date: 2020-09-14T11:43:48.771Z
+date: 2020-10-07T11:55:12.161Z
 tags: 
 editor: markdown
 ---
@@ -26,13 +26,28 @@ Get a variable's value.
 ## `setData(data)`
 **`data`**, type: `object`
 
-Set multiple components values at the same time.
+Set multiple sheet data at once (including components values).
 ```javascript
 sheet.setData({
     "hp": 30,
     "mp": 12
     //...
 });
+```
+
+## `getData()`
+
+Returns all the sheet data at once (including components values).
+```javascript
+let values = sheet.Data();
+/* 
+values = { 
+	avatar: { avatar: "y/x/....png", token: "k/g/....png"},
+  hp: 30,
+  mp: 12,
+  ...
+}
+*/
 ```
 
 ## `prompt(title, view, callback)`
