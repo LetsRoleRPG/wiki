@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-Les *Tabs* sont les composants qui permettent de créer des onglets. Comme les *[reapeater](/system-builder/component/repeater)*, ils fonctionnent en trio avec une table et des vues de types *sub componant*. 
+Les *Tabs* sont les composants qui permettent de créer des onglets. Un peu comme les *[reapeater](/system-builder/component/repeater)*, ils fonctionnent en trio avec une table et des vues de types *sub component*. 
 Dans le composant *tab* lui même, il y a les champs spéciaux suivants :
 
 # Table
