@@ -7,13 +7,13 @@ tags:
 editor: markdown
 ---
 
-A field that should contain a one-line string.
+Ce composant est un champ que l'on peu remplir avec un text d'une ligne. Il est bien plus facile à utiliser en script que la *text area*.
 
 # Value
-The default or computed value of the field.
+Ce champ peut être rempli du text par défauts du *Text Input*. Cette valeur peu être *computed*.
 
 # Computed
-Set the value to be computed.
+Avec cette case cochée, le sera determiné à partir de la formule écrite dans *Value*.
 
 # Placeholder
-What is written in the field when there is no value.
+Le texte écris dans ce champ s'affiche en gris quand le *text input* est vide. On y met notamment des indications ou des exemples.
