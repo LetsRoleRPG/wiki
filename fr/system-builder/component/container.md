@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-A simple [flex](https://getbootstrap.com/docs/4.4/utilities/flex/) container.
+Une simple contenant dit ["flex"](https://getbootstrap.com/docs/4.4/utilities/flex/).
 
 # Layout
-You can choose to either display the items horizontally or vertically.
+Ce champ permet de choisir d'afficher les objets à l'intérieur du *container* horizontalement, les un à coté des autres, ou verticalement, les un au dessus des autres.
