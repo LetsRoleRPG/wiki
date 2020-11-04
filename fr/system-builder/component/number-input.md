@@ -7,13 +7,13 @@ tags:
 editor: markdown
 ---
 
-Un champ qui peu être remplis avec des avleur numériques.
+Un champ qui peut être remplis avec des valeurs numériques.
 
 # Value
-Ce champ peut être rempli de la valeur par défauts du *Number Input*. Cette valeur peu être calculée.
+Ce champ peut être rempli de la valeur par défaut du *Number Input*. Cette valeur peu être calculée.
 
 # Minimum / Maximum
-Les valeur minimale et maximal que peu prendre le nombre contenu.
+Les valeurs minimales et maximales que peut prendre le nombre contenu.
 
 # Computed
-Avec cette case cochée, la valeur sera cacaler avec la formule écrite dans *Value*.
+Avec cette case cochée, la valeur sera calculée avec la formule écrite dans *Value*.
