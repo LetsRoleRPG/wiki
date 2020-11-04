@@ -18,8 +18,8 @@ Sans aucune valeur, les colonnes se repartissent équitablement l'espace :
 * Trois *colomn* dans une section/*row*, on donne à la première colonne une largeur de 2 ; les deux autres se répartirons l'espace restant, et auront donc une largeur de 5 chacunes.
 #### Adaptation automatique de la largeur
 Le *colomn* adaptent leur largeurs quand la largeur de la *row* change. Ainsi, quand un utilisateur affiche sa fiche de personnage, et modifie sa taille, les colonnes vont suivre la taille dans une certaine mesure.
-Si les colonnes sont plus larges que l'espace disponible, la colonne la plus à droite sera déplacer sous la première colonne. Cela arrive notamment quand on réduit la taille de la fiche, mais que les colonnes contiennent des composants incompressibles.
+Si les colonnes sont plus larges que l'espace disponible, la colonne la plus à droite sera déplacée sous la première colonne. Cela arrive notamment quand on réduit la taille de la fiche, mais que les colonnes contiennent des composants incompressibles.
 
 ### Style et espacement
-Les option de [*styling*](https://lets-role.wiki/fr/system-builder/general/styling) sont utiles pour les *colomn*, notamment les options de *spacing*/espacement.
-Par default, (sans qu'aucune *class* ne soit écrite) les *colomn* on un pading de 2 en largeur (ce qui correspond à la *class* `px-2`). Les composants à l'interrieur de la colonne seront donc éloigner de ces bords. Cet espacement compense parfaitement les marges négatives par défault des *row*.
+Les options de [*styling*](https://lets-role.wiki/fr/system-builder/general/styling) sont utiles pour les *colomn*, notamment les options de *spacing*/espacement.
+Par default, (sans qu'aucune *class* ne soit écrite) les *colomn* on un pading de 2 en largeur (ce qui correspond à la *class* `px-2`). Les composants à l’intérieur de la colonne seront donc éloignés de ces bords. Cet espacement compense parfaitement les marges négatives par défault des *row*.
