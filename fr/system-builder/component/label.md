@@ -7,25 +7,22 @@ tags:
 editor: markdown
 ---
 
-A simple text.
+Un affichage de texte non modifiable.
 
 # Text
-The content of the label. HTML is not allowed. If the label is computed, the value is calculated.
-
-# Roll on click
-A roll expression to run when clicking the label.
+Ce champ contient ce qu'affichera le label. L'HTML n'est pas permis. Si le label est *computed*, l'affichage sera determiner à partir de la formule écrite dans ce champ.
 
 # Computed
-Check this if you want the text of the label to be computed.
+Cocher cette case si vous vouler que l'affichage du label soit calculé.
 
 # Roll on click
-You can set a dice formula to roll when clicking on the label here. You do not need to set "clickable" when this has a value.
+Ce champ peux contenir l'expression d'un jet de dés qui sera lancer en cliquant sur le label. Vous n'avez **pas** besoin de cocher "*clickable*" si vous avez rempli ce champ. Vous pouvez utiliser des références dans ce champs.
 
 # Clickable
-Allow the label to be clicked. Not required if you added a "Roll on click". This is useful when you want to use click events in scripting.
+Cocher cette case permet au label d'être cliquer. Cocher n'est pas obligatoir si vous avez ajouter un "Roll on click". Cette case est utile quand vous utiliser l'évènement "click" dans un script.
 
 # Droppable in the QuickBar
-If checked, the label can be drop'n dropped in the player's quickbar.
+Quand cette case est cochée, le label peux être glissé-déposé dans la barre des raccourcis du joueur.
 
 # QuickBar label
-The title of the element if placed in the QuickBar. If left empty, the title will be the content of the label.
+Le titre de l'élément s'il est placer dans la barre des raccourcis. S'il est vide, le titre sera le contenut du label.
