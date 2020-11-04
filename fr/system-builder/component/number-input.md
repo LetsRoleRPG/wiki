@@ -7,13 +7,13 @@ tags:
 editor: markdown
 ---
 
-An input that should contain a numerical value.
+Un champ qui peu être remplis avec des avleur numériques.
 
 # Value
-The default or computed value of the input.
+Ce champ peut être rempli de la valeur par défauts du *Number Input*. Cette valeur peu être calculée.
 
 # Minimum / Maximum
-The minimum and maximum values of the input.
+Les valeur minimale et maximal que peu prendre le nombre contenu.
 
 # Computed
-Set the value of the input to be computed.
+Avec cette case cochée, la valeur sera cacaler avec la formule écrite dans *Value*.
