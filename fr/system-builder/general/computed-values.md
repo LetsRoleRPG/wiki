@@ -7,53 +7,62 @@ tags:
 editor: markdown
 ---
 
-A few mathematical operations are available in a computed value. Using references and variables, it's a great way to make a dynamic character sheet, without having to use scripting.
+Quelque opérations sont disponibles dans une valeur calculée. En utilisant des références et des variables, elles sont un bon moyen de rendre une feuille de personnage dynamique sans utiliser le *scripting*. 
 
 # Values types
-You can create a string value by putting the value between double quote ("my string"). Here are the common rules of string values : 
+Vous pouvez créer une *ligne de texte* en mettant une valeur entre guillemet ("ligne de text"). Voici les règles pour les *lignes de texte* : 
 
-* When using `+` between two strings, they will be concatenated : 
+* En utilisant `+` entre deux lignes de texte, elles seront concaténées :
 `"hello" + " there"` -> `hello there`
-* When using `+` between a string and a number, the number will be converted
-to a string : `"you have " + 5 + " hp"` -> `you have 5 hp`
-* When using any other operation between two strings, or a string and a number,
-the string will be converted to the number `1` : `4 - "general"` -> `3`
+* En utilisant `+` entre une ligne de texte et un nombre, le nombre sera converti en ligne de texte :
+`"vous avez " + 5 + " PV"` -> `vous avez 5 PV`
+Ici `5` a été changer en `"5"`.
+* En utilisant n'importe quelle autres operations entre deux lignes de texte, ou entre une ligne de texte et un nombre, les lignes de texte seront convertis en le nombre `1` :
+`4 - "general"` -> `3` ou `"pomme"/" terre"` -> `1`
 
 # Mathematical operation
-You can use `+` (adding), `-` (substracting), `/` (dividing), `*` (multiplying) in a computed value.
+Vous pouvez utiliser `+` (addition), `-` (soustraction), `/` (division), `*` (multiplication) dans le calcul d'une valeur.
+
+# Fonctions
+Les fonctions prennent des termes pour leur appliquer des opérations qui ne sont pas aussi simple que les opérations mathématiques si-dessus. Les voici résumé :
 
 # `round(value)`
-Returns the value rounded to the nearest integer. If the value if .5, it is rounded to the higher integer (for example `round(4.5)` = 5).
+Cette fonction donne l'arrondi à l'entier le plus proche d'un nombre. Pour rappel, l'entier le plus proche de 0,50 et 1, et l'entier le plus proche de 0,49 est 0.
 
 # `floor(value)`
-Returns the largest integer less than or equal to the value.
+Donne l'arrondi inferieur d'un nombre.
 
 # `ceil(value)`
-Always rounds the value up to the next largest whole number or integer.
+Donne l'arrondi supérieur d'un nombre.
 
 # `avg(value1, value2, ...)`
-Get the average for all the values in the arguments.
+Donne la moyenne de tout les nombres dans les arguments.
 
 # `sum(value1, value2, ...)`
-Get the sum of all the values in the arguments.
+Donne la somme des nombres dans les arguments.
 
 # `if(comparison, then, else)`
-If the comparison is a success, returns the "then", otherwise the "else".
-If "else" is not set, else equals 0.
+Cette fonction vas comparé un nombre à un autre nombre (argument "comparison"), puis donner l'argument "then", ou l'argument "else".
+##### Comparison
+Cette argument doit contenir deux nombres, avec un comparateur entre eux. Les comparateurs sont `>`, `<` et `=`.
+##### Then
+Cette argument peut contenir un nombre ou une ligne de texte. Il sera afficher si la comparaison est vrais (`5 > 1` -> vrais).
+##### Else
+Cette argument peut contenir un nombre ou une ligne de texte ou être vide. Il sera afficher si la comparaison est fausse (`6 = 2` -> faux). S'il est vide, "else" vaux 0.
 
 ## Examples
 
-Using a reference and a variable:
+On peu utiliser une références et une variable:
 ```
 round(@dexterity/2) + $proficiency
 ```
 
-Adding references:
+Sommer des références:
 ```
 sum(@dexterity, @strength, @constitution) + 5
 ```
 
-Conditional value:
+On peu aussi utiliser des références comme des valeurs conditionnelles :
 ```
 $bonus + if(@dexterity > 10, 8) 
 ```
