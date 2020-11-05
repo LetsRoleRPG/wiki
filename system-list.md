@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-11-05T21:52:22.455Z
+date: 2020-11-05T21:54:43.553Z
 tags: 
 editor: markdown
 ---
@@ -40,6 +40,7 @@ All the systems above were created by the community and will be maintained by th
 | Everyone is John                            | Dyzae             | :gb:      | [Everyone is John](https://alpha.lets-role.com/sy/gLzij9EAlSsfGwp9)                    | [Everyone is John](https://community.lets-role.com/t/everyone-is-john/1457)                                               |
 | The Fantasy Trip                            | Aidymouse         | :gb:      | [Fantasy Trip](https://alpha.lets-role.com/sy/YWXHcLGsHfApOVdg)                        | [The Fantasy Trip](https://community.lets-role.com/t/the-fantasy-trip/1887)                                               |
 | Le fer et le froid                          | Dyzae             | :fr:      | [Le fer et le froid](https://alpha.lets-role.com/sy/RDvoNlZtvVzQAxsV)                  | [Le fer et le froid](https://community.lets-role.com/t/le-fer-et-le-froid-fr/4190)                                        |
+| FateForge                                  | Tsuna77           | :fr: :gb: | WIP                          |                                    |
 | Freeform Universal                          | Fanfan            | :fr: :gb: | [Freeform Universal](https://alpha.lets-role.com/sy/cWhE0GXVhstVtMqo)                  | [Freeform Universal by Nathan Russel](https://community.lets-role.com/t/freeform-universal-by-nathan-russel-en-fr-f/3590) |
 | Green Dawn Mall                             | CaiusRomanus      | :gb:      | [Green Dawn Mall](https://alpha.lets-role.com/sy/rYZOloYj8erWfROT)                     | [Green Dawn Mall](https://community.lets-role.com/t/green-dawn-mall/3219)                                                 |
 | Harry Potter Wolrd                          | Kurblink          | :fr:      | [Harry Potter Wolrd](https://alpha.lets-role.com/sy/JbYAOAeoA02H1Eqh)                  | [Harry Potter Wolrd](https://community.lets-role.com/t/jdr-harry-potter-wolrd/4264)                                       |
