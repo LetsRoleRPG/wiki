@@ -7,22 +7,23 @@ tags:
 editor: markdown
 ---
 
-# Sheet layout
-Since screens are mainly horizontal, you should design the sheet with landscape layout in mind.
+# Disposition de la feuille
+Étant donné que les écrans sont principalement horizontaux, vous devriez concevoir la feuille avec la disposition paysage à l'esprit. 
 
-# Required components
+# Composants requis
 ## Avatar
 The avatar is required on character sheets and crafts. You can use any id you'd want, but you need to specify the id used in the view attribute : "Avatar's id".
+L'avatar est obligatoire sur les feuilles de personnage et les craft. Vous pouvez utiliser n'importe quel identifiant de votre choix, mais vous devez spécifier l'identifiant utilisé dans le champ de la *view*/vue *"Avatar's id"*.
 
 ## Color
-Color is required on character sheets. The id should be : color.
+*Color* est obligatoire sur les feuilles de personnage. L'identifiant doit être: color.
 
 # Computed values
-Some component have the computed attribute, which allow them to have a value based on maths operations and references to other components.
+Certains composants ont l'attribut calculée/*computed*, qui leur permet d'avoir une valeur basée sur des opérations mathématiques et des références à d'autres composants.
 
-Beware that computed values can be CPU-intensive, so you should not use too many of them.
+Attention, les valeurs calculées/*computed* peuvent être gourmandes en ressources processeur, vous ne devez donc pas en utiliser trop.
 
-# Scripting
-**We strongly recommand you do not activate scripting if you don't know the Javascript langage.**
+# Scripts
+**Nous vous recommandons vivement de ne pas activer les scripts si vous ne connaissez pas le langage Javascript.**
 
-If you want to create advanced features, you can use Javascript to enhance your system.
+Si vous souhaitez créer des fonctionnalités avancées, vous pouvez utiliser Javascript pour améliorer votre système.
