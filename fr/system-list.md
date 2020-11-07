@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-11-07T17:12:28.209Z
+date: 2020-11-07T17:17:24.459Z
 tags: 
 editor: markdown
 ---
@@ -48,6 +48,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Into the Odd / Electric BastionLand         | Neuralnoise       | :fr:      | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) | [into the Odd](https://community.lets-role.com/t/into-the-odd-electricbastionland/2947)                                   |
 | Kémi                                        | Verdad            | :fr:      | [Kémi](https://alpha.lets-role.com/sy/hgDYS7KLBAGSNU9B)                                | [Kémi](https://community.lets-role.com/t/systeme-pour-kemi/3542)                                                          |
 | Knight v1.5                                 | Stram             | :fr:      | [Knight v1.5](https://alpha.lets-role.com/sy/sdyMdRoDETvoBvyv)                         | [JDR Knight v1.5](https://community.lets-role.com/t/jdr-knight-v1-5/3728)                                                 |
+| Maze Of Rats (12 singes)                           | Laurène Lan      | :fr:      | [Maze Of Rats](https://alpha.lets-role.com/sy/wBUfdsrzBdAIi419)                   |                                        |
 | Meute                                       | Verdad            | :fr:      | [Meute](https://alpha.lets-role.com/sy/VF1vxFsipVkD0FMU)                               | [Meute](https://community.lets-role.com/t/meute-feuille-de-personnage-et-de-meute/2773)                                   |
 | Mindjammer (FATE)                           | Caine_Dombre      | :fr:      | [Mindjammer (FATE)](https://alpha.lets-role.com/sy/YHMLcydYqIZMQ33E)                   | [Mindjammer (FATE)](https://community.lets-role.com/t/mindjammer-fate/2221)                                               |
 | Monster of the Week                         | CaiusRomanus      | :fr: :gb: | [Monster of the Week](https://alpha.lets-role.com/sy/gq07E0ifDDLNUixt)                 | [Monster of the Week](https://community.lets-role.com/t/monster-of-the-week/3143)                                         |
