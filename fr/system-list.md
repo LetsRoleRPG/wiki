@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-11-08T13:38:38.451Z
+date: 2020-11-08T16:18:51.818Z
 tags: 
 editor: markdown
 ---
@@ -36,6 +36,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Dragons (Studio Agate)                                  | Tsuna77           | :fr: :gb: | WIP                          |                                    |
 | Dungeon Crawl Classics                      | Neuralnoise       | :fr:      | [Dungeon Crawl Classics](https://alpha.lets-role.com/sy/Hxj00ENML5eDAzkj)              | [Dungeon Crawl Classics](https://community.lets-role.com/t/dungeon-crawl-classics-vf-wip/3557)                            |
 | Ecryme - La geste des traveres              | Liesunder68       | :fr:      | [Ecryme](https://alpha.lets-role.com/sy/taWjEWS2eA8xMzh8)                              | [Ecryme](https://community.lets-role.com/t/ecryme-la-geste-des-traveres/2432)                                             |
+| Esoteric Entreprises              | Neuralnoise       | :gb:      | [Esoteric Entreprises](https://alpha.lets-role.com/sy/DeiZTfGg2dHF58aR)                              |                                             |
 | Escape from Dino Island                     | Caius Romanus     | :fr:      | [Escape from Dino Island](https://alpha.lets-role.com/sy/Ew6Igd6Sx1WP1goe)             | [Escape from Dino Island](https://community.lets-role.com/t/escape-from-dino-island/3321)                                 |
 | Ethera                                      | Aidymouse         | :gb:      | [Ethera](https://alpha.lets-role.com/sy/JxpXpZmL0r7gXW1F)                              | [Ethera](https://community.lets-role.com/t/ethera-character-sheet/1883)                                                   |
 | Everyone is John                            | Dyzae             | :gb:      | [Everyone is John](https://alpha.lets-role.com/sy/gLzij9EAlSsfGwp9)                    | [Everyone is John](https://community.lets-role.com/t/everyone-is-john/1457)                                               |
