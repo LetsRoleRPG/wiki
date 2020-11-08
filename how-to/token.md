@@ -2,9 +2,9 @@
 title: How to use tokens?
 description: 
 published: true
-date: 2020-09-09T20:31:01.886Z
+date: 2020-09-09T20:31:03.223Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Tokens represent entities on the scene, like characters or monsters.

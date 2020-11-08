@@ -2,9 +2,9 @@
 title: How to start as a player ?
 description: 
 published: true
-date: 2020-09-08T20:47:16.119Z
+date: 2020-09-08T20:47:17.517Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Create a new character

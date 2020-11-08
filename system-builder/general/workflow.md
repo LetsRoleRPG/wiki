@@ -2,9 +2,9 @@
 title: Workflow
 description: 
 published: true
-date: 2020-09-04T10:40:07.749Z
+date: 2020-09-04T10:40:09.233Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # System creation

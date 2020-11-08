@@ -2,9 +2,9 @@
 title: Checkbox
 description: 
 published: true
-date: 2020-09-04T11:09:04.924Z
+date: 2020-09-04T11:09:06.184Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A simple checkbox.

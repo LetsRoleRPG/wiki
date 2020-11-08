@@ -2,9 +2,9 @@
 title: How to roll dice
 description: 
 published: true
-date: 2020-09-08T10:04:22.675Z
+date: 2020-09-08T10:04:24.014Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Via your character sheet

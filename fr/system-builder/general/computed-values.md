@@ -2,9 +2,9 @@
 title: Computed Values
 description: 
 published: true
-date: 2020-09-04T10:50:31.280Z
+date: 2020-09-24T12:02:44.104Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Quelque opérations sont disponibles dans une valeur calculée. En utilisant des références et des variables, elles sont un bon moyen de rendre une feuille de personnage dynamique sans utiliser le *scripting*. 

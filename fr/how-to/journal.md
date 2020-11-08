@@ -2,9 +2,9 @@
 title: Gérer vos documents
 description: 
 published: true
-date: 2020-09-09T19:42:40.136Z
+date: 2020-09-09T19:42:41.478Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Le journal est un système de documents : vous pouvez écrire des pages, les organiser et les partager avec les joueurs.

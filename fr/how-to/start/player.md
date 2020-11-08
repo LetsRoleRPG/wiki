@@ -2,9 +2,9 @@
 title: Comment débuter comme joueur ?
 description: 
 published: true
-date: 2020-09-08T09:49:18.818Z
+date: 2020-09-08T09:49:20.205Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Créer un nouveau personnage

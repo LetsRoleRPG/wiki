@@ -2,9 +2,9 @@
 title: Jouer de la musique
 description: 
 published: true
-date: 2020-09-08T09:15:41.755Z
+date: 2020-09-08T09:15:43.064Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Vous pouvez utiliser l'immense bibliothèque de musiques disponible sur YouTube pour vos parties.

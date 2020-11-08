@@ -2,9 +2,9 @@
 title: Prompt
 description: 
 published: true
-date: 2020-09-10T10:41:23.738Z
+date: 2020-09-24T12:03:19.111Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 The Prompt API allows you to ask the user to fill a small form before an action. For example, if you need a modifier before a dice roll, you can prompt a small popin asking the modifier's value.

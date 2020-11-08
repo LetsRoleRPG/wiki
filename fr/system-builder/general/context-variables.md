@@ -2,9 +2,9 @@
 title: Context Variables
 description: 
 published: true
-date: 2020-09-04T10:51:41.134Z
+date: 2020-09-24T12:02:46.227Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Les variables contextuelles sont utilisable en deux endroits :

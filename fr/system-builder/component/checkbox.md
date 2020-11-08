@@ -2,9 +2,9 @@
 title: Checkbox
 description: 
 published: true
-date: 2020-09-04T11:09:04.924Z
+date: 2020-09-24T12:02:11.984Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Une simple case à cocher.

@@ -2,9 +2,9 @@
 title: How to create NPC, Monsters, etc.
 description: 
 published: true
-date: 2020-09-08T20:51:22.805Z
+date: 2020-09-08T20:51:24.115Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Content Crafting allows the GM to create dynamic content for the table, like NPC, monsters, character's skills, etc.

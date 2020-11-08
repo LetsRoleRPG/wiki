@@ -2,9 +2,9 @@
 title: La configuration d'une scène
 description: 
 published: true
-date: 2020-09-09T10:05:12.096Z
+date: 2020-09-09T10:05:13.466Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Pour changer la configuration d'une scène, cliquez sur la roue crantée à droite du nom de la scène, dans le dock *Scene* :

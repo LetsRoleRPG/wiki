@@ -2,13 +2,13 @@
 title: How to start as a GM ?
 description: 
 published: true
-date: 2020-09-09T20:15:06.075Z
+date: 2020-10-01T15:52:17.740Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Create a new table
-In order to create a new table, click on the *My Tables* tab on the website, then click on *Create a new Table*. If you cannot find the game system you wish to play in the list, take a look at [the community systems](https://community.lets-role.com/c/system-builder/17), where you will be able to find game systems created by the community and add them to your list of systems.
+In order to create a new table, click on the *My Tables* tab on the website, then click on *Create a new Table*. If you cannot find the game system you wish to play in the list, take a look at [the community systems](https://lets-role.wiki/en/system-list), where you will be able to find game systems created by the community and add them to your list of systems.
 
 # Invite your players
 Once your table is created, you can click on its title in the tables list to display additional information. You will find a box *Invite friends* there, with a link that you can give to the people you want to invite. By clicking on this link, your friends will be able to join your table.

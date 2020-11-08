@@ -2,9 +2,9 @@
 title: Repeater
 description: 
 published: true
-date: 2020-09-04T11:11:58.753Z
+date: 2020-09-04T11:12:00.044Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A repeater allows you to setup a dynamic list of view. Users can add or remove entries.

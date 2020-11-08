@@ -2,9 +2,9 @@
 title: Avatar
 description: 
 published: true
-date: 2020-09-04T11:13:10.660Z
+date: 2020-09-24T12:02:09.823Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Quand vous utilisez un avatar dans la feuille de personnage `main`, paramétrez son id en `avatar`.

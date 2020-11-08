@@ -2,9 +2,9 @@
 title: References
 description: 
 published: true
-date: 2020-09-04T10:45:47.207Z
+date: 2020-09-24T12:02:50.501Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Les références sont utilisées pour connecter les valeurs des composants entre eux. Par exemple, vous pouvez avoir une composante numérique `charisme` et une autre `persuasion`. Si vous voulez que la valeur de `persuasion` soit égale à 5 + le charisme, définissez simplement la valeur calculée sur `5 + @ charisma`. Lorsque l'utilisateur met à jour la valeur de `charisme`, la valeur de `persuasion` se met automatiquement à jour.

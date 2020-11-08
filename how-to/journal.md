@@ -2,9 +2,9 @@
 title: Documents management
 description: 
 published: true
-date: 2020-09-09T20:19:22.911Z
+date: 2020-09-09T20:19:24.247Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 The journal is a document management system where you can write documents, organise them and share them with your players.

@@ -2,11 +2,10 @@
 title: System-builder - General
 description: 
 published: true
-date: 2020-09-13T09:35:17.897Z
+date: 2020-09-24T12:03:02.199Z
 tags: 
-editor: markdown
+editor: undefined
 ---
-
 
 # Géneralité
 * [Workflow *Comment les systèmes sont-ils gérés ?*](/system-builder/general/workflow) 

@@ -2,9 +2,9 @@
 title: Bindings
 description: 
 published: true
-date: 2020-09-04T13:47:42.238Z
+date: 2020-09-04T13:47:43.582Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Bindings allow players to reference an element of their character sheet in the chat. With this API, you have full control over what bindings are available, and how they are displayed.

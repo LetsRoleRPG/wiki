@@ -2,13 +2,13 @@
 title: Comment débuter comme MJ ?
 description: 
 published: true
-date: 2020-09-08T09:35:42.826Z
+date: 2020-10-01T15:51:13.720Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Créer votre table
-Sur le site, allez dans l'onglet *My Tables*, puis cliquez sur *Create a new Table*. Si vous ne trouvez pas le jeu auquel vous souhaitez jouer, jetez un coup d'oeil aux [créations de la communauté](https://community.lets-role.com/c/system-builder/17) avant.
+Sur le site, allez dans l'onglet *My Tables*, puis cliquez sur *Create a new Table*. Si vous ne trouvez pas le jeu auquel vous souhaitez jouer, jetez un coup d'oeil aux [créations de la communauté](https://lets-role.wiki/fr/system-list) avant.
 
 # Inviter vos joueurs & joueuses
 Une fois votre table créée, vous pouvez cliquer sur son titre dans votre liste des tables pour accéder à plus d'informations. Entre autres, vous pourrez y trouver un encard *Invite friends*, comprenant un lien que vous pourrez donner aux gens que vous souhaitez inviter. En cliquant sur le lien, vos ami(e)s pourront rejoindre votre table.

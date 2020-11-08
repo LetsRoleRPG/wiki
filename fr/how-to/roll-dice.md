@@ -2,9 +2,9 @@
 title: Comment lancer des dés ?
 description: 
 published: true
-date: 2020-09-07T09:23:23.146Z
+date: 2020-09-07T09:23:24.456Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Via votre feuille de personnage

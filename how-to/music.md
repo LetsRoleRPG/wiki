@@ -2,9 +2,9 @@
 title: Play music in the background
 description: 
 published: true
-date: 2020-09-09T20:24:46.167Z
+date: 2020-09-09T20:24:47.466Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 You have access to the enormous library of music available on YouTube for your games.
