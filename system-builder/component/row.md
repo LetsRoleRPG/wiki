@@ -2,9 +2,9 @@
 title: Row
 description: 
 published: true
-date: 2020-09-04T11:04:04.977Z
+date: 2020-09-04T11:04:06.245Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 The main container for columns.

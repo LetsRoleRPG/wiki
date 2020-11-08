@@ -2,9 +2,9 @@
 title: Scripting
 description: 
 published: true
-date: 2020-09-13T09:45:44.408Z
+date: 2020-09-24T12:03:31.055Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Scripter

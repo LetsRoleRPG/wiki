@@ -2,9 +2,9 @@
 title: Row
 description: 
 published: true
-date: 2020-09-04T11:04:04.977Z
+date: 2020-09-24T12:02:31.140Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 La *row* (la rangée en français) est le composant privilégié pour les colonnes/*columns*. En combinant les deux vous serez capable de créer des sortes d'étagères visuelles.

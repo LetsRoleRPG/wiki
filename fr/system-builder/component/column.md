@@ -2,9 +2,9 @@
 title: Column
 description: 
 published: true
-date: 2020-09-04T11:05:22.700Z
+date: 2020-09-24T12:02:18.400Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Les *colomn* devraient **toujours** être placer dans les composants *Row*. Retrouver plus d'information à propos des colonnes ici : https://getbootstrap.com/docs/4.5/layout/grid/

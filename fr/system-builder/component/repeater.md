@@ -2,9 +2,9 @@
 title: Repeater
 description: 
 published: true
-date: 2020-09-04T11:11:58.753Z
+date: 2020-09-24T12:02:29.036Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Un *repeater* vous permet de créer une liste dynamique de *views/vues*. Les utilisateurs peuvent ajouter, modifier ou enlever des entrées.

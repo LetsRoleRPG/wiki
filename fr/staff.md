@@ -2,9 +2,9 @@
 title: L'équipe Let's Role
 description: 
 published: true
-date: 2020-09-09T10:41:46.848Z
+date: 2020-09-09T10:41:48.184Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Qui sommes-nous ?

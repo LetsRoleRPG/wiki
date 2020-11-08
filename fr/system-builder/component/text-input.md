@@ -2,9 +2,9 @@
 title: Text Input
 description: 
 published: true
-date: 2020-09-04T11:07:46.961Z
+date: 2020-09-24T12:02:35.393Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Ce composant est un champ que l'on peu remplir avec un text d'une ligne. Il est bien plus facile à utiliser en script que la *text area*.

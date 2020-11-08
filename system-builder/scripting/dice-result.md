@@ -2,9 +2,9 @@
 title: Dice Result
 description: 
 published: true
-date: 2020-09-04T13:43:30.959Z
+date: 2020-09-04T13:43:32.357Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Represents a dice result, rolled by a player or the GM.

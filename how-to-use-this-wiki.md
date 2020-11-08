@@ -2,9 +2,9 @@
 title: How to use this Wiki?
 description: 
 published: true
-date: 2020-09-10T08:14:37.539Z
+date: 2020-09-10T08:14:38.923Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Using Github

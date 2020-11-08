@@ -2,9 +2,9 @@
 title: Fog of War
 description: 
 published: true
-date: 2020-09-09T20:26:43.085Z
+date: 2020-09-09T20:26:44.394Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Fog of War is a tool used to easily reveal a zone steps by steps (like the rooms of a dungeon). The areas not revealed by the GM are not visible to the players.

@@ -2,9 +2,9 @@
 title: Translations
 description: 
 published: true
-date: 2020-09-04T10:52:47.635Z
+date: 2020-09-04T10:52:48.958Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 You can translate your character sheet in any locale using the translation module.

@@ -2,9 +2,9 @@
 title: Avatar
 description: 
 published: true
-date: 2020-09-04T11:13:10.660Z
+date: 2020-09-04T11:13:11.922Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 When using an avatar in the `main` character sheet, set the id to `avatar`.

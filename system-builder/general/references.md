@@ -2,9 +2,9 @@
 title: References
 description: 
 published: true
-date: 2020-09-04T10:45:47.207Z
+date: 2020-09-04T10:45:48.487Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 References are used to connect components values between them. For example, you could have a number component `charisma`, and another `persuasion`. If you want the value of `persuasion` to be 5 + the charisma, simply set the computed value to `5 + @charisma`. When the user update the value of `charisma`, the value of `persuasion` would automatically update. 

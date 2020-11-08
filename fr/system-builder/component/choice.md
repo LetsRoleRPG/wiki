@@ -2,9 +2,9 @@
 title: Choice
 description: 
 published: true
-date: 2020-09-04T11:09:53.264Z
+date: 2020-09-24T12:02:14.129Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Ce composant vous permettra de créer des choix à menus déroulants, et des questionnaires à choix multiples ou à choix unique. 

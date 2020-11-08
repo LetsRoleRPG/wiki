@@ -2,11 +2,10 @@
 title: Global Functions
 description: 
 published: true
-date: 2020-09-04T12:57:24.708Z
+date: 2020-09-24T12:03:24.369Z
 tags: 
-editor: markdown
+editor: undefined
 ---
-
 
 Those functions must be defined in the global scope. If you do not want to use
 one of there features, simply don't define the function.

@@ -2,9 +2,9 @@
 title: Container
 description: 
 published: true
-date: 2020-09-04T11:10:37.686Z
+date: 2020-09-24T12:02:20.510Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Un *container* , ou ["flex"](https://getbootstrap.com/docs/4.4/utilities/flex/), est un simple contenant utiliser dans un code internet.

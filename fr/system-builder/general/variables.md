@@ -2,9 +2,9 @@
 title: Variables
 description: 
 published: true
-date: 2020-09-04T10:48:44.585Z
+date: 2020-09-24T12:02:59.171Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 On the **Table** tab, you can find a table named variables. You can add variables on the table, and reference them into computed values, or other variables, or rolls. The `id` is the name of the variable (without the $), and value is the content of the variable.

@@ -2,9 +2,9 @@
 title: Computed Values
 description: 
 published: true
-date: 2020-09-04T10:50:31.280Z
+date: 2020-09-24T12:02:44.104Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 A few mathematical operations are available in a computed value. Using references and variables, it's a great way to make a dynamic character sheet, without having to use scripting.

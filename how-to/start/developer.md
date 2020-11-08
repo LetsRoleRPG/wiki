@@ -2,9 +2,9 @@
 title: How to start as a developer ?
 description: 
 published: true
-date: 2020-09-09T20:23:07.239Z
+date: 2020-09-09T20:23:08.534Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Let's Role is allowing everyone to create game systems.

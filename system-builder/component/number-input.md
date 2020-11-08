@@ -2,9 +2,9 @@
 title: Number Input
 description: 
 published: true
-date: 2020-09-04T11:07:10.258Z
+date: 2020-09-04T11:07:11.559Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 An input that should contain a numerical value.

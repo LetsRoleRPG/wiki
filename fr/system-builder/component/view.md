@@ -2,9 +2,9 @@
 title: View
 description: 
 published: true
-date: 2020-09-04T11:03:09.469Z
+date: 2020-09-24T12:02:39.708Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Une vue est l'élément principal d'une fiche/*sheet*, d'un *craft*, d'un élément de la fiche (comme le contenu d'un onglet ou un *reapeater*) ou d'un *prompt*.

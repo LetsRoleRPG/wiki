@@ -2,9 +2,9 @@
 title: Le brouillard de Guerre
 description: 
 published: true
-date: 2020-09-08T13:12:18.754Z
+date: 2020-09-08T13:12:20.061Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Le brouillard de guerre est un moyen simple de dévoiler une zone au fur et à mesure (comme les pièces d'un donjon). Les zones non devoilées par la MJ sont transparentes pour les joueurs.

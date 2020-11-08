@@ -2,9 +2,9 @@
 title: Textarea
 description: 
 published: true
-date: 2020-09-04T11:08:26.726Z
+date: 2020-09-24T12:02:37.546Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Ce composant est un champ qui peu contenir un text de plusieurs ligne. Il permet par exemple aux joueurs de prendre des notes à la volé pendant une partie.

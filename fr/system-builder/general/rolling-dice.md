@@ -2,9 +2,9 @@
 title: Rolling Dice
 description: 
 published: true
-date: 2020-09-04T10:44:30.883Z
+date: 2020-09-24T12:03:00.035Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 You can prompt a dice roll in a label component, using the "Roll on Click" property.
