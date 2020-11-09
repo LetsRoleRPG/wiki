@@ -9,30 +9,31 @@ editor: undefined
 
 # System creation
 
-When creating a new system, two things happen.
+Lors de la création d'un nouveau système, deux choses se produisent :
 
-First, a blank system is created, which you can edit.
+* Un système vierge que vous pouvez modifier est créé.
 
-Second, a new table is created with this system. This table is used in the "Run" panel of the system builder, but you can also access it throught your tables.
+* Une nouvelle table de jeu est créée avec ce système. Cette table est utilisée dans le panneau "Run" du *system builder*, mais vous pouvez également y accéder via vos tables.
 
-Please note that the current content is used when accessing this table as a builder, but not as a player (the latest commit is used when logging in as aplayer).
+Veuillez noter que le contenu actuel est utilisé lors de l'accès à cette table depuis "Run", mais pas depuis la connexion classique (le dernier commit est utilisé lors de la connexion en tant que joueur).
 
-# Current state & commits
+# Etats acutels et _commits_
 
-When you save your work in the system builder, it is saved as the **current state**. This state is not available to the people you have shared your work with.
+Lorsque vous enregistrez votre travail dans le générateur de système, il est enregistré dans **l'état actuel**. Cet état n'est pas disponible pour les personnes avec lesquelles vous avez partagé votre travail.
 
-If you want your work to be available to everyone, you need to commit.
+Si vous voulez que votre travail soit accessible à tous, vous devez **_commit_**.
 
-When commiting, you can submit a message to remember what the commit consist of, and choose to publish this commit. When the commit is published, all users using the system will use this commit.
+Lors d'un *commit*, vous pouvez soumettre un message pour vous rappeler en quoi consiste le commit et choisir de publier ce commit. Lorsque le commit est publié, tous les utilisateurs utilisant le système utiliseront ce derniers.
 
-If you made an error, you can revert your work to an old commit. **Please be aware that doing so will erase the current state** by the state of the commit.
+Si vous avez fait une erreur, vous pouvez rammené votre travail à un ancien commit. **Veuillez noter que cela remplacera l'état actuel** par l'état dans lequel était le commit.
 
-# Sharing systems
+# Systèmes de partage
 
-You will be given a link allowing you to share your system. Anyone with this link can use your system, and fork it.
+Vous recevrez un lien vous permettant de partager votre système lors de sa création. Ce lien ce trouve dans la page de résumé sur système. Toute personne disposant de ce lien peut utiliser votre système dans une table, et le fork.
 
 # Forking
 
-Forking allows you to change a system already created to suit your needs.
+Le *Fork* (littéralement fourche) vous permet de modifier un système déjà créé en fonction de vos besoins.
 
-You can fork a system shared with you. You will start at the last commit published by the creator. Please be aware that pull requests and merging is not possible at the moment.
+Vous pouvez fourcher/*fork* un système partagé avec vous. Vous commencerez au dernier commit publié par le créateur.  
+Veuillez noter que les demandes d'extraction (*pull request*) et la fusion (*merging*) ne sont pas possibles pour le moment, ce qui veut dire qu'un fork est indépendant de son original, et que les changements ne sont pas synchronisables.
