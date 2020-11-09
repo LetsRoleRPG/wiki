@@ -7,7 +7,7 @@ tags:
 editor: undefined
 ---
 
-# System creation
+# La création d'un système
 
 Lors de la création d'un nouveau système, deux choses se produisent :
 
