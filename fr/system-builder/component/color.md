@@ -7,6 +7,6 @@ tags:
 editor: undefined
 ---
 
-The color used to represent the character. Only available in the `main` character sheet.
+Ce composant permet de choisir une couleur représentative pour le personnage. Fonctionne uniquement dans la vue `main`, qui correspond à la fiche de personnage.
 
-Use only the id `color`.
+Son identifiant doit être `color` pour fonctionner.

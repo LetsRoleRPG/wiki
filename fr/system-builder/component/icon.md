@@ -7,13 +7,13 @@ tags:
 editor: undefined
 ---
 
-All free solid icons by font awesome are available. [Full list here](https://fontawesome.com/icons?d=gallery&s=solid&m=free).
+Tout les icon gratuit sont disponible par font awesome. [La liste est disponible ici](https://fontawesome.com/icons?d=gallery&s=solid&m=free).
 
 # Icon
-The icon's name.
+Le champ dans lequel on choisi le nom de l'icone.
 
 # Roll on click
-When set, the icon will be clickable, and will roll the dice in this formula.
+Une fois activé, l'icone sera cliquable, et lancera la formule de dés écrite dans ce champ.
 
 # Roll title
-When using Roll on click, the title of the roll.
+Ce champ contient le titre du lancer de dés, quand *Roll on click* est utilisé.

@@ -7,31 +7,34 @@ tags:
 editor: undefined
 ---
 
-A view is the main element of a sheet, a craft, a sheet element (like the content of a tab), or a prompt.
+Une vue est l'élément principal d'une fiche/*sheet*, d'un *craft*, d'un élément de la fiche (comme le contenu d'un onglet ou un *reapeater*) ou d'un *prompt*.
+Elle se trouve au sommet de l'arborescence. On en créé de nouvelle en en cliquant sur le + au dessus de "*source editor*". On les supprime avec un clique droit et on les modifie comme les autres composants, grâce au champs sur le droite de l'écran.
 
-# View types
+# Les types de vues/views
 ## Main View
-Should be used for the main character sheet, as this view is the one that will be used when creating a new character. You can only have one *Main View*.
+C'est le type destiné à la feuille de personnage, car c'est la vue/view de ce type qui sera utilisée lors de la création d'un nouveau personnage. __Il ne peut y avoir qu'une seule *Main View*.__
 
 ## SubComponent View
-*SubComponent Views* can be used either as parts of other views, for example in a tab component. They can also be used as craft elements, or prompt views.
+Les *SubComponent Views* peuvent être utilisée comme des parties d'autre vues/views. Par exemple, les vues de ce type associées à un [onglet/*tab*](/system-builder/component/tabs) seront affichées dans la vue ou ce dernier ce trouve. Ce type de vue est aussi utiliser dans les *craft*, les [*reapeater*](/system-builder/component/repeater) et les *prompt*.
 
-# View Options
+# Options
 
 ## Type
-The type of the view, as described above.
+Vous pouvez changer le type de vue après création.
 
 ## Craft
-Check if you want the view to be available in crafts.
+Cocher la case rend disponible la vue en tant que *craft* dans le *content crafting*.
 
 ## Width, Height
-The dimensions of the view. Minimum is 400x275. Maximum is 950x600.
+Ce sont les dimensions de la vue en pixels. Elles s'affichent en points-tillé dans le mode preview du système builder. Le minimum est 400x275, le maximum 950x600.
 
 ## Tokenizable
-Available only on crafts, this option allow the GM to drop the craft on the map, for example as an NPC or Monster. An avatar is required for this to work.
+Seules les vues craftable peuvent cocher cette case leur permettant d'être glissée déposée sur la carte par le maître de jeu depuis le *content crafting*. On l'utilise notamment pour les monstres et les personnages non joueurs.
+La vue doit aussi contenir un composant [Avatar](/system-builder/component/avatar) pour que cela fonction (vous pourrez cochez la cases, mais sans avatar, aucun token n'apparaîtra).
 
 ## Droppable
-Available only on crafts, this option allow the GM to drop the craft on another character sheet or craft. You are required to edit the scripting to reflect what the drop would do.
+Disponible seulement pour les craft, cette case permet au maître de jeu de glisser déposer le *craft* depuis le *content crafting* vers une fiche de personnage ou un autre craft.
+Un script qui dicte ce que doit ce passer quand le craft est déposé est requis.
 
 ## Avatar's id
-The id of the avatar component of this view.
+On y renseigne l'identifiant du composant *avatar* qui correspond à la vue.

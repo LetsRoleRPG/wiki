@@ -7,13 +7,13 @@ tags:
 editor: undefined
 ---
 
-An input that should contain a numerical value.
+Un champ qui peut être remplis avec des valeurs numériques.
 
 # Value
-The default or computed value of the input.
+Ce champ peut être rempli de la valeur par défaut du *Number Input*. Cette valeur peu être calculée.
 
 # Minimum / Maximum
-The minimum and maximum values of the input.
+Les valeurs minimales et maximales que peut prendre le nombre contenu.
 
 # Computed
-Set the value of the input to be computed.
+Avec cette case cochée, la valeur sera calculée avec la formule écrite dans *Value*.
