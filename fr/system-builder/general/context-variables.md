@@ -7,11 +7,11 @@ tags:
 editor: undefined
 ---
 
-Context variables are available in two places : 
+Les variables contextuelles sont utilisable en deux endroits :
 
-* **Repeaters** read view, where the data of the editable view is available
-* **Bindings** view, where the data passed in the scripting is available
+* La vue affichage d'un **Repeaters**, où les données de la vue éditable sont disponible.
+* Les vues **"Bindings"**, où les données qui sont dans le script sont disponibles.
 
-Context variables are accessed with `#` followed by the name of the variable.
+Les variables contextuelles sont appellées avec un `#` suivi du non de la variable.
 
-For example, you have a repeater with a field named `spellName` in the editable view. On the readable view, you can setup a computed label, with the value `#spellName`. The spell name will be displayed in the label.
+Par exemple, vous avez un *repeater* avec un champ nommé `spellName` dans la vue modifiable. Sur la vue affichage, vous pouvez configurer un *label* *computed*, avec la valeur `#spellName`. Le nom du sort sera affiché dans le *label*.
