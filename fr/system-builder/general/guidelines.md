@@ -12,7 +12,6 @@ editor: undefined
 
 # Composants requis
 ## Avatar
-The avatar is required on character sheets and crafts. You can use any id you'd want, but you need to specify the id used in the view attribute : "Avatar's id".
 L'avatar est obligatoire sur les feuilles de personnage et les craft. Vous pouvez utiliser n'importe quel identifiant de votre choix, mais vous devez spécifier l'identifiant utilisé dans le champ de la *view*/vue *"Avatar's id"*.
 
 ## Color
