@@ -4,7 +4,8 @@ description:
 published: true
 date: 2020-09-04T11:06:26.553Z
 tags: 
-editor: undefined
+
+editor: Tsuna77
 ---
 
 A simple text.
@@ -12,11 +13,18 @@ A simple text.
 # Text
 The content of the label. HTML is not allowed. If the label is computed, the value is calculated.
 
-# Roll on click
-A roll expression to run when clicking the label.
-
 # Computed
 Check this if you want the text of the label to be computed.
+
+# Markdown
+Check this box if you want to activate markdown support for your label. 
+Current markdown mark allowed :
+
+- _italic_ `_italicText_`
+- **bold** `**boldText**`
+- icons like the [Icon](/system-builder/component/icon) component `:icon:` -- [Full list here](https://fontawesome.com/icons?d=gallery&s=solid&m=free).
+
+If you need more support please ask for an update on discord
 
 # Roll on click
 You can set a dice formula to roll when clicking on the label here. You do not need to set "clickable" when this has a value.
