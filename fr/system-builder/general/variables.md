@@ -7,32 +7,34 @@ tags:
 editor: undefined
 ---
 
-On the **Table** tab, you can find a table named variables. You can add variables on the table, and reference them into computed values, or other variables, or rolls. The `id` is the name of the variable (without the $), and value is the content of the variable.
+Dans l'onglet **Table**, vous pouvez trouver une table nommée *variables*. Vous pouvez ajouter des variables dans cette table et les utiliser ensuite dans des valeurs et des label calculées/computed, d'autres variables, et même des jet de dés.  
+Dans la colonne `id` se trouve les nom des variables (sans le $), et leur valeur sont contenu dans la colonne `value`.
 
-Beware that only mathematical results can be used in variable, you cannot store `string` or `object`.
+Attention, seuls les valeurs mathématiques peuvent être utilisés dans une variable, vous ne pouvez pas stocker des `string` (ligne de text) ou des `object`.
 
-To reference a variable, use the prefix `$`. The variable's name should only contain letters and underscores "_" and we strongly recommand you do not use uppercase letters.
+Pour utiliser une variable, utiliser le prefix `$`. Le nom de la variable ne doit contenir que des lettres et des underscores `_` (tiré du huit) et nous vous recommandons vivement de ne pas utiliser de majuscules.
 
-You can set the variable's value to a simple number : 
+Vous pouvez définir la valeur de la variable comme un simple nombre :
 ```
 23
 ```
 
-You can also reference other variables and components in the value, for exemple with the following value for `bonus` : 
+Vous pouvez également appelé d'autres variables et composants dans *value*. On peu donné la valeur suivante pour `bonus` par exemple :
 ```
 @dexterity + 3
 ```
 
-So, in a label component, you could use the following roll : 
+Ainsi, dans un label, vous pouvez utiliser la formule de jet de dés suivante :
 ```
 3d6 + $bonus
 ```
 
-Then if the value of `@dexterity` is 5, the roll in this example should be `3d6 + 8`.
+Ainsi, si la valeur de `@dexterity` est 5, le jet dans cet exemple doit être `3d6 + 8`.
 
-The variable `$bonus` can also be used in a manual roll made in the chat box, using for example `/roll 4d6 + $bonus`.
+La variable `$bonus` peut également être utilisée dans un jet manuel effectué dans la boîte de tchat, en utilisant par exemple `/roll 4d6 + $bonus`.
 
-You can also set a variable to be a string, using double quotes :
+Vous pouvez également définir une variable comme une linge de texte (*string*), en utilisant des guillemets :
+
 ```
 "hello there"
 ```
