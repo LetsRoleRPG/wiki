@@ -14,4 +14,4 @@ Les variables contextuelles sont utilisable en deux endroits :
 
 Les variables contextuelles sont appellées avec un `#` suivi du non de la variable.
 
-Par exemple, vous avez un *repeater* avec un champ nommé `spellName` dans la vue modifiable. Sur la vue affichage, vous pouvez configurer un *label* *computed*, avec la valeur `# spellName`. Le nom du sort sera affiché dans le *label*.
+Par exemple, vous avez un *repeater* avec un champ nommé `spellName` dans la vue modifiable. Sur la vue affichage, vous pouvez configurer un *label* *computed*, avec la valeur `#spellName`. Le nom du sort sera affiché dans le *label*.
