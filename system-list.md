@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-11-08T16:18:27.129Z
+date: 2020-11-10T17:45:49.853Z
 tags: 
 editor: markdown
 ---
@@ -23,6 +23,7 @@ All the systems above were created by the community and will be maintained by th
 | Channel FEAR                                | Herya             | :gb:      | [Channel FEAR](https://alpha.lets-role.com/sy/XIrCrqjKUJdquPxQ)                        | [Channel FEAR](https://community.lets-role.com/t/channel-fear-system/4270)                                                |
 | Chroniques Oubliées                         | Bloodshadow34     | :fr:      | [Chroniques Oubliées](https://alpha.lets-role.com/sy/ZHX7ZWrGxWACM0Ou)                 | [Chroniques Oubliées](https://community.lets-role.com/t/chroniques-oubliees/2620)                                         |
 | Chroniques Oubliées - Cthulhu               | Straitjacket      | :fr:      | [Chroniques Oubliées - Cthulhu](https://alpha.lets-role.com/sy/ZBtxNPOkEv55hiOq)       | [Chroniques Oubliées - Cthulhu](https://community.lets-role.com/t/chroniques-oubliees-cthulhu/2963)                       |
+| Contes de Minuit                         | Ashgumo     | :fr:      | [Contes de Minuit](https://alpha.lets-role.com/sy/Ap5zKIaK9m1HchPT)                 |                                   |
 | Coriolis - The Third Horizon EN             | DLDone            | :gb:      | [Coriolis](https://alpha.lets-role.com/sy/G5JfaeqZj08BD1IT)                            | [Coriolis](https://community.lets-role.com/t/coriolis-the-third-horizon-eng/3354)                                         |
 | Coriolis - The Third Horizon FR             | Bigorno           | :fr:      | [Coriolis](https://alpha.lets-role.com/sy/v64pYoZeTK5xb7bp)                            | [Coriolis](https://community.lets-role.com/t/coriolis-the-third-horizon-eng/3354)                                         |
 | Cthulhu Hack                                | erkadae           | :fr:      | [Cthulhu Hack](https://alpha.lets-role.com/sy/l8PYbA0YqmSt0hHq)                        | [Cthulhu Hack](https://community.lets-role.com/t/cthulhu-hack-vf/3608)                                                    |
