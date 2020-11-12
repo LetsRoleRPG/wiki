@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-11-10T17:59:54.320Z
+date: 2020-11-12T13:53:52.438Z
 tags: 
 editor: markdown
 ---
@@ -47,6 +47,7 @@ All the systems above were created by the community and will be maintained by th
 | Green Dawn Mall                             | CaiusRomanus      | :gb:      | [Green Dawn Mall](https://alpha.lets-role.com/sy/rYZOloYj8erWfROT)                     | [Green Dawn Mall](https://community.lets-role.com/t/green-dawn-mall/3219)                                                 |
 | Harry Potter Wolrd                          | Kurblink          | :fr:      | [Harry Potter Wolrd](https://alpha.lets-role.com/sy/JbYAOAeoA02H1Eqh)                  | [Harry Potter Wolrd](https://community.lets-role.com/t/jdr-harry-potter-wolrd/4264)                                       |
 | Héros & Dragons                             | Alex2212 & Ocleos | :fr:      | [Héros & Dragons](https://alpha.lets-role.com/sy/jetaLJWIu1sbhoQX)                     | [Héros & Dragons](https://community.lets-role.com/t/heros-dragons/1675)                                                   |
+| Hexagon Universe                             | Frog-Eater | :fr:      | [Hexagon Universe](https://alpha.lets-role.com/sy/x5meWlECuPqA7nN3)                     | [Hexagon Universe](https://community.lets-role.com/t/fr-hexagon-universe/5899)                                                   |
 | Into the Odd / Electric BastionLand         | Neuralnoise       | :fr:      | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) | [into the Odd](https://community.lets-role.com/t/into-the-odd-electricbastionland/2947)                                   |
 | Kémi                                        | Verdad            | :fr:      | [Kémi](https://alpha.lets-role.com/sy/hgDYS7KLBAGSNU9B)                                | [Kémi](https://community.lets-role.com/t/systeme-pour-kemi/3542)                                                          |
 | Knight v1.5                                 | Stram             | :fr:      | [Knight v1.5](https://alpha.lets-role.com/sy/sdyMdRoDETvoBvyv)                         | [JDR Knight v1.5](https://community.lets-role.com/t/jdr-knight-v1-5/3728)                                                 |
