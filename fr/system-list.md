@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-11-17T08:39:41.356Z
+date: 2020-11-17T08:41:07.810Z
 tags: 
 editor: markdown
 ---
@@ -35,7 +35,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Dominion: Jeux de pouvoir et Maisons nobles | Zracoh            | :fr:      | [Dominion](https://alpha.lets-role.com/sy/3puTDbPSL6s8i1OE)                            | [Dominion](https://community.lets-role.com/t/dominion-jeux-de-pouvoir-et-maisons-nobles/3043)                             |
 | Donjon de Naheulbeuk | FHL            | :fr:      | [Naheulbeuk](https://alpha.lets-role.com/sy/Bubiy4uk7uHEhxGi)                            |                              |
 | Dragon Age                                  | Sykelig           | :fr: :gb: | [Dragon Age](https://alpha.lets-role.com/sy/H08wbadmiLtoAVfl)                          | [Dragon Age](https://community.lets-role.com/t/dragon-age-fr-eng-work-in-progress/4354)                                   |
-| Dragons (Studio Agate)                                  | Tsuna77           | :fr: :gb: | WIP                          |                                    |
+| Dragons (Studio Agate)                                  | Tsuna77           | :fr: :gb: | [Dragons](https://alpha.lets-role.com/sy/rEH7fJmHxP3BGYnJ)              | [Dragons](https://community.lets-role.com/t/wip-fr-en-dragons-fateforge/6181)   
 | Dungeon Crawl Classics                      | Neuralnoise       | :fr:      | [Dungeon Crawl Classics](https://alpha.lets-role.com/sy/Hxj00ENML5eDAzkj)              | [Dungeon Crawl Classics](https://community.lets-role.com/t/dungeon-crawl-classics-vf-wip/3557)                            |
 | Ecryme - La geste des traveres              | Liesunder68       | :fr:      | [Ecryme](https://alpha.lets-role.com/sy/taWjEWS2eA8xMzh8)                              | [Ecryme](https://community.lets-role.com/t/ecryme-la-geste-des-traveres/2432)                                             |
 | Esoteric Entreprises              | Neuralnoise       | :gb:      | [Esoteric Entreprises](https://alpha.lets-role.com/sy/DeiZTfGg2dHF58aR)                              |                                             |
