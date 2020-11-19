@@ -2,7 +2,7 @@
 title: System Builder
 description: 
 published: true
-date: 2020-11-19T16:52:02.521Z
+date: 2020-11-19T16:52:32.652Z
 tags: 
 editor: markdown
 ---
@@ -14,15 +14,15 @@ Voici la documentation du **System Builder** de Let's Role. Vous trouverez ici t
 
 
 # Géneral
-* [Workflow *Comment les systèmes sont-ils gérés ?*](/system-builder/general/workflow) 
-* [Indications *Conseils généraux pour un bon système*](/system-builder/general/guidelines)
-* [Mise en forme *Comment modifier l'aspect de votre système*](/system-builder/general/styling) 
-* [Jeter un dé *Comment jeter des dés compliqués sans script*](/system-builder/general/rolling-dice) 
-* [Références *Faire référence à une partie de la fiche dans une autre partie*](/system-builder/general/references) 
-* [Variables *Créer et user de variables définies globalement*](/system-builder/general/variables) 
-* [Calcul de valeurs *Faire des calculs avancés sans script*](/system-builder/general/computed-values) 
-* [Variables contextuelles *Faire référence et afficher les informations d'un repeater ou d'un script*](/system-builder/general/context-variables) 
-* [Traduction *Comment traduire votre système dans une autre langue*](/system-builder/general/translations) 
+* [Workflow *Comment les systèmes sont-ils gérés ?*](/fr/system-builder/general/workflow) 
+* [Indications *Conseils généraux pour un bon système*](/fr/system-builder/general/guidelines)
+* [Mise en forme *Comment modifier l'aspect de votre système*](/fr/system-builder/general/styling) 
+* [Jeter un dé *Comment jeter des dés compliqués sans script*](/fr/system-builder/general/rolling-dice) 
+* [Références *Faire référence à une partie de la fiche dans une autre partie*](/fr/system-builder/general/references) 
+* [Variables *Créer et user de variables définies globalement*](/fr/system-builder/general/variables) 
+* [Calcul de valeurs *Faire des calculs avancés sans script*](/fr/system-builder/general/computed-values) 
+* [Variables contextuelles *Faire référence et afficher les informations d'un repeater ou d'un script*](/fr/system-builder/general/context-variables) 
+* [Traduction *Comment traduire votre système dans une autre langue*](/fr/system-builder/general/translations) 
 * [Craft *Comment créer vos propres crafts*](/fr/system-builder/general/craft) 
 {.links-list}
 
