@@ -2,7 +2,7 @@
 title: Computed Values
 description: 
 published: true
-date: 2020-11-19T21:40:54.822Z
+date: 2020-11-19T21:41:21.362Z
 tags: 
 editor: markdown
 ---
@@ -37,7 +37,7 @@ Dans ce nouvel exemple, il s'agit du craft des armes utilisé dans le système D
 
 # Les Drops
 
-Lorsqu'un craft est de type `droppable` il faut ajouter un bout de script afin de configurer dans quel `repeater` la fiche doit être copié.
+Lorsqu'un craft est de type `droppable` il faut ajouter un bout de script afin de configurer dans quel `repeater` la fiche doit être copiée.
 
 Il faut aussi respecter les noms des champs du `repeater` car les id des champs doivent être identiques. D'où le fait d'utiliser directement la vue d'édition du `repeater` autant que possible.
 
