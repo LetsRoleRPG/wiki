@@ -2,9 +2,9 @@
 title: System Builder
 description: 
 published: true
-date: 2020-09-24T12:28:06.657Z
+date: 2020-11-19T16:52:02.521Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 Voici la documentation du **System Builder** de Let's Role. Vous trouverez ici tout ce dont vous aurez besoin pour commencer à créer votre système de jeu customisé.
@@ -23,6 +23,7 @@ Voici la documentation du **System Builder** de Let's Role. Vous trouverez ici t
 * [Calcul de valeurs *Faire des calculs avancés sans script*](/system-builder/general/computed-values) 
 * [Variables contextuelles *Faire référence et afficher les informations d'un repeater ou d'un script*](/system-builder/general/context-variables) 
 * [Traduction *Comment traduire votre système dans une autre langue*](/system-builder/general/translations) 
+* [Craft *Comment créer vos propres crafts*](/fr/system-builder/general/craft) 
 {.links-list}
 
 # Composant
