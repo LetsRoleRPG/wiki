@@ -2,9 +2,9 @@
 title: Component
 description: 
 published: true
-date: 2020-09-24T12:03:24.369Z
+date: 2020-11-20T14:41:04.810Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 Represents a element that has been placed on a Sheet.
@@ -63,7 +63,7 @@ log(hp.value()); // 5
 hp.value(11); // update and save the new value
 ```
 
-##=# `rawValue()`
+## `rawValue()`
 type: `null|number|string|object`
 
 Get or the base, "non-virtual" value of the component.
