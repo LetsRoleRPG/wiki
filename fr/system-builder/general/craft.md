@@ -1,8 +1,8 @@
 ---
-title: Computed Values
+title: Craft
 description: 
 published: true
-date: 2020-11-19T21:41:21.362Z
+date: 2020-11-20T13:26:48.954Z
 tags: 
 editor: markdown
 ---
