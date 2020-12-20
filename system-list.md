@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-12-19T13:41:47.665Z
+date: 2020-12-20T22:38:03.610Z
 tags: 
 editor: markdown
 ---
@@ -20,6 +20,7 @@ All the systems above were created by the community and will be maintained by th
 | L'appel de Cthulhu v7                       | Jaggerwock        | :fr: :gb: | [Call of Cthulhu v7](https://alpha.lets-role.com/sy/fcYYEimo2ZVYBuzF)                  | [Call of Cthulhu v7](https://community.lets-role.com/t/call-of-cthulhu-7e/1255)                                           |
 | Barbarians of Lemuria                       | DLDone            | :fr:      | [Barbarians of Lemuria](https://alpha.lets-role.com/sy/XDhu9s4ROc5mFrZQ)               | [Barbarians of Lemuria](https://community.lets-role.com/t/barbarians-of-lemuria-fr/3927)                                  |
 | Beast & Barbarian                           | Pignata           | :fr:      | [Beast & Barbarian](https://alpha.lets-role.com/sy/N8mxjJuKDKWFpnpi)                   | [Beast & Barbarian](https://community.lets-role.com/t/beast-barbarian/2902)                                               |
+| Blades in the dark                          | Dyzae             | :gb:      | [Blades in the dark](https://alpha.lets-role.com/sy/Ybiox4CAiZz0pxLn)                  | [Blades in the dark](https://community.lets-role.com/t/blades-in-the-dark/7051)                                  |
 | Channel FEAR                                | Herya             | :gb:      | [Channel FEAR](https://alpha.lets-role.com/sy/XIrCrqjKUJdquPxQ)                        | [Channel FEAR](https://community.lets-role.com/t/channel-fear-system/4270)                                                |
 | Chroniques Oubliées                         | Bloodshadow34     | :fr:      | [Chroniques Oubliées](https://alpha.lets-role.com/sy/ZHX7ZWrGxWACM0Ou)                 | [Chroniques Oubliées](https://community.lets-role.com/t/chroniques-oubliees/2620)                                         |
 | Chroniques Oubliées - Cthulhu               | Straitjacket      | :fr:      | [Chroniques Oubliées - Cthulhu](https://alpha.lets-role.com/sy/ZBtxNPOkEv55hiOq)       | [Chroniques Oubliées - Cthulhu](https://community.lets-role.com/t/chroniques-oubliees-cthulhu/2963)                       |
