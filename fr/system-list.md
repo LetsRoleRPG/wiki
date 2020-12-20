@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-12-19T13:43:33.289Z
+date: 2020-12-20T22:37:25.512Z
 tags: 
 editor: markdown
 ---
@@ -19,6 +19,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | L'appel de Cthulhu v6                       | Dyzae        			| :fr:  		| [Call of Cthulhu v6](https://alpha.lets-role.com/sy/GogG0LsIEX0sct1Q)                  | [Call of Cthulhu v6](https://community.lets-role.com/t/call-of-cthulhu-v6/4640)                                           |
 | L'appel de Cthulhu v7                       | Jaggerwock        | :fr: :gb: | [Call of Cthulhu v7](https://alpha.lets-role.com/sy/fcYYEimo2ZVYBuzF)                  | [Call of Cthulhu v7](https://community.lets-role.com/t/call-of-cthulhu-7e/1255)                                           |
 | Barbarians of Lemuria                       | DLDone            | :fr:      | [Barbarians of Lemuria](https://alpha.lets-role.com/sy/XDhu9s4ROc5mFrZQ)               | [Barbarians of Lemuria](https://community.lets-role.com/t/barbarians-of-lemuria-fr/3927)                                  |
+| Blades in the dark                          | Dyzae             | :gb:      | [Blades in the dark](https://alpha.lets-role.com/sy/Ybiox4CAiZz0pxLn)                  | [Blades in the dark](https://community.lets-role.com/t/blades-in-the-dark/7051)                                  |
 | Beast & Barbarian                           | Pignata           | :fr:      | [Beast & Barbarian](https://alpha.lets-role.com/sy/N8mxjJuKDKWFpnpi)                   | [Beast & Barbarian](https://community.lets-role.com/t/beast-barbarian/2902)                                               |
 | Channel FEAR                                | Herya             | :gb:      | [Channel FEAR](https://alpha.lets-role.com/sy/XIrCrqjKUJdquPxQ)                        | [Channel FEAR](https://community.lets-role.com/t/channel-fear-system/4270)                                                |
 | Chroniques Oubliées                         | Bloodshadow34     | :fr:      | [Chroniques Oubliées](https://alpha.lets-role.com/sy/ZHX7ZWrGxWACM0Ou)                 | [Chroniques Oubliées](https://community.lets-role.com/t/chroniques-oubliees/2620)                                         |
