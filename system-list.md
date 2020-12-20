@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-12-11T21:12:47.665Z
+date: 2020-12-19T13:41:47.665Z
 tags: 
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 
 All the systems above were created by the community and will be maintained by their authors
 
-| Game                                        | Autor             | Language  | system link                                                                            | forum link                                                                                                                |
+| Game                                        | Author            | Language  | System link                                                                            | Forum link                                                                                                                |
 | ------------------------------------------- | ----------------- | --------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 7e Mer V2                                   | Neuralnoise       | :fr:      | [7e Mer V2](https://alpha.lets-role.com/sy/VdyCrUJ7wmhXhHfW)                           | [7e Mer v2](https://community.lets-role.com/t/7e-mer-v2-les-secrets-de-la-septieme-mer/2997)                              |
 | ALIEN by Free League Publishing             | Stefouch          | :fr: :gb: | [ALIEN RPG](https://alpha.lets-role.com/sy/QqEoxwYVhRR6zvdx)                           | [ALIEN RPG](https://community.lets-role.com/t/alien-rpg-by-free-league-eng-fra/3060)                                      |
@@ -32,6 +32,7 @@ All the systems above were created by the community and will be maintained by th
 | Cyberpunk 2020                              | JojoDeLanhuon     | :fr:      | [Cyberpunk 2020](https://alpha.lets-role.com/sy/VvSQv9ZmAVLFnrs1)                      | [Cyberpunk 2020](https://community.lets-role.com/t/cyberpunk-2020-feuille-simple/2501)                                    |
 | Cypher System                               | JojoDeLanhuon     | :fr:      | [Cypher System](https://alpha.lets-role.com/sy/Px8nYzIlz8NeXJZr)                       | [Cypher System](https://community.lets-role.com/t/cypher-system-work-in-progress/3539)                                    |
 | D-critique                                  | Sunder            | :fr:      | [D-critique](https://alpha.lets-role.com/sy/beRIpqP8UeTS9x1K)                          | [D-critique](https://community.lets-role.com/t/fiche-personnage-pour-le-systeme-d-critique/3068)                          |
+| Deadlands                                   | Klnavajo          | :fr:      | [Deadlands](https://alpha.lets-role.com/sy/0yVGhmP3tZWQKVBu)                           | [Deadlands](https://community.lets-role.com/t/fiche-de-deadlands/3797/14)                                                            |
 | Doctor Who (Cubible 7)                      | garthh            | :fr: :gb: | [Doctor Who](https://alpha.lets-role.com/sy/V7CeyvKBYCIGbpan)                          | [Doctor Who](https://community.lets-role.com/t/doctor-who-rpg-cubicle-7/2655)                                             |
 | Dominion: Jeux de pouvoir et Maisons nobles | Zracoh            | :fr:      | [Dominion](https://alpha.lets-role.com/sy/3puTDbPSL6s8i1OE)                            | [Dominion](https://community.lets-role.com/t/dominion-jeux-de-pouvoir-et-maisons-nobles/3043)                             |
 | Donjon de Naheulbeuk                        | FHL               | :fr:      | [Naheulbeuk](https://alpha.lets-role.com/sy/Bubiy4uk7uHEhxGi)                          |                                                                                                                           |
