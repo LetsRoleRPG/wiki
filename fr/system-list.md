@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-12-20T22:37:25.512Z
+date: 2021-01-04T20:10:11.390Z
 tags: 
 editor: markdown
 ---
@@ -61,6 +61,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Meute                                       | Verdad            | :fr:      | [Meute](https://alpha.lets-role.com/sy/VF1vxFsipVkD0FMU)                               | [Meute](https://community.lets-role.com/t/meute-feuille-de-personnage-et-de-meute/2773)                                   |
 | Mindjammer (FATE)                           | Caine_Dombre      | :fr:      | [Mindjammer (FATE)](https://alpha.lets-role.com/sy/YHMLcydYqIZMQ33E)                   | [Mindjammer (FATE)](https://community.lets-role.com/t/mindjammer-fate/2221)                                               |
 | Monster of the Week                         | CaiusRomanus      | :fr: :gb: | [Monster of the Week](https://alpha.lets-role.com/sy/gq07E0ifDDLNUixt)                 | [Monster of the Week](https://community.lets-role.com/t/monster-of-the-week/3143)                                         |
+| MÖRK BORG                           | Neuralnoise      | :gb:      | [MÖRK BORG](https://alpha.lets-role.com/sy/ikJqx4escB1QMa1y)                   | [MÖRK BORG](https://community.lets-role.com/t/eng-mork-borg/7072)                                               |
 | Naeriadim                                   | Zracoh            | :fr:      | [Naeriadim](https://alpha.lets-role.com/sy/aBF4HVtJ4SAlbLEH)                           | [Naeriadim (ZraD100)](https://community.lets-role.com/t/naeriadim-zrad100/1280)                                           |
 | Neon City Overdrive                         | Aeciobf           | :gb:      | En création                                                                            | [Neon City Overdrive](https://community.lets-role.com/t/neon-city-overdrive/4006)                                         |
 | Nephilim Légende                            | Bruzbros & Garthh | :fr:      | [Nephilim Légende](https://alpha.lets-role.com/sy/uNT71qsOj36rRAKl)                    | [Nephilim Légende](https://community.lets-role.com/t/nephilim-legende/2610)                                               |
