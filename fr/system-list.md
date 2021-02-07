@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-01-04T20:10:11.390Z
+date: 2021-02-07T14:52:27.988Z
 tags: 
 editor: markdown
 ---
@@ -85,7 +85,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Tiamat                                      | Klnavajo          | :fr:      | [Tiamat](https://alpha.lets-role.com/sy/aA94eqX1KsC1iUkE)                              | [Tiamat](https://community.lets-role.com/t/tiamat-fr-wip/6032)                                                            |
 | Tiny                                        | Jetman            | :fr:      | [Tiny](https://alpha.lets-role.com/sy/8ZIghWOFvz5LDioG)                                | [Tiny](https://community.lets-role.com/t/tiny-systeme-svs/1940)                                                           |
 | Vampire la mascarade 20e anniv              | Dyzae             | :fr: :gb: | [Vampire la mascarade 20e anniv](https://alpha.lets-role.com/sy/uqwI6owuvt6KB1Ff)      | [Vampire la mascarade 20e anniv](https://community.lets-role.com/t/vampire-la-mascarade-20e-annif/1188/)                  |
-| Vampire la mascarade v5                     | Reiaka            | :fr: :gb: | [Vampire la mascarade 5ed](https://alpha.lets-role.com/sy/ldXo3kinfYR5KSiL)            | [Vampire la mascarade 5d](https://community.lets-role.com/t/vampire-la-mascarade-5e-edition/1618)                         |
+| Vampire la mascarade v5                     | Tiamate            | :fr: :gb: | [Vampire la mascarade 5ed](https://alpha.lets-role.com/sy/3pFdHvXUkAH0qCWd)            | [Vampire la mascarade 5d](https://community.lets-role.com/t/vampire-the-masquerade-5-ed-ninja-update/7291)                           |
 | Warhammer Fantasy Role Play V4              | Skas              | :fr:      | [WFRP4](https://alpha.lets-role.com/sy/8O43ELHETUdFV8mf)                               | [WFRP4](https://community.lets-role.com/t/warhammer-fantasy-role-play-v4-wfrp4-cubicle-7/2952)                            |
 | Warhammer V1                                | Klnavajo          | :fr:      | [Warhammer V1](https://alpha.lets-role.com/sy/PVl8FfROlrQLO6Vg)                        | [Warhammer V1](https://community.lets-role.com/t/warhammer-v1-fr-wip/6522)                                                |
 | Warhammer V4                                | Stakhanovitch     | :fr:      | [Warhammer V4](https://alpha.lets-role.com/sy/Yitn3r9IsKPdcCqe)                        |                                                                                                                           |
