@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-02-08T18:49:10.324Z
+date: 2021-02-08T20:46:45.579Z
 tags: 
 editor: markdown
 ---
@@ -68,7 +68,7 @@ All the systems above were created by the community and will be maintained by th
 | Neon City Overdrive                         | Aeciobf           | :gb:      | Not release                                                                            | [Neon City Overdrive](https://community.lets-role.com/t/neon-city-overdrive/4006)                                         |
 | Nephilim Légende                            | Bruzbros & Garthh | :fr:      | [Nephilim Légende](https://alpha.lets-role.com/sy/uNT71qsOj36rRAKl)                    | [Nephilim Légende](https://community.lets-role.com/t/nephilim-legende/2610)                                               |
 | Noc                                         | Verdad            | :fr:      | [Noc](https://alpha.lets-role.com/sy/51HLbciORB892J9G)                                 | [Noc](https://community.lets-role.com/t/noc-feuille-de-personnage-kit-dinitiation/2774)                                   |
-| Les Ombres d'Esteren / Shadows of Esteren   | Theo / Arch-kain  | :fr: :gb: | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)                | [les Ombres d'Esteren](https://community.lets-role.com/t/shadows-of-esteren-ombres-desteren/2527)                         |
+| Les Ombres d'Esteren / Shadows of Esteren   | Sengiir / Arch-kain  | :fr: :gb: | [Les Ombres d'Esteren](https://alpha.lets-role.com/sy/8j0IG381Tu8WjT6e)                | [les Ombres d'Esteren](https://community.lets-role.com/t/shadows-of-esteren-ombres-desteren/2527)                         |
 | Open Legend                                 | Vyzzini           | :gb:      | [Open Legend](https://alpha.lets-role.com/sy/vG49dp1GzCQlK3rf)                         | [Open Legend RPG](https://community.lets-role.com/t/open-legend-rpg/3823)                                                 |
 | Oreste                                      | Ocleos            | :fr:      | [Oreste](https://alpha.lets-role.com/sy/7kuktJIhqOqCYIC1)                              | [Oreste](https://community.lets-role.com/t/oreste-vf-wip/3286)                                                            |
 | Pathfinder 1ed                              | Dyzae             | :fr: :gb: | [Pathfinder](https://alpha.lets-role.com/sy/JZkvSOv0SZzcz8Ty)                          | [Pathfinder 1ed](https://community.lets-role.com/t/pathfinder-1-edition/3077)                                             |
