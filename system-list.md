@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2020-12-19T13:41:47.665Z
+date: 2021-02-16T16:11:47.665Z
 tags: 
 editor: markdown
 ---
@@ -22,7 +22,7 @@ All the systems above were created by the community and will be maintained by th
 | Beast & Barbarian                           | Pignata           | :fr:      | [Beast & Barbarian](https://alpha.lets-role.com/sy/N8mxjJuKDKWFpnpi)                   | [Beast & Barbarian](https://community.lets-role.com/t/beast-barbarian/2902)                                               |
 | Channel FEAR                                | Herya             | :gb:      | [Channel FEAR](https://alpha.lets-role.com/sy/XIrCrqjKUJdquPxQ)                        | [Channel FEAR](https://community.lets-role.com/t/channel-fear-system/4270)                                                |
 | Chroniques Oubliées                         | Macmist           | :fr:      | [Chroniques Oubliées](https://alpha.lets-role.com/sy/Kzr5FqYed7gYh06j)                 | [Chroniques Oubliées](https://community.lets-role.com/t/wip-fr-chroniques-oubliees/5422)                                         |
-| Chroniques Oubliées - Cthulhu               | Straitjacket      | :fr:      | [Chroniques Oubliées - Cthulhu](https://alpha.lets-role.com/sy/ZBtxNPOkEv55hiOq)       | [Chroniques Oubliées - Cthulhu](https://community.lets-role.com/t/wip-fr-chroniques-oubliees/5422)                       |
+| Chroniques Oubliées - Cthulhu               | Straitjacket      | :fr:      | [Chroniques Oubliées - Cthulhu](https://alpha.lets-role.com/sy/ZBtxNPOkEv55hiOq)       | [Chroniques Oubliées - Cthulhu](https://community.lets-role.com/t/chroniques-oubliees-cthulhu/2963)                       |
 | Chroniques Oubliées Fantasy - Mini (CO : Mini) | Alundrã        | :fr:      | [CO : Mini](https://alpha.lets-role.com/sy/W1KY2AJpMb9I2WgA)                           | [CO : Mini]( https://community.lets-role.com/t/co-mini-chroniques-oubliees-mini/6162)                                     |
 | Contes de Minuit                            | Ashgumo           | :fr:      | [Contes de Minuit](https://alpha.lets-role.com/sy/Ap5zKIaK9m1HchPT)                    | [Contes de Minuit](https://community.lets-role.com/t/systeme-conte-de-minuit/5867)                                        | 
 | Coriolis - The Third Horizon EN             | DLDone            | :gb:      | [Coriolis](https://alpha.lets-role.com/sy/G5JfaeqZj08BD1IT)                            | [Coriolis](https://community.lets-role.com/t/coriolis-the-third-horizon-eng/3354)                                         |
