@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-02-20T20:40:48.515Z
+date: 2021-02-20T20:46:20.861Z
 tags: 
 editor: markdown
 ---
@@ -56,6 +56,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Freeform Universal                          | Fanfan            | :fr: :gb: | [Freeform Universal](https://alpha.lets-role.com/sy/cWhE0GXVhstVtMqo)                  | [Freeform Universal by Nathan Russel](https://community.lets-role.com/t/freeform-universal-by-nathan-russel-en-fr-f/3590) |
 | Green Dawn Mall                             | CaiusRomanus      | :gb:      | [Green Dawn Mall](https://alpha.lets-role.com/sy/rYZOloYj8erWfROT)                     | [Green Dawn Mall](https://community.lets-role.com/t/green-dawn-mall/3219)                                                 |
 | Harry Potter Wolrd                          | Kurblink          | :fr:      | [Harry Potter Wolrd](https://alpha.lets-role.com/sy/JbYAOAeoA02H1Eqh)                  | [Harry Potter Wolrd](https://community.lets-role.com/t/jdr-harry-potter-wolrd/4264)                                       |
+| Les Héritiers                             | Lameth | :fr:      | [Les Héritiers](https://alpha.lets-role.com/sy/Vx6QC8DLTqBzuChS)                     | [Les Héritiers](https://community.lets-role.com/t/les-heritiers-aventures-feeriques-a-la-belle-epoque/7164)                                                   |
 | Héros & Dragons                             | Alex2212 & Ocleos | :fr:      | [Héros & Dragons](https://alpha.lets-role.com/sy/jetaLJWIu1sbhoQX)                     | [Héros & Dragons](https://community.lets-role.com/t/heros-dragons/1675)                                                   |
 | Hexagon Universe                            | Frog-Eater        | :fr:      | [Hexagon Universe](https://alpha.lets-role.com/sy/x5meWlECuPqA7nN3)                    | [Hexagon Universe](https://community.lets-role.com/t/fr-hexagon-universe/5899)                                            |
 | Into the Odd / Electric BastionLand         | Neuralnoise       | :fr:      | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) | [into the Odd](https://community.lets-role.com/t/into-the-odd-electricbastionland/2947)                                   |
