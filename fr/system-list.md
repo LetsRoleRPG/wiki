@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-02-08T20:46:30.747Z
+date: 2021-02-20T20:40:48.515Z
 tags: 
 editor: markdown
 ---
@@ -84,6 +84,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Shadowrun Anarchy                           | Neuralnoise       | :fr:      | [Shadowrun Anarchy](https://alpha.lets-role.com/sy/bOHIDVN9VhjpI82H)                   | [Shadowrun Anarchy](https://community.lets-role.com/t/shadowrun-anarchy/2946)                                             |
 | Starfinder                                  | Actarus           | :fr:      | [Starfinder](https://alpha.lets-role.com/sy/cH4Uap2v6n8DAzJK)                          | [Starfinder](https://community.lets-role.com/t/starfinder-avec-dnd5/3411)                                                 |
 | Starwars                                    | Lunart            | :fr:      | [Starwars](https://alpha.lets-role.com/sy/vCIPfHIQ3I5yTx1p)                            | [Starwars](https://community.lets-role.com/t/starwars-systeme-d6/6493)                                                 |
+| Symbaroum                                    | Lameth           | :fr:      | [Symbaroum](https://alpha.lets-role.com/sy/ONfmUMCLjtv8SFSy)                            | [Symbaroum](https://community.lets-role.com/t/symbaroum-system/6185/4)                                                 |
 | Tales from the Loop                         | Tanega            | :fr: :gb: :sweden: :poland:| [Tales from the Loop](https://alpha.lets-role.com/sy/fLCD6rCDjX6Veq56) | [Tales from the Loop](https://community.lets-role.com/t/tales-from-the-loop/2704)                                        |
 | Tiamat                                      | Klnavajo          | :fr:      | [Tiamat](https://alpha.lets-role.com/sy/aA94eqX1KsC1iUkE)                              | [Tiamat](https://community.lets-role.com/t/tiamat-fr-wip/6032)                                                            |
 | Tiny                                        | Jetman            | :fr:      | [Tiny](https://alpha.lets-role.com/sy/8ZIghWOFvz5LDioG)                                | [Tiny](https://community.lets-role.com/t/tiny-systeme-svs/1940)                                                           |
