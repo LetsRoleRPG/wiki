@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-02-20T20:47:29.132Z
+date: 2021-02-22T16:33:36.813Z
 tags: 
 editor: markdown
 ---
@@ -24,7 +24,7 @@ All the systems above were created by the community and will be maintained by th
 | Channel FEAR                                   | Herya               | :gb:                        | [Channel FEAR](https://alpha.lets-role.com/sy/XIrCrqjKUJdquPxQ)                        | [Channel FEAR](https://community.lets-role.com/t/channel-fear-system/4270)                                                |
 | Chroniques de l'étrange                        | Jaggerwock          | :fr:                        | [Chroniques de l'étrange](ttps://alpha.lets-role.com/sy/9xR7R9AwJh3juqx2)              | [Chroniques de l'étrange](https://community.lets-role.com/t/les-chroniques-de-letrange/7578)                              |
 | Chroniques Oubliées                            | Bloodshadow34       | :fr:                        | [Chroniques Oubliées](https://alpha.lets-role.com/sy/ZHX7ZWrGxWACM0Ou)                 | [Chroniques Oubliées](https://community.lets-role.com/t/chroniques-oubliees/2620)                                         |
-| Chroniques Oubliées - Cthulhu                  | Straitjacket        | :fr:                        | [Chroniques Oubliées - Cthulhu](https://alpha.lets-role.com/sy/ZBtxNPOkEv55hiOq)       | [Chroniques Oubliées - Cthulhu](https://community.lets-role.com/t/chroniques-oubliees-cthulhu/2963)                       |
+| Chroniques Oubliées - Cthulhu                  | Straitjacket & Dyzae  | :fr:                      | [Chroniques Oubliées - Cthulhu](https://alpha.lets-role.com/sy/LsPNBULx0h3IXc9r)       | [Chroniques Oubliées - Cthulhu](https://community.lets-role.com/t/chroniques-oubliees-cthulhu/2963)                       |
 | Chroniques Oubliées Fantasy - Mini (CO : Mini) | Alundrã             | :fr:                        | [CO : Mini](https://alpha.lets-role.com/sy/W1KY2AJpMb9I2WgA)                           | [CO : Mini](https://community.lets-role.com/t/co-mini-chroniques-oubliees-mini/6162)                                      |
 | Contes de Minuit                               | Ashgumo             | :fr:                        | [Contes de Minuit](https://alpha.lets-role.com/sy/Ap5zKIaK9m1HchPT)                    | [Contes de Minuit](https://community.lets-role.com/t/systeme-conte-de-minuit/5867)                                        |
 | Coriolis - The Third Horizon EN                | DLDone              | :gb:                        | [Coriolis](https://alpha.lets-role.com/sy/G5JfaeqZj08BD1IT)                            | [Coriolis](https://community.lets-role.com/t/coriolis-the-third-horizon-eng/3354)                                         |
@@ -89,6 +89,7 @@ All the systems above were created by the community and will be maintained by th
 | Tales from the Loop                            | Tanega              | :fr: :gb: :sweden: :poland: | [Tales from the Loop](https://alpha.lets-role.com/sy/fLCD6rCDjX6Veq56)                 | [Tales from the Loop](https://community.lets-role.com/t/tales-from-the-loop/2704)                                         |
 | Tiamat                                         | Klnavajo            | :fr:                        | [Tiamat](https://alpha.lets-role.com/sy/aA94eqX1KsC1iUkE)                              | [Tiamat](https://community.lets-role.com/t/tiamat-fr-wip/6032)                                                            |
 | Tiny                                           | Jetman              | :fr:                        | [Tiny](https://alpha.lets-role.com/sy/8ZIghWOFvz5LDioG)                                | [Tiny](https://community.lets-role.com/t/tiny-systeme-svs/1940)                                                           |
+| Trophy Dark																		 | Jaggerwock 				 | :gb: 											 | [Trophy Dark](https://alpha.lets-role.com/sy/hIIlz64J9YAXbGwI)                   | [Trophy Dark](https://community.lets-role.com/t/trophy-dark-en/7630)                                 											 |
 | Vampire la mascarade 20e anniv                 | Dyzae               | :fr: :gb:                   | [Vampire la mascarade 20e anniv](https://alpha.lets-role.com/sy/uqwI6owuvt6KB1Ff)      | [Vampire la mascarade 20e anniv](https://community.lets-role.com/t/vampire-la-mascarade-20e-annif/1188/)                  |
 | Vampire la mascarade v5                        | Tiamate             | :fr: :gb:                   | [Vampire la mascarade 5ed](https://alpha.lets-role.com/sy/3pFdHvXUkAH0qCWd)            | [Vampire la mascarade 5d](https://community.lets-role.com/t/vampire-the-masquerade-5-ed-ninja-update/7291)                |
 | Warhammer Fantasy Role Play V4                 | Skas                | :fr:                        | [WFRP4](https://alpha.lets-role.com/sy/8O43ELHETUdFV8mf)                               | [WFRP4](https://community.lets-role.com/t/warhammer-fantasy-role-play-v4-wfrp4-cubicle-7/2952)                            |
