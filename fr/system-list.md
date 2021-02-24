@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-02-23T20:18:33.240Z
+date: 2021-02-24T08:58:33.240Z
 tags: 
 editor: markdown
 ---
@@ -23,7 +23,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Beast & Barbarian                              | Pignata              | :fr:                        | [Beast & Barbarian](https://alpha.lets-role.com/sy/N8mxjJuKDKWFpnpi)                   | [Beast & Barbarian](https://community.lets-role.com/t/beast-barbarian/2902)                                               |
 | Channel FEAR                                   | Herya                | :gb:                        | [Channel FEAR](https://alpha.lets-role.com/sy/XIrCrqjKUJdquPxQ)                        | [Channel FEAR](https://community.lets-role.com/t/channel-fear-system/4270)                                                |
 | Chroniques de l'étrange                        | Jaggerwock           | :fr:                        | [Chroniques de l'étrange](ttps://alpha.lets-role.com/sy/9xR7R9AwJh3juqx2)              | [Chroniques de l'étrange](https://community.lets-role.com/t/les-chroniques-de-letrange/7578)                              |
-| Chroniques Oubliées                            | Bloodshadow34        | :fr:                        | [Chroniques Oubliées](https://alpha.lets-role.com/sy/ZHX7ZWrGxWACM0Ou)                 | [Chroniques Oubliées](https://community.lets-role.com/t/chroniques-oubliees/2620)                                         |
+| Chroniques Oubliées Fantasy                    | Macmist              | :fr:                        | [Chroniques Oubliées Fantasy](https://alpha.lets-role.com/sy/Kzr5FqYed7gYh06j)         | [Chroniques Oubliées Fantasy](https://community.lets-role.com/t/wip-fr-chroniques-oubliees/5422)                                         |
 | Chroniques Oubliées - Cthulhu                  | Straitjacket & Dyzae | :fr:                        | [Chroniques Oubliées - Cthulhu](https://alpha.lets-role.com/sy/LsPNBULx0h3IXc9r)       | [Chroniques Oubliées - Cthulhu](https://community.lets-role.com/t/chroniques-oubliees-cthulhu/2963)                       |
 | Chroniques Oubliées Fantasy - Mini (CO : Mini) | Poussin              | :fr:                        | [CO : Mini](https://alpha.lets-role.com/sy/W1KY2AJpMb9I2WgA)                           | [CO : Mini](https://community.lets-role.com/t/co-mini-chroniques-oubliees-mini/6162)                                      |
 | Contes de Minuit                               | Ashgumo              | :fr:                        | [Contes de Minuit](https://alpha.lets-role.com/sy/Ap5zKIaK9m1HchPT)                    | [Contes de Minuit](https://community.lets-role.com/t/systeme-conte-de-minuit/5867)                                        |
