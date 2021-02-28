@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-02-24T08:58:33.240Z
+date: 2021-02-28T15:16:58.315Z
 tags: 
 editor: markdown
 ---
@@ -50,6 +50,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Escape from Dino Island                        | Caius Romanus        | :fr:                        | [Escape from Dino Island](https://alpha.lets-role.com/sy/Ew6Igd6Sx1WP1goe)             | [Escape from Dino Island](https://community.lets-role.com/t/escape-from-dino-island/3321)                                 |
 | Ethera                                         | Aidymouse            | :gb:                        | [Ethera](https://alpha.lets-role.com/sy/JxpXpZmL0r7gXW1F)                              | [Ethera](https://community.lets-role.com/t/ethera-character-sheet/1883)                                                   |
 | Everyone is John                               | Dyzae                | :gb:                        | [Everyone is John](https://alpha.lets-role.com/sy/gLzij9EAlSsfGwp9)                    | [Everyone is John](https://community.lets-role.com/t/everyone-is-john/1457)                                               |
+| Fading Suns 2nd Edition Revised                | Scythia & WarpZone   | :gb:                        | [Fading Suns 2nd Edition Revised](https://alpha.lets-role.com/sy/DqQcWJE6y19gEZgA)                        | [Fading Suns 2nd Edition Revised](https://community.lets-role.com/t/wip-fr-en-fading-suns/7474)            |
 | The Fantasy Trip                               | Aidymouse            | :gb:                        | [Fantasy Trip](https://alpha.lets-role.com/sy/YWXHcLGsHfApOVdg)                        | [The Fantasy Trip](https://community.lets-role.com/t/the-fantasy-trip/1887)                                               |
 | Le fer et le froid                             | Dyzae                | :fr:                        | [Le fer et le froid](https://alpha.lets-role.com/sy/RDvoNlZtvVzQAxsV)                  | [Le fer et le froid](https://community.lets-role.com/t/le-fer-et-le-froid-fr/4190)                                        |
 | La fin du monde                                | Jaggerwock           | :fr:                        | [La fin du monde](https://alpha.lets-role.com/sy/M53K0xhfgcUzvXgX)                     | [La fin du monde](https://community.lets-role.com/t/la-fin-du-monde/7567)                                                 |
