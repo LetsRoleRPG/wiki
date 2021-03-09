@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-02-28T15:17:36.637Z
+date: 2021-03-09T15:01:41.743Z
 tags: 
 editor: markdown
 ---
@@ -32,6 +32,7 @@ All the systems above were created by the community and will be maintained by th
 | Coureurs d'Orages                              | Calandil             | :fr:                        | [Coureurs d'orages](https://alpha.lets-role.com/sy/Gu3fRV1V9JUGzZyQ)                   |                                                                                                                           |
 | Cthulhu Hack                                   | erkadae              | :fr:                        | [Cthulhu Hack](https://alpha.lets-role.com/sy/l8PYbA0YqmSt0hHq)                        | [Cthulhu Hack](https://community.lets-role.com/t/cthulhu-hack-vf/3608)                                                    |
 | Cyberpunk 2020                                 | JojoDeLanhuon        | :fr:                        | [Cyberpunk 2020](https://alpha.lets-role.com/sy/VvSQv9ZmAVLFnrs1)                      | [Cyberpunk 2020](https://community.lets-role.com/t/cyberpunk-2020-feuille-simple/2501)                                    |
+| Cyberpunk Red                                 | Loevenbruck           | :fr:                        | [Cyberpunk Red](https://alpha.lets-role.com/sy/d0GzjCBy6FLyi5k1)                      |                |
 | Cypher System                                  | JojoDeLanhuon        | :fr:                        | [Cypher System](https://alpha.lets-role.com/sy/Px8nYzIlz8NeXJZr)                       | [Cypher System](https://community.lets-role.com/t/cypher-system-work-in-progress/3539)                                    |
 | D-critique                                     | Sunder               | :fr:                        | [D-critique](https://alpha.lets-role.com/sy/beRIpqP8UeTS9x1K)                          | [D-critique](https://community.lets-role.com/t/fiche-personnage-pour-le-systeme-d-critique/3068)                          |
 | Deadlands                                      | Klnavajo             | :fr:                        | [Deadlands](https://alpha.lets-role.com/sy/0yVGhmP3tZWQKVBu)                           | [Deadlands](https://community.lets-role.com/t/fiche-de-deadlands/3797/14)                                                 |
