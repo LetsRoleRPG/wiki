@@ -22,8 +22,8 @@ editor: undefined
 * [Onglet/Tabs](/system-builder/component/tabs)
 * [Avatar](/system-builder/component/avatar)
 * [Couleur/Color](/system-builder/component/color)
-* [Icon](/system-builder/component/icon) 
+* [Icône/Icon](/system-builder/component/icon) 
 {.links-list}
 ---
-* [Editer directement l'arboressence à la source](/en/system-builder/scripting/source-editor) 
+* [Éditer directement l'arborescence à la source](/en/system-builder/scripting/source-editor) 
 {.links-list}
