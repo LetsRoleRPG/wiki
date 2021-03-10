@@ -7,10 +7,10 @@ tags:
 editor: undefined
 ---
 
-Un champ qui peut être remplis avec des valeurs numériques.
+Un champ qui peut être rempli avec des valeurs numériques.
 
 # Value
-Ce champ peut être rempli de la valeur par défaut du *Number Input*. Cette valeur peu être calculée.
+Ce champ peut être rempli de la valeur par défaut de l'entrée numérique/*Number Input*. Cette valeur peut être calculée.
 
 # Minimum / Maximum
 Les valeurs minimales et maximales que peut prendre le nombre contenu.
