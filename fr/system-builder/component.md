@@ -14,7 +14,7 @@ editor: undefined
 * [Étiquette/Label](/system-builder/component/label) 
 * [Entrée numérique/Number Input](/system-builder/component/number-input) 
 * [Entrée textuelle/Text Input](/system-builder/component/text-input) 
-* [Aire de texte/Textarea](/system-builder/component/textarea) 
+* [Zone de texte/Textarea](/system-builder/component/textarea) 
 * [Case à cocher/Checkbox](/system-builder/component/checkbox)
 * [Choix/Choice](/system-builder/component/choice)
 * [Conteneur/Container](/system-builder/component/container) 
