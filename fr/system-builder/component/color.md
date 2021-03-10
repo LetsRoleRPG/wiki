@@ -7,6 +7,6 @@ tags:
 editor: undefined
 ---
 
-Ce composant permet de choisir une couleur représentative pour le personnage. Fonctionne uniquement dans la vue `main`, qui correspond à la fiche de personnage.
+Ce composant permet de choisir une couleur représentative pour le personnage. Fonctionne uniquement dans la [vue](/system-builder/component/view) `main`, qui correspond à la fiche de personnage.
 
 Son identifiant doit être `color` pour fonctionner.
