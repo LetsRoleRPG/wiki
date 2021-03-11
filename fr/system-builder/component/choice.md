@@ -32,3 +32,7 @@ Cette case à cocher permet de transformer un choix unique étendu (case *Expand
 ## Référence
 Quand vous faites référence à un choix/*choice*, la valeur de cette référence correspond à ce qui est indiqué dans la colonne "id" et dans la ligne du choix correspondant.
 Si aucun choix n'est fait, la référence sera égale à 0. Si plusieurs choix sont cochés (Case *Multiple* cochée) chaque identifiant sera séparé d'une virgule.
+
+# Spécificités
+## Class et Race
+Si votre choix a comme id `class` ou `race` dans votre fiche de personnage alors ces champs apparaîtront dans votre liste de personnage, juste en dessous du nom du personnage.
