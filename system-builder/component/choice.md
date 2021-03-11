@@ -9,20 +9,25 @@ editor: undefined
 
 A list of items.
 
-# Table
+# Options
+## Table
 A reference to a table where the items are described. The field "id" in the table is used for the value of the choice component.
 
-# List Label
+## List Label
 The table column to be used to describe each item.
 
-# Optional
+## Optional
 If set, it is possible to not have any value.
 
-# Expanded
+## Expanded
 Display the choice in a list of checkbox or radiobox instead of a select.
 
-# Expanded item classes
+## Expanded item classes
 Classes to apply to each item in an expanded choice.
 
-# Multiple
+## Multiple
 Can the choice have multiple values ?
+
+# Specificities
+## Class and race
+If your choice's id is `class` or `race` in your character sheet then these fields will appear in your character list, just below the character name.
