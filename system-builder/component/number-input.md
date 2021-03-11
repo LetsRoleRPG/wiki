@@ -9,11 +9,16 @@ editor: undefined
 
 An input that should contain a numerical value.
 
-# Value
+# Options
+## Value
 The default or computed value of the input.
 
-# Minimum / Maximum
+## Minimum / Maximum
 The minimum and maximum values of the input.
 
-# Computed
+## Computed
 Set the value of the input to be computed.
+
+# Specificities
+## Level
+If your component's id is `level` in your character sheet then this field will appear in your character list, just below the character name.
