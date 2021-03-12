@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-03-12T21:04:33.947Z
+date: 2021-03-12T21:05:20.770Z
 tags: 
 editor: markdown
 ---
@@ -31,7 +31,7 @@ All the systems above were created by the community and will be maintained by th
 | Coriolis - The Third Horizon EN                | DLDone               | :gb:                        | [Coriolis](https://alpha.lets-role.com/sy/G5JfaeqZj08BD1IT)                            | [Coriolis](https://community.lets-role.com/t/coriolis-the-third-horizon-eng/3354)                                         |
 | Coriolis - The Third Horizon FR                | Bigorno              | :fr:                        | [Coriolis](https://alpha.lets-role.com/sy/v64pYoZeTK5xb7bp)                            | [Coriolis](https://community.lets-role.com/t/coriolis-the-third-horizon-eng/3354)                                         |
 | Coureurs d'Orages                              | Calandil             | :fr:                        | [Coureurs d'orages](https://alpha.lets-role.com/sy/Gu3fRV1V9JUGzZyQ)                   |                                                                                                                           |
-| Coureurs d'Orages                              | Calandil             | :fr:                        | [Coureurs d'orages](https://alpha.lets-role.com/sy/Gu3fRV1V9JUGzZyQ)                   |     [Coureurs d'orages](https://community.lets-role.com/t/coureurs-dorages-fr/7703)                                                                                             |
+| Coureurs d'Orages                              | Vorapsak             | :fr:                        | [Coureurs d'orages](https://alpha.lets-role.com/sy/REf1tnD65ivvzSnI)                   |     [Coureurs d'orages](https://community.lets-role.com/t/coureurs-dorages-fr/7703)                                                                                             |
 | Cthulhu Hack                                   | erkadae              | :fr:                        | [Cthulhu Hack](https://alpha.lets-role.com/sy/l8PYbA0YqmSt0hHq)                        | [Cthulhu Hack](https://community.lets-role.com/t/cthulhu-hack-vf/3608)                                                    |
 | Cyberpunk 2020                                 | JojoDeLanhuon        | :fr:                        | [Cyberpunk 2020](https://alpha.lets-role.com/sy/VvSQv9ZmAVLFnrs1)                      | [Cyberpunk 2020](https://community.lets-role.com/t/cyberpunk-2020-feuille-simple/2501)                                    |
 | Cyberpunk Red                                 | Loevenbruck           | :fr:                        | [Cyberpunk Red](https://alpha.lets-role.com/sy/d0GzjCBy6FLyi5k1)                      |                |
