@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-03-12T21:03:04.909Z
+date: 2021-03-12T21:03:33.058Z
 tags: 
 editor: markdown
 ---
@@ -48,7 +48,7 @@ All the systems above were created by the community and will be maintained by th
 | Earthdawn Anarchy                              | Ilphrin & Klnavajo   | :fr:                        | [Earthdawn Anarchy](https://alpha.lets-role.com/sy/DivA63tkfU2JkJpi)                   | [Earthdawn Anarchy](https://community.lets-role.com/t/earthdawn-anarchy/7302)                                             |
 | Ecryme - La geste des traveres                 | Liesunder68          | :fr:                        | [Ecryme](https://alpha.lets-role.com/sy/taWjEWS2eA8xMzh8)                              | [Ecryme](https://community.lets-role.com/t/ecryme-la-geste-des-traveres/2432)                                             |
 | The end of the world                           | Jaggerwock           | :fr:                        | [The end of the world](https://alpha.lets-role.com/sy/M53K0xhfgcUzvXgX)                | [The end of the world](https://community.lets-role.com/t/la-fin-du-monde/7567)                                            |
-| Esoteric Entreprises                           | Neuralnoise          | :gb:                        | [Esoteric Entreprises](https://alpha.lets-role.com/sy/DeiZTfGg2dHF58aR)                |                                                                                                                           |
+| Esoteric Entreprises                           | Neuralnoise          | :gb:                        | [Esoteric Entreprises](https://alpha.lets-role.com/sy/DeiZTfGg2dHF58aR)                |        [Esoteric Entreprises](https://community.lets-role.com/t/esoteric-entreprises-vo/5694)                                                                                                                   |
 | Escape from Dino Island                        | CaiusRomanus         | :fr:                        | [Escape from Dino Island](https://alpha.lets-role.com/sy/Ew6Igd6Sx1WP1goe)             | [Escape from Dino Island](https://community.lets-role.com/t/escape-from-dino-island/3321)                                 |
 | Ethera                                         | Aidymouse            | :gb:                        | [Ethera](https://alpha.lets-role.com/sy/JxpXpZmL0r7gXW1F)                              | [Ethera](https://community.lets-role.com/t/ethera-character-sheet/1883)                                                   |
 | Everyone is John                               | Dyzae                | :gb:                        | [Everyone is John](https://alpha.lets-role.com/sy/gLzij9EAlSsfGwp9)                    | [Everyone is John](https://community.lets-role.com/t/everyone-is-john/1457)                                               |
