@@ -7,7 +7,7 @@ tags:
 editor: undefined
 ---
 
-La section/*row* est le composant privilégié pour les [colonnes/*columns*](/system-builder/component/column). En combinant les deux vous serez capable de créer des sortes d'étagères visuelles.
+La rangée/*row* est le composant privilégié pour les [colonnes/*columns*](/system-builder/component/column). En combinant les deux vous serez capable de créer des sortes d'étagères visuelles.
 
 Vous pouvez changer leur disposition (verticale, horizontale, gouttières, marges ...) en remplissant le champ *classes* comme expliqué dans la [grille de documentation bootstrap](https://getbootstrap.com/docs/4.4/layout/grid/).
 
