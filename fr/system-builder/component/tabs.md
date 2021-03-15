@@ -7,14 +7,14 @@ tags:
 editor: undefined
 ---
 
-Les *Tabs* sont les composants qui permettent de créer des onglets. Un peu comme les *[reapeater](/system-builder/component/repeater)*, ils fonctionnent en trio avec une table et des vues de types *sub component*. 
+Les Onglets/*Tabs* sont les composants qui permettent de créer des onglets. Un peu comme les *[reapeater](/system-builder/component/repeater)*, ils fonctionnent en trio avec une [table](/system-builder/scripting/tables) et des [vues/*views*](/system-builder/component/view) de types *sub component*. 
 Dans le composant *tab* lui même, il y a les champs spéciaux suivants :
 
 # Table
-On y renseigne la table dans laquelle les informations sur les onglets seront prises. (les informations sont le titre de l'onglets, et l'identifiant de leur vue)
+On y renseigne la table dans laquelle les informations sur les onglets seront prises. (Les informations sont le titre de l'onglet, et l'identifiant de leur vue)
 
 # Title
-On y renseigne le nom de la colonne de la table qui contient les titre des onglets (qui seront afficher en haut).
+On y renseigne le nom de la colonne de la table qui contient les titre des onglets (qui seront affichés en haut).
 
 # View's ID
 On y renseigne le nom de la colonne de la table qui contient les identifiants des vues dans lesqelles se trouvent les onglets.
