@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-03-12T21:05:20.770Z
+date: 2021-03-17T10:29:41.772Z
 tags: 
 editor: markdown
 ---
@@ -43,7 +43,7 @@ All the systems above were created by the community and will be maintained by th
 | Dominion: Jeux de pouvoir et Maisons nobles    | Zracoh               | :fr:                        | [Dominion](https://alpha.lets-role.com/sy/3puTDbPSL6s8i1OE)                            | [Dominion](https://community.lets-role.com/t/dominion-jeux-de-pouvoir-et-maisons-nobles/3043)                             |
 | Donjon de Naheulbeuk                           | FHL                  | :fr:                        | [Naheulbeuk](https://alpha.lets-role.com/sy/Bubiy4uk7uHEhxGi)                          |                                                                                                                           |
 | Dragon Age                                     | Sykelig              | :fr: :gb:                   | [Dragon Age](https://alpha.lets-role.com/sy/H08wbadmiLtoAVfl)                          | [Dragon Age](https://community.lets-role.com/t/dragon-age-fr-eng-work-in-progress/4354)                                   |
-| Dungeon Crawl Classics                         | Neuralnoise          | :fr:                        | [Dungeon Crawl Classics](https://alpha.lets-role.com/sy/Hxj00ENML5eDAzkj)              | [Dungeon Crawl Classics](https://community.lets-role.com/t/dungeon-crawl-classics-vf-wip/3557)                            |
+| Dungeon Crawl Classics                         | Neuralnoise          | :fr:  :gb: :de:                      | [Dungeon Crawl Classics](https://alpha.lets-role.com/sy/Hxj00ENML5eDAzkj)              | [Dungeon Crawl Classics](https://community.lets-role.com/t/dungeon-crawl-classics-vf-wip/3557)                            |
 | Dungeon World 2                                | Yarod                | :fr: :gb:                   | [Dungeon World 2](https://alpha.lets-role.com/sy/4KbgXaEAGuj7rka3)                     | [Dungeon World 2](https://community.lets-role.com/t/dungeon-world-2-wip/6652)                                             |
 | Dungeon World Class Warfare                    | Klnavajo             | :fr:                        | [Dungeon World Class Warfare](https://alpha.lets-role.com/sy/P3JubQxiMjkcP7tP)         | [Dungeon World Class Warfare](https://community.lets-role.com/t/dungeon-world-2-class-warfare-fr/7035)                    |
 | Earthdawn Anarchy                              | Ilphrin & Klnavajo   | :fr:                        | [Earthdawn Anarchy](https://alpha.lets-role.com/sy/DivA63tkfU2JkJpi)                   | [Earthdawn Anarchy](https://community.lets-role.com/t/earthdawn-anarchy/7302)                                             |
