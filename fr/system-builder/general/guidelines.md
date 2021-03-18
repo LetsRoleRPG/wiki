@@ -17,6 +17,12 @@ L'avatar est obligatoire sur les feuilles de personnage et les craft. Vous pouve
 ## Color
 *Color* est obligatoire sur les feuilles de personnage. L'identifiant doit être: color.
 
+# Afficher le niveau, la race et la classe d'un personnage dans *My Characters*
+Il est possible d'afficher le niveau, la race et la classe des personnages de vos systèmes sur leur miniatures qui apparaissent dans le menu *My Characters*.
+Pour ce faire, utilisez les identifiants `level`, `race`, et/ou `class` dans les composants correspondants de votre feuille.
+
+Vous pouvez aussi utiliser les identifiants `race` et `class` dans un composant pour afficher n'importe quel texte de votre choix à la place. Vous pouvez, par exemple, utiliser le script pour assembler des champs autres que ceux des niveau, race et classe.
+
 # Computed values
 Certains composants ont l'attribut calculée/*computed*, qui leur permet d'avoir une valeur basée sur des opérations mathématiques et des références à d'autres composants.
 
