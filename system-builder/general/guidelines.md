@@ -21,7 +21,7 @@ Color is required on character sheets. The id should be : `color`.
 It is possible to display the level, race and class of your character on its miniature in the *My Characters* menu.
 To do so, use the exact `level`, `race`, and/or `class` ids respectively for the matching components in your sheet.
 
-You can also use the race or class id on a component to display any string of your choice instead, by populating it with a custom string. You could for example use script to concatenate other fields than level, race or class.
+You can also use the `race` or `class` id on a component to display any string of your choice instead, by populating it with a custom string. You could for example use script to concatenate other fields than level, race or class.
 
 # Computed values
 Some component have the computed attribute, which allow them to have a value based on maths operations and references to other components.
