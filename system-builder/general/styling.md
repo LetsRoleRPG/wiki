@@ -36,3 +36,12 @@ Force the width in pixels of the component.
 # Height
 ## h-25px, h-50px, h-75px, h-100px, h-125px, h-150px, h-175px, h-200px, h-300px, h-400px, h-500px, h-600px, h-700px
 Force the height in pixels of the component.
+
+# d-none
+Hides a component by default, as if it did not exist = does not take up any space. Does not work on Container components.
+
+# invisible
+Hides a component by default, but maintains the space it occupies. Useful if you wish to maintain alignment between different lines that don’t contain the same elements. Does not work on Container components.
+
+# text-monospace
+Switches text’s font to a monospace alternative. Simulates an extra typeface for your sheet. Useful for pretty UI!
