@@ -10,6 +10,9 @@ editor: undefined
 # `log(var1, var2, ...)`
 Log variables to the console.
 
+# `//region` `//endregion`
+Add `//region` to the beginning of the section of code you wish to make collapsible, and `//endregion` to the end. This will add a collapse toggle arrow.
+
 # `wait(ms, callback)`
 **`ms`**, type: `number`, Duration in milliseconds to wait.
 **`callback`**, type: `Function`, The function to call when the timer is done.
