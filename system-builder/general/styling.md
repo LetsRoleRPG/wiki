@@ -45,3 +45,6 @@ Hides a component by default, but maintains the space it occupies. Useful if you
 
 # text-monospace
 Switches text’s font to a monospace alternative. Simulates an extra typeface for your sheet. Useful for pretty UI!
+
+# clickable
+Show the pointer hand cursor and turn the text orange when hovering over the component. Exactly the same visual effect as when checking the “Clickable” option for a Label component. If you use it on a column or row, it applies to all components inside it.
