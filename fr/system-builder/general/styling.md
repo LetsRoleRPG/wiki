@@ -61,3 +61,6 @@ Il y a deux classes pour cela, avec une petite nuance entre elles deux :
 * La classe `d-none` cache le composant comme s'il n'existait pas. Il ne prend ainsi plus aucun espace.
 * La classe `invisible` cache le composant en conservant sa place et ses espacements. Pratique si vous voulez ajuster l'alignement entre deux lignes contenants des éléments différents.
 Ces deux classes ne fonctionnent pas sur les *containers*.
+
+# Montré qu'un objet est cliquable
+La class `clickable` affiche le curseur main et change le texte en orange lorsque vous survolez le composant. Exactement le même effet visuel que lorsque vous cochez l'option «Cliquable» pour un label. Si vous l'utilisez sur une colonne ou une rangé, elle s'applique à tous les composants qu'elle contient.
