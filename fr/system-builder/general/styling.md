@@ -46,9 +46,21 @@ La classe `text-title` donne l'aspect d'un titre au text.
 ## Mettre en gras
 La classe `text-bold` met le texte en gras.
 
+## Figer l'espace
+La classe `text-monospace` remplace la police de texte par une autre dons les espacements sont fixes. Simules une police supplémentaire pour votre feuille. Utile pour une belle interface.
+
 # Largeur et Hauteur
 Vous pouvez donner une largeur et/ou une hauteur fixe (en pixel) à un composant grâce au commandes `w-[nombre]px` et `h-[nombre]px`.  
 "w" Pour *width* qui signifie largeur, et "h" pour *height* qui signifie hauteur.
 
 Les nombres de pixels que vous pouvez choisir en largeur sont 25, 50, 75, 100, 125 150, 175, 200 et 300. (Exemple `w-25px`) Les autre nombres (comm 80 ou 101) ne fonctionneront pas.  
 Les nombres de pixels que vous pouvez choisir en hauteur sont tous ceux de la largeur, plus 400, 500, 600 et 700. (Exemple `h-700px`)
+
+# Cacher des composants
+Il y a deux classes pour cela, avec une petite nuance entre elles deux :
+* La classe `d-none` cache le composant comme s'il n'existait pas. Il ne prend ainsi plus aucun espace.
+* La classe `invisible` cache le composant en conservant sa place et ses espacements. Pratique si vous voulez ajuster l'alignement entre deux lignes contenants des éléments différents.
+Ces deux classes ne fonctionnent pas sur les *containers*.
+
+# Montrer qu'un objet est cliquable
+La class `clickable` affiche le curseur main et change le texte en orange lorsque vous survolez le composant. Exactement le même effet visuel que lorsque vous cochez l'option «Cliquable» pour un label. Si vous l'utilisez sur une colonne ou une rangé, elle s'applique à tous les composants qu'elle contient.
