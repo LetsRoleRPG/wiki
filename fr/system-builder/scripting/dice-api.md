@@ -12,7 +12,7 @@ The Dice API allows you to roll dice. It is available through the global `Dice` 
 Example:
 ```javascript
 init = function(sheet) {
-    if (sheet.id === "main") {
+    if (sheet.id() === "main") {
         initMain(sheet);
     }
 };
