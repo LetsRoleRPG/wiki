@@ -23,3 +23,6 @@ Creating an awesome system is one thing, but sharing it with others is better! I
 
 # System Building
 Building a system is a complex topic, with [its own documentation here](/en/system-builder). Enjoy!
+
+A [demo system](https://alpha.lets-role.com/sy/demo) is available to present the creation of a system.<br>
+[DnD5 system](https://alpha.lets-role.com/sy/dnd5) is available too.
