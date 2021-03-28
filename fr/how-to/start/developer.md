@@ -23,3 +23,6 @@ Faire un système génial c'est une chose, mais c'est mieux si les gens peuvent 
 
 # Créer un système
 La création de système est un sujet complexe, qui a [sa propre documentation ici](/en/system-builder) (en anglais). Amusez-vous bien !
+
+Un [système de démonstration](https://alpha.lets-role.com/sy/demo) est disponible pour présenter différents aspects de la création de système.<br>
+Le [système de dnd5](https://alpha.lets-role.com/sy/dnd5) est aussi accessible.
