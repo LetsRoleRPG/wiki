@@ -50,7 +50,7 @@ values = {
 */
 ```
 
-## `prompt(title, view, callback)`
+## `prompt(title, view, callback, callbackInit)`
 See: [Prompt API](/en/system-builder/scripting/prompt)
 
 ## `id()`
