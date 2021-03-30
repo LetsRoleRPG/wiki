@@ -7,11 +7,11 @@ tags:
 editor: undefined
 ---
 
-The Dice Builder is a fluid API to create dice rolls.
+Le DiceBuilder est une API fluide pour créer des lancers de dés.
 
-# Examples
+# Exemples
 
-Basic usage : 
+Usage basique : 
 ```javascript
 let dice = Dice.create(8).add(5); // 8 + 5
 ```
@@ -23,8 +23,8 @@ let dice = (new DiceBuilder("3d6")).add(5); // 3d6 + 5
 ```
 
 ```javascript
-let dice = Dice.create("3d6");
-let extra = Dice.create("2d8").minus(5);
+let dice = Dice.create("3d6"); // 3d6
+let extra = Dice.create("2d8").minus(5); // 2d8 - 5
 let final = dice.add(extra); // 3d6 + (2d8 - 5)
 ```
 
@@ -46,14 +46,14 @@ let dice = Dice.create("3d6")
     // (3d6 > 10 ? 1d20 : 1d10)[fire, attack]
 ```
 
-Dice Builder instances can be directly passed to the `Dice.roll` method :
+Les instances du `DiceBuilder` peuvent être directement passées à la méthode `Dice.roll` :
 ```javascript
 init = function(sheet) {
     sheet.get('attack').on('click', function() {
-        let dice = Dice.create('2d20')
-            .keeph()
-            .tag('advantage');
-        
+        let dice = Dice.create('2d20') // 2d20
+            .keeph() // retient le meilleur
+            .tag('advantage'); // ajoute le tag "advantage"
+
         Dice.roll(sheet, dice, 'My attack with advantage');
     });
 };
@@ -61,7 +61,7 @@ init = function(sheet) {
 
 # Methods
 
-Theses methods are available:
+Voici les méthodes disponibles :
 
 * `.add(value)`
 * `.minus(value)`
