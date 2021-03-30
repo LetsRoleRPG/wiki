@@ -7,32 +7,35 @@ tags:
 editor: undefined
 ---
 
-You can access the tables created in the builder.
+Vous pouvez accéder aux tables créées dans le System Builder.
 
 # Tables
-Use the `Tables` constant to get a `Table` instance.
+Utilisez la constante `Tables` pour obtenir une instance de `Table`.
 
 ## `get(id)`
-**`id`**, type: `string`, The id of the table.
+**`id`**, type: `string`, L'identifiant de la table.
+Retourne : `Table|null`.
 
-Returns : a `Table` instance, or `null` is the table does not exists.
+Retourne une instance de `Table`, ou `null` si la table n'existe pas.
 
 # Table
-Represents a table.
+Représente une table.
 
 ## `get(id)`
-**`id`**, type: `string`, The id of the line.
+**`id`**, type: `string`, L'identifiant de la ligne.
+Retourne : [`Component`](/fr/system-builder/scripting/component).
 
-Example:
+Exemple :
 ```javascript
 let line = Tables.get("attributes").get('dexterity');
 // Object { id: "dexterity", name: "Dexterity", short: "DEX" }
 ```
 
 ## `each(callback)`
-**`callback`**, type: `Function`, The function called on each line.
+**`callback`**, type: `Function`, La fonction appelée pour chaque ligne de la table.
+Retourne : `void`.
 
-Example:
+Exemple :
 ```javascript
 Tables.get("attributes").each(function(attribute) {
     log(attribute.name);
@@ -45,10 +48,11 @@ Tables.get("attributes").each(function(attribute) {
 
 ## `random(callback)`
 ## `random(count, callback)`
-**`callback`**, type: `Function`, The function called with the random line (or random lines).
-**`count`**, type: `number`, The number of random lines. Cannot be larger than the size of the table.
+**`callback`**, type: `Function`, La fonction callback appelée avec la ligne aléatoirement sélectionnée (ou les lignes aléatoirement sélectionnées).
+**`count`**, type: `number`, Le nombre de lignes à sélectionner aléatoirement. Ne doit pas être plus grand que le nombre de lignes de la table.
+Retourne : `void`.
 
-Extract lines from the table using server side cryptographically secure randomness. If `count` is not specified or `count` is 1, the line is passed to the callback. Otherwise, an array of lines is passed to the callback.
+Récupère les lignes de la table en utilisant la génération aléatoire cryptographiquement sécurisée du serveur. Si `count` n'est pas spécifié ou est égal à 1, l'objet correspondant à la ligne est passé à la fonction callback. Sinon, un tableau des objets de chaque ligne est passé à la fonction callback.
 
 ```javascript
 Tables.get("attributes").random(function(attribute) {

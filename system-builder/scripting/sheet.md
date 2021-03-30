@@ -58,6 +58,11 @@ Return: `string`
 
 The id of the sheet (ie the id of the top view component).
 
+## `getSheetId()`
+Return: `number`
+
+The unique ID of the sheet (ie a sheet creation order index on Let's Role). Used to distinguish a leaf from another leaf of the same type.
+
 ## `name()`
 Return: `string`
 

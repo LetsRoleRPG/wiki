@@ -7,4 +7,4 @@ tags:
 editor: undefined
 ---
 
-The javascript code executed in the character sheet is highly sandboxed. It should not be possible to access the DOM, cookies or other APIs. If you found a way to exit the scope and access external elements, please report the security breach to us, at security@lets-role.com. We will gladly send you a financial reward.
+Le code javascript exécuté dans la feuille de personnage est hautement isolé. Il ne devrait pas être possible d'accéder au DOM, cookies ou autres APIs. Si vous trouvez une voie pour sortir de cet isolement et d'accéder à des éléments externes, merci de nous rapporter cette brèche de sécurité, à security@lets-role.com. Nous nous ferons un plaisir de vous envoyer une récompense financière.

@@ -12,7 +12,7 @@ editor: undefined
 # Welcome to our Wiki !
 Let's Role is a browser-based web application designed for playing TableTop RPGs online with your friends. Let's Role is free, has been created by [a team of passionate people](/en/staff) and use the latest web technology to bring an easy-to-use website as well as powerful features.
 
-Right now Let's Role is in Alpha and you can [register here](https://alpha.lets-role.com/register). Please note that your account will be accepted after a few days. Our next big step will be coming very soon in the form of a Kickstarter followed by the start of the Beta a few months later !
+Right now Let's Role is currently in Closed Alpha and you can [register here](https://alpha.lets-role.com/register) only if you have participated in the crowdfunding (finished since early March) of the project up to a minimum of €30, then it is necessary [link your Let's Role account to your Kickstarter account here](https://alpha.lets-role.com/kickstarter), and your account will be fully operational. The next step is to finalize and then switch to the beta version and registrations will then be reopened for free.
 
 To learn more about Let's Role, check out [our website](https://lets-role.com), and our [manifesto](https://www.lets-role.com/manifesto).
 

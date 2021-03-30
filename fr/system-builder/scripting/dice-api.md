@@ -7,7 +7,7 @@ tags:
 editor: undefined
 ---
 
-The Dice API allows you to roll dice. It is available through the global `Dice` object.
+L'API Dice vous permet de faire des lancers de dés. Elle est disponible au travers de l'objet global `Dice`.
 
 Example:
 ```javascript
@@ -25,34 +25,32 @@ initMain = function(sheet) {
 ```
 
 ## `Dice.roll(sheet, expression, title, visibility, actions)`
-**`sheet`**, type: `Sheet` *`required`*, The sheet element attached to the roll.
-**`expression`**, type: `string`|`DiceBuilder` *`required`*, The expression or Dice Builder instance.
-**`title`**, type: `string`, The title of the roll.
-**`visibility`**, type: `string` default: `all`, The visibility of the roll. Possible values are :
-* `all`: the roll will be visible by everyone
-* `gm`: the roll will be visible by the sheet owner and the GM
-* `gmonly`: the roll will only be visible by the GM 
+**`sheet`**, type: `Sheet` *`required`*, La feuille à laquelle est attachée le lancer.
+**`expression`**, type: `string`|`DiceBuilder` *`required`*, L'expression ou une instance de Dice Builder.
+**`title`**, type: `string`, Le titre du lancer.
+**`visibility`**, type: `string` default: `all`, La visibilité du lancer. Les valeurs possibles sont :
+* `all`: le lancer sera visible par tout le monde.
+* `gm`: le lancer sera visible par le propriétaire de la fiche et le MJ.
+* `gmonly`: le lancer sera visible seulement par le MJ.
 
-**`actions`**, type: `object`, Additionals actions for the roll. Actions are displayed as buttons on the roll's result,
-in the main screen and the dice log. See Actions.
-
-return: `void`
+**`actions`**, type: `object`, Actions additionnelles pour le lancer. Les actions sont affichées comme des boutons dans l'affichage du résultat à l'écran et dans le dice log. Regardez Actions.
+Retourne : `void`.
 
 ## `Dice.create(expression)`
-**`expression`**, type: `string`, A base expression for the builder.
-return: `DiceBuilder`
+**`expression`**, type: `string`, Une expression de base pour le DiceBuilder.
+return: [`DiceBuilder`](/fr/system-builder/scripting/dice-builder)
 
-Create a DiceBuilder instance.
+Crée une instance du `DiceBuilder`.
 
 ## Actions
 
-Actions allows you to create interactives rolls, by creating one or more buttons on the roll result. The actions parameters is an `Object` with the title of the button as key, and the callback as value.
+Les actions vous permettent de créer des lancers interactifs en créant un ou plusieurs boutons dans la fenêtre de résultat. Le paramètre `actions` est un `Object` avec le titre du bouton comme clé, et la fonction callback en valeur.
 
-For example:
+Exemple :
 ```javascript
 Dice.roll(sheet, "1d20+2", "Attack", "all", {
     "Roll Damages": function(dice) {
-        Dice.roll(sheet, "3d6[fire]", "Fireball"); // Rolled when the player clicks "Roll Damages"
+        Dice.roll(sheet, "3d6[fire]", "Fireball"); // Jet effectué quand le joueur clique sur "Roll Damages"
     }
 })
 ```

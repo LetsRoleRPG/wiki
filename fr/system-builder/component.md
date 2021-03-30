@@ -25,5 +25,5 @@ editor: undefined
 * [Icône/Icon](/system-builder/component/icon) 
 {.links-list}
 ---
-* [Éditer directement l'arborescence à la source](/en/system-builder/scripting/source-editor) 
+* [Éditer directement l'arborescence à la source](/fr/system-builder/scripting/source-editor) 
 {.links-list}

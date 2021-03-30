@@ -7,66 +7,74 @@ tags:
 editor: markdown
 ---
 
-Represents a element that has been placed on a Sheet.
+Représente un composant qui est placé sur une feuille.
 
 # Methods
 ## `parent()`
-return: `Component|null`
+Retourne : `Component|null`.
 
-Get the parent component.
+Récupère le composant parent.
 
 ## `find(id)`
-**`id`**, type: `string`, The id of the child component.
-Return: `Component|null`
+**`id`**, type: `string`, L'identifiant du composant enfant.
+Retourne : `Component|null`.
 
-Get a child component.
+Récupère un élément enfant.
 
 ## `on(event, callback)`
 ## `on(event, delegate, callback)`
-**`event`**, type: `string`, The name of the event. Possible values : `click`, `update`, `mouseenter`, `mouseleave`, `keyup`
-**`delegate`**, type: `string`, Subcomponent to delegate the event to.
-**`callback`**, type: `Function`, The function to call when the event is triggered. The first argument is the event.
+**`event`**, type: `string`, Le nom de l'évènement. Valeurs possibles : `click`, `update`, `mouseenter`, `mouseleave`, `keyup`.
+**`delegate`**, type: `string`, Le composant enfant auquel déléguer l'évènement.
+**`callback`**, type: `Function`, La fonction qui sera appelée quand l'évènement surviendra. Le premier argument est l'évènement.
+Retourne : `void`.
 
-If the event is triggered from code, it will have the property `computed` to `true`.
-It's possible to delegate events to a subcomponent, useful when using repeaters.
-It's only possible to have one event of the same type for a component at once. 
+Si l'évènement survient à cause du script, il aura la propriété `computed` à `true`.
+Il est possible de déléger les évènements à un composant enfant, pratique quand vous utilisez les repeaters.
+Il n'est possible d'avoir qu'un évènement du même type à la fois pour un même composant.
 
 ## `off(event)`
 ## `off(event, delegate)`
-**`event`**, type: `string`, The name of the event. Possible values : `click`, `update`, `mouseenter`, `mouseleave`, `keyup`
-**`delegate`**, type: `string`, Subcomponent to delegate the event to.
+**`event`**, type: `string`, Le nom de l'évènement. Valeurs possibles : `click`, `update`, `mouseenter`, `mouseleave`, `keyup`.
+**`delegate`**, type: `string`, Le composant enfant auquel déléguer l'évènement.
+Retourne : `void`.
 
-Remove an event on the component or one of its delegates.
+Retire un évènement du composant ou de l'un de ses composants enfants délégués.
 
 ## `hide()`
-Hide the component.
+Retourne : `void`.
+
+Masque le composant.
 
 ## `show()`
-Display the component if it has been hidden.
+Retourne : `void`.
+
+Affiche le composant si celui-ci est masqué.
 
 ## `addClass(class)`
-**`class`**, type: `string`, A class to add to the component.
+**`class`**, type: `string`, Une classe à ajouter au composant.
+Retourne : `void`.
 
 ### `removeClass(class)`
-**`class`**, type: `string`, A class to remove from the component.
+**`class`**, type: `string`, Une classe à retirer du composant.
+Retourne : `void`.
 
 ## `value()`
 ## `value(newValue)`
-**`newValue`**, type: `number|string|object|null`, The new value to set.
-Return: `null|number|string|object`
+**`newValue`**, type: `number|string|object|null`, La nouvelle valeur du composant.
+Retourne : `null|number|string|object`.
 
-Get or set the value of the component. If the component is persisted, the value is permanently saved. Be carefull of not using this setter too often on persisted components, as the server has a limit of possible calls. If the component has a virtual value, it is returned. Use `component.rawValue()` to get the base, "non-virtual" value.
+Récupère ou définit la valeur du composant. Si le composant est persistant, la valeur est sauvegardée de facon permanente. Faîtes attention à ne pas utiliser ce setter trop souvent sur des composants persistants, car le serveur a une limite au nombre d'appels possibles. Si le composant a une valeur virtuelle, c'est elle qui est retournée. Utilisez `component.rawValue()` pour récupérer la valeur de base, la valeur "non-virtuelle".
 
 ```javascript
-let hp = sheet.get("hp"); // hp is a persisted component
+let hp = sheet.get("hp"); // hp est un composant persistant
 log(hp.value()); // 5
-hp.value(11); // update and save the new value
+hp.value(11); // met à jour et sauvegarde la nouvelle valeur
 ```
 
 ## `rawValue()`
-type: `null|number|string|object`
+Retourne : `null|number|string|object`.
 
-Get or the base, "non-virtual" value of the component.
+Récupère la valeur de base, "non virtualle", du composant.
 
 ```javascript
 let hp = sheet.get("hp");
@@ -80,10 +88,10 @@ log(hp.rawValue()); // 17
 
 ## `virtualValue()`
 ## `virtualValue(newValue)`
-**`newValue`**, type: `number|string|object|null`, The new value to set.
-Return: `number|string|object`
+**`newValue`**, type: `number|string|object|null`, La nouvelle valeur du composant.
+Retourne : `number|string|object`.
 
-Get or set the virtual value of the component. Virtual values are usefull when you want to change a value based on calculation. For example, you could have a armor that give the character +2 HP, and set the virtual value of the hp component to its base value + 2. The the component would diplay the virtual value by default, and the raw value when hovering.
+Récupère ou définit la valeur virtuelle du composant. Les valeurs virtuelles sont utiles quand vous voulez changer une valeur à partir d'un calcul. Par exemple, vous pourriez avoir une armure qui donne au personnage +2 PV, et définir la valeur virtuelle du composant hp à sa valeur de base + 2. Le composant devrait afficher la valeur virtuelle par défaut, et la valeur de base quand il est survolé.
 
 ```javascript
 let hp = sheet.get("hp");
@@ -92,29 +100,31 @@ hp.virtualValue(hp.rawValue() + 2);
 
 ## `text()`
 ## `text(replacement)`
-**`newValue`**, type: `string`, The text to write.
-Return: `null|string`
+**`newValue`**, type: `string`, Le texte à écrire.
+Retourne : `null|string`.
 
-Get or set the text content of the label. The value is not computed and HTML is not allowed.
+Retourne ou définit le texte contenu dans un label. La valeur n'est pas évaluée et le HTML n'est pas autorisé.
 
 ```javascript
 sheet.get("job").text("Warrior");
 ```
 
 ## `visible()`
-Return: `boolean`
+Retourne : `boolean`.
 
-Return `true` if the component is not hidden.
+Retourne `true` si le composant n'est pas masqué.
 
 ## `sheet()`
-type: [`Sheet`](/system-builder/scripting/sheet) `readonly`
+Retourne : [`Sheet`](/system-builder/scripting/sheet).
 
-Return the sheet associated with this component.
+Retourne la feuille associée à ce composant.
 
 ## `setChoices(choices)`
-**`choices`**, type: `object`, The choices.
+**`choices`**, type: `object`, Les choix.
+Retourne : `void`.
 
-Only available on Choice components, change the possible choices.
+Seulement disponible pour les composants Choice, modifie les choix possibles.
+
 
 ```javascript
 sheet.get('class').setChoices({
@@ -125,11 +135,11 @@ sheet.get('class').setChoices({
 ```
 
 ## `name()`
-Return: `string`
+Retourne : `string`.
 
-Returns the name of the component as indicated in the system builder.
+Retourne le nom du composant tel qu'indiqué dans le system builder.
 
 ## `id()`
-Return: `string`
+Retourne : `string`.
 
-Returns the id of the component as indicated in the system builder.
+Retourne l'identifiant du composant tel qu'indiqué dans le system builder.
