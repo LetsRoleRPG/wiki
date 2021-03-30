@@ -23,7 +23,7 @@ Représente une table.
 
 ## `get(id)`
 **`id`**, type: `string`, L'identifiant de la ligne.
-Retourne : [`Component`](/fr/system-builder/scripting/component).
+Retourne : `Object|null`.
 
 Exemple :
 ```javascript
