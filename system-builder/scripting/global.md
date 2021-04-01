@@ -107,7 +107,7 @@ initRoll = function(result, callback) {
 **`sheet`**, type: [`Sheet`](/system-builder/scripting/sheet), The sheet with references
 Return `Object`
 
-If you want to create references programmatically, you can use this method. Return an object with the reference's id as key and the reference content  as value. Values are interpreted.
+If you want to create references programmatically (addressed with @ in a Computed Label), you can use this method. Return an object with the reference's id as key and the reference content  as value. Values are interpreted. This function is called automatically once at the init of a view. Even if you call it again (to refresh the value of the reference for example) it will not work.
 
 Example:
 ```javascript
