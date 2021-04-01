@@ -27,10 +27,11 @@ sheet.get('attack').on('click', function() {
 }); 
 ```
 
-# `sheet.prompt(title, view, callback)`
+# `sheet.prompt(title, view, callback, callbackInit)`
 **`title`**, type: `string` *`required`*, The title of the prompt window.
 **`view`**, type: `string` *`required`*, The ID of the view to use.
 **`callback`**, type: `Function` *`required`*, The callback to get the data once the user click the "next" button. The first argument is the view's data.
+**`callbackInit`**, type: `Function`, The callback called when opening the prompt which allows to modify elements of the prompt view from information coming from the sheet which calls `sheet.prompt(...)`
 
 # `Prompt(title, view, callback)`
 > This stand-alone function has been deprecated, use sheet.prompt() instead

@@ -44,7 +44,7 @@ Voici la documentation du **System Builder** de Let's Role. Vous trouverez ici t
 * [Icon](/system-builder/component/icon) 
 {.links-list}
 ---
-* [Editer directement l'arboressence à la source](/en/system-builder/scripting/source-editor) 
+* [Editer directement l'arboressence à la source](/fr/system-builder/scripting/source-editor) 
 {.links-list}
 
 # Scripter

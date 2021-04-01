@@ -7,124 +7,125 @@ tags:
 editor: undefined
 ---
 
-If you know what you are doing, you can edit the source of the tree by clicking on *Source Editor*.
+Si vous savez ce que vous faites, vous pouvez éditer le code source de l'arbre en cliant sur `Source Editor`
 
-> We do not recommand using the source editor if you do not know how to manage JSON document. It's very easy to break the whole system you're building.
+> Nous ne recommandons pas d'utiliser le source editor si vous ne savez pas comment gérer un document JSON. Il est extrêmement facile de détruire l'ensemble du système que vous êtes en train de construire.  
 {.is-warning}
 
-# Fields
+# Champs
 
-There are a few fields available in the source :
+Il y a quelques champs disponibles dans le source editor :
 
-## Common
-There fields are available on all components.
+## Communs
+Ces champs sont disponibles pour tous les composants.
 
 ### id `string`
 ### name `string`
 ### classes `string`
-The CSS classes applied to the component
+Les classes CSS appliquées au composant.
 ### children `array`
 ### className `string`
-The internal class name of the component
+Le nom de la classe interne à Let's Role du composant.
 ### collapsed `boolean`
 UI Only. Set to `true` to collapse the component in the *View* window.
+System Builder uniquement. Définissez à `true` pour replier le composant dans l'onglet `View`.
 ### references `array`
-> Do not edit this field manually
+> Ne pas éditer ce champ manuellement
 {.is-danger}
 
-Automatically computed list of referenced fields.
+Liste calculée automatiquement des champs référencés.
 
 ## Checkbox
 ### label `string`
 
-## Choice
+## Liste de choix
 ### label `string`
 ### tableId `string`
-The table where the data is stored
+La table (Let's Role) où les données sont sauvegardées.
 ### optional `boolean`
-If the choice can be empty
+A cocher si le choix peut être vide.
 ### expanded `boolean`
 ### multiple `boolean`
 ### expandedClass `string`
-The class applied to each expanded option
+La classe appliquée à chaque option en mode `expanded`.
 
 ## Column
 ### size `number`
 
 ## Container
 ### layout `string`
-Either `horizontal` or `vertical`
+Orientation du container : `horizontal` ou `vertical`.
 
 ## Icon
 ### iconName `string`
-The name of the icon (its CSS class)
+Le nom de l'icone (sa classe CSS).
 ### roll `string`
-The roll to throw when clicking the icon
+Le lancer de dés à effectuer quand on clique sur l'icone.
 ### rollTitle `string`
 
 ## Label
 ### text `string`
 ### align `string`
-Either `Left`, `Right` or `Center`
+Aligment du label : `Left`, `Right` ou `Center`.
 ### clickable `boolean`
 ### quickBar `boolean`
-Can the label be put in the quickbar
+Si le label peut être ajouté à la quickbar.
 ### quickBarLabel `string`
 ### computed `boolean`
 ### roll `string`
-The "roll on click" value
+La valeur de l'attribut "roll on click".
 
 ## NumberInput
 ### min `number`
 ### max `number`
 ### defaultValue `number`
 ### align `string`
-Either `Left`, `Right` or `Center`
+Alignement du NumberInput :`Left`, `Right` ou `Center`.
 ### computed `boolean`
 ### computedValue `string`
 
 ## Repeater
 ### readViewId `string`
-The view for reading data.
+L'identifiant de la vue d'affichage.
 ### viewId `string`
-The view for editing data.
+L'identifiant de la vue d'édition.
 
 ## Tab
 ### tableId `string`
-The table where the tab data is stored
+La table où les données des onglets sont sockés.
 ### titleAttribute `string`
-The name of the column storing the title of the tab
+Le nom de la colonne listant le titre de l'onglet.
 ### viewAttribute `string`
-The name of the column storing the view id of the tab
+Le nom de la colonne listant l'identifiant de la vue de l'onglet.
 ### vertical `boolean`
 ### verticalWidth `number`
 ### verticalText `boolean`
-Display the text also vertically
+Affiche le texte aussi verticalement.
 ### verticalAlign `string`
-Value can be either `left` or `right`.
+Position des onglets. Les valeurs peuvent être `left` ou `right`.
 
 ## Textarea
 ### placeholder `string`
 ### defaultValue `string`
-Also used for the computed value.
+Aussi utilisée pour la valeur calculée (`computed`).
 ### computed `boolean`
 
 ## TextInput
 ### placeholder `string`
 ### defaultValue `string`
-Also used for the computed value.
+Aussi utilisée pour la valeur calculée (`computed`).
 ### computed `boolean`
 
 ## View
 ### type `string`
-The type of the view, either `Main` or `SubComponent`.
+Le type de vue, `Main` ou `SubComponent`.
 ### craft `boolean`
-Is this view representing a craft ?
+Si la vue représente un craft ?
 ### avatarId `string`
-The id of the avatar in this view
+L'identifiant du champ avatar dans la vue.
 ### tokenizable `boolean`
-For crafts, if they can have tokens
+Pour les crafts, si ils peuvent être utilisés comme jetons sur la carte.
 ### droppable `boolean`
-For crafts, if they can be dropped on a sheet
+Pour les crafts, si ils peuvent être glissés-déposés dans une feuille.
 ### width `number`
 ### height `number`

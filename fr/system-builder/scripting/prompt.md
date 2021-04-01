@@ -7,11 +7,11 @@ tags:
 editor: undefined
 ---
 
-The Prompt API allows you to ask the user to fill a small form before an action. For example, if you need a modifier before a dice roll, you can prompt a small popin asking the modifier's value.
+L'API Prompt vous permet de demander à l'utilisateur de remplir un petit formulaire avant une action. Par exemple, si vous avez besoin d'un modificateur avant un lancer de dé, vous pouvez afficher une petite fenêtre pour demander la valeur du modificateur.
 
-The prompt itself consist of a title, a view's id, and a callback with the data collected from the view. The view is initialized in the global `init(sheet)` function.
+Le prompt lui-même possède un titre, un identifiant de la vue à afficher, une fonction callback avec les données collectées depuis la vue. La vue est initialisée dans la fonction globale `init(sheet)`.
 
-Example
+Exemple :
 ```javascript
 sheet.get('attack').on('click', function() {
     sheet.prompt('Modifiers ?', 'rollprompt', function(result) { // rollprompt is the id of the view
@@ -27,15 +27,18 @@ sheet.get('attack').on('click', function() {
 }); 
 ```
 
-# `sheet.prompt(title, view, callback)`
-**`title`**, type: `string` *`required`*, The title of the prompt window.
-**`view`**, type: `string` *`required`*, The ID of the view to use.
-**`callback`**, type: `Function` *`required`*, The callback to get the data once the user click the "next" button. The first argument is the view's data.
+# `sheet.prompt(title, view, callback, callbackInit)`
+**`title`**, type: `string` *`required`*, Le titre du prompt.
+**`view`**, type: `string` *`required`*, L'identifiant de la vue à utiliser.
+**`callback`**, type: `Function` *`required`*, La fonction callback pour récupérer les données une fois que le joueur clique sur le bouton "next". Le premier argument est l'objet données de la vue prompt.
+**`callbackInit`**, type: `Function`, La fonction callback appelée quand le prompt s'ouvre qui vous permet de modifier les éléments de la vue du prompt à partir d'informations provenant de la feuille qui appelle `sheet.prompt(...)`.
+Retourne `void`.
 
 # `Prompt(title, view, callback)`
 > This stand-alone function has been deprecated, use sheet.prompt() instead
 {.is-warning}
 
-**`title`**, type: `string` *`required`*, The title of the prompt window.
-**`view`**, type: `string` *`required`*, The ID of the view to use.
-**`callback`**, type: `Function` *`required`*, The callback to get the data once the user click the "next" button. The first argument is the view's data.
+**`title`**, type: `string` *`required`*, Le titre du prompt.
+**`view`**, type: `string` *`required`*, L'identifiant de la vue à utiliser.
+**`callback`**, type: `Function` *`required`*, La fonction callback pour récupérer les données une fois que le joueur clique sur le bouton "next". Le premier argument est l'objet données de la vue prompt.
+Retourne `void`.
