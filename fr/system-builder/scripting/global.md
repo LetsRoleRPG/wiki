@@ -7,16 +7,15 @@ tags:
 editor: undefined
 ---
 
-Those functions must be defined in the global scope. If you do not want to use
-one of there features, simply don't define the function.
+Ces fonctions doivent être définies avec une portée globale. Si vous ne souhaitez pas utiliser une de ces fonctionnalités, ne définissez simplement pas la fonction.
 
 # `init(sheet)`
-**`sheet`**, type: [`Sheet`](/system-builder/scripting/sheet), The sheet to initialize
-Return `void`
+**`sheet`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille à initialiser.
+Retourne `void`.
 
-Initialize a sheet, as a character sheet or a craft. You can see what type of sheet it is via `sheet.id`. Tabs entries are not initialized individually, and should be initialized as if they were part of the parent view.
+Initialise une feuille, comme une feuille de personnage ou de craft. Vous pouvez voir le type de feuille c'est via `sheet.id`. Les onglets de tabs ne sont pas initialisés individuellement, et devraient être initialisés comme s'ils faisaient partie de la vue parente.
 
-Example: 
+Exemple : 
 ```javascript
 init = function(sheet) {
     if (sheet.id() === "main") {
@@ -37,15 +36,15 @@ const initWeapon = function(sheet) {
 ```
 
 # `drop(from, to)`
-**`from`**, type: [`Sheet`](/system-builder/scripting/sheet), Source's sheet
-**`to`**, type: [`Sheet`](/system-builder/scripting/sheet), Target's sheet
-Return `void|string`  
+**`from`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille source.
+**`to`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille de destination.
+Retourne `void|string`.
 
-Called when dropping a craft onto a character sheet. If you simply want to append the data to a repeater, return the repeater's id. Otherwise, you'll have to manipulate the target sheet data.
+Cette fonction est appelée quand vous glissez-déposez un craft sur une feuille de personnage. Si vous voulez simplement ajouter les données à un repeater, retournez l'id de ce repeater. Sinon, vous devrez manipuler les données de la feuille de destination.
 
-For now, it is only possible to drop craft into character sheet.
+Pour le moment, il est seulement possible de déposer un craft dans une feuille de personnage.
 
-Examples:
+Exemples :
 ```javascript
 drop = function(from, to) {
     if (from.id() === "weapon" && to.id() === "main") {
@@ -65,35 +64,37 @@ drop = function(from, to) {
 ```
 
 # `dropDice(result, to)`
-**`result`**, type: [`DiceResult`](/system-builder/scripting/dice-result), A dice result from the dice log.
-**`sheet`**, type: [`Sheet`](/builder/documentation/sheet), Target's sheet
+**`result`**, type: [`DiceResult`](/fr/system-builder/scripting/dice-result), Le résultat d'un jet de dé dans le dice log.
+**`sheet`**, type: [`Sheet`](/fr/builder/documentation/sheet), La feuille de destination.
+Retourne : `void`.
 
-For some systems, it can be usefull to drag'n drop a dice result onto the sheet. With this function, you can create interaction between the dice log and a character sheet or craft.
+Pour certains systèmes, il peut être utile de glisser-déposer un résultat de jet de dé dans la feuille. Avec cette fonction, vous pouvez créer une interaction entre le dice log et une feuille de personnage ou un craft.
 
-Example:
+Exemple :
 ```javascript
 dropDice = function(result, sheet) {
     if (result.containsTag("heal")) {
         let hp = sheet.get("hp");
-        hp.value(hp.value() + result.total); // the character is healed by the total of the roll
+        hp.value(hp.value() + result.total); // le personnage est soigné du total du jet de dé
     }
 }
 ```
 
 # `initRoll(result, callback)`
-**`result`**, type: [`DiceResult`](/system-builder/scripting/dice-result), A dice result from the dice log.
-**`callback`**,type: `Function`, A callback to render the dice result.
+**`result`**, type: [`DiceResult`](/fr/system-builder/scripting/dice-result), Le résultat d'un jet de dé dans le dice log.
+**`callback`**,type: `Function`, Une fonction callback pour afficher le résultat du jet.
+Retourne : `void`.
 
-This function allows you to customize the rendering of a dice result. You should call the callback with two arguments : 
+Cette fonction vous permet de personnaliser l'affichage du résultat d'un jet de dé. Vous devrez appeler cette fonction callback avec ces deux arguments :
 
-* `view`: `string` the id of the view you want to use to render the dice result
-* `onRender`: `Function` a function called when rendering the view, where you can change the view values. Please note the view is also initialized in the global `init` function.
+* `view`: `string` l'identifiant de la vue que vous voulez utiliser pour afficher le résultat du jet
+* `onRender`: `Function` une fonction appelée lorsque la vue s'affichera, dans laquelle vous pouvez changer les données de cette vue. Merci de noter que la vue est aussi initialisée dans la fonction globale init.
 
-Example:
+Exemple :
 ```javascript
 initRoll = function(result, callback) {
-    callback('diceresult', function(sheet) { // diceresult is the id of the view you want to use
-        sheet.get('total').text(result.total); // apply various changes to the view
+    callback('diceresult', function(sheet) { // diceresult est l'identifiant de la vue que vous voulez utiliser
+        sheet.get('total').text(result.total); // appliquez différents changements à la vue
         
         if (result.total > 20) {
             sheet.get('total').addClass('text-large');
@@ -103,12 +104,12 @@ initRoll = function(result, callback) {
 ```
 
 # `getReferences(sheet)`
-**`sheet`**, type: [`Sheet`](/system-builder/scripting/sheet), The sheet with references
-Return `Object`
+**`sheet`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille avec ses références.
+Retourne `Object`.
 
-If you want to create references programmatically, you can use this method. Return an object with the reference's id as key and the reference content  as value. Values are interpreted.
+Si vous souhaitez créer des références par programmation (références avec @ dans un Label computed), vous pouvez utiliser cette méthode. Retourne un objet avec les identifiants des références comme clé et le contenu de la référence comme valeur. Les valeurs sont interprétées. Cette fonction n'est appelée automatiquement qu'une fois à l'init d'une vue. Même si vous l'appelez à nouveau (pour rafraîchir la valeur de la référence par exemple), cela ne fonctionnera pas.
 
-Example:
+Exemple :
 ```javascript
 getReferences = function(sheet) {
     return {
@@ -120,14 +121,14 @@ getReferences = function(sheet) {
 ```
 
 # `getBarAttributes(sheet)`
-**`sheet`**, type: [`Sheet`](/system-builder/scripting/sheet), The sheet
-Return `Object`
+**`sheet`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille à laquelle seront rattachées les barres.
+Retourne `Object`.
 
-Players can connect bars to some attributes with this method. It is required to have a value, and a maximum value. The method should return an `Object` with the titles as keys, and an `Array(2)`, with the first element being the value, and the second the max value.
+Les joueurs peuvent connecter leurs barres aux attributs de leur personnage avec cette fonction. Elle requière d'avoir une valeur et une valeur maximale. Cette méthode retourne un `Object` avec les titres des barres comme clés, et un `Array(2)` (tableau de deux éléments) où le premier élément est la valeur courante, et le second, la valeur maximale de la barre.
 
-The bar updates when the sheet is changed, and the sheet updates when the bar value is changed.
+La barre se met à jour quand la feuille est changée, et la feuille se met à jour quand la valeur de la barre est modifiée
 
-Example:
+Exemple :
 ```javascript
 getBarAttributes = function(sheet) {
   	if (sheet.id() === "main") {
