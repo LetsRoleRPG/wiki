@@ -7,108 +7,107 @@ tags:
 editor: undefined
 ---
 
-Represents a dice result, rolled by a player or the GM.
+Représente le résultat d'un jet de dé effectué soit par un joueur soit pas un MJ.
 
-# Properties
+# Propriétés
 
 ## `title`
 return: `string`
 
-Only available in the top result.
+Seulement disponible dans le résultat supérieur.
 
 ## `expression`
 return: `string`
 
-Only available in the top result.
+Seulement disponible dans le résultat supérieur.
 
 ## `visibility`
 return: `string`
 
-The visibility of the current roll. Possible values are `visible`, `gm` or `gmonly`. Only available in the top result.
+La visibilité du jet de dé en cours. Les valeurs possibles sont `visible` (tout le monde voit le jet), `gm` (le joueur et le MJ voit le jet) or `gmonly` (seul le MJ voit le jet)
+The visibility of the current roll. Possible values are . Only available in the top result.
 
 ## `type`
 return: `string`
 
-The type of the current roll. Possible values are `number`, `dice` or `comparison`.
+Récupère le type du jet courant. Les valeurs possibles sont `number`, `dice` or `comparison`.
 
 ## `total`
 return: `number`
 
-* For a `dice` roll: the total value of the rolls
-* For a `number` roll: the result of the operation
-* For a `comparison` roll: the number of success
+* Pour un jet de type `dice` : le total des valeurs des dés
+* Pour un jet de type `number` : le résultat de l'opération
+* Pour un jet de type`comparison` : le nombre de succès
 
 ## `tags`
 return: `string[]`
 
-Get the tags for the current roll. If you want all the tags, including in the children, use `.allTags`.
+Récupère les tags du jet courant. Si vous souhaitez tous les tags en incluant ceux des enfant, utilisez `.allTags`.
 
 ## `allTags`
 return: `string[]`
 
-Get all the tags, including the one in the children.
+Récupère tous les tags du jet, notamment celui des enfants
 
 ## `all`
 return: `SingleDiceResult[]`
 
-Get all the results of the rolled dice, including in the children. A `SingleDiceResult` is an object composed of : 
+Récupère tous les résultats du jet en incluant ses enfants. `SingleDiceResult` est un objet composé de :
 
-* `dimension`: `number` the number of faces of the dice
-* `value`: `number` the rolled number
-* `discarded`: `boolean` is this roll discarded? (for example when using `keeph`)
+* `dimension`: `number` le nombre de face du dé
+* `value`: `number` la valeur du dé
+* `discarded`: `boolean` renvoie `true` si le dé est rejeté (par exemple quand `keeph` est utilisé)
 
 ## `children`
 return: `DiceResult[]`
 
-Get the children of the current roll.
+Récupère les enfants du jet courant.
 
 ## `size`
 return: `number`
 
-The number of rolled dice. For example 3d6, returns 3. Returns null if the roll is not of type `dice`.
+Le nombre de dés lancés. Par exemple 3d6 retourne 3 Retourne `null` si le jet n'est pas du type `dice`.
 
 ## `dimension`
 return: `number`
 
-The dimension of the dice. For example 3d6, returns 6. Returns null if the roll is not of type `dice`.
+Le nombre de faces du dé. Par exemple 3d6 retourne 6 Retourne `null` si le jet n'est pas du type `dice`.
 
 ## `values`
 return: `number[]`
 
-The results of the roll. Does not include the discarded values.
-Returns null if the roll is not of type `dice` 
+Les résultats du jet. N'inclut pas les valeurs rejetées. Retourne `null` si le jet n'est pas du type `dice`.
 
 ## `discarded`
 return: `number[]`
 
-The discarded results of the roll. Returns null if the roll is not of type `dice`.
+Les résultats rejetés du jet. 
 
 ## `left` 
 return: `DiceResult`
 
-The left part of the comparison. Returns null if the roll is not of type `comparison`.
+La partie gauche d'une comparaison. Retourne `null` si le jet n'est pas du type `comparison`.
 
 ## `right` 
 return: `DiceResult`
 
-The right part of the comparison. Returns null if the roll is not of type `comparison`.
+La partie droite d'une comparaison. Retourne `null` si le jet n'est pas du type `comparison`.
 
 ## `success` 
 return: `number`
 
-The number of successes of the comparison. Returns null if the roll is not 
-of type `comparison`.
+Le nombre de succès lors d'une comparaison. Retourne `null` si le jet n'est pas du type `comparison`.
 
 ## `failure` 
 return: `number`
 
-The number of failures of the comparison. Returns null if the roll is not of type `comparison`.
+Le nombre d'échecs lors d'une comparaison. Retourne `null` si le jet n'est pas du type `comparison`.
 
-# Methods
+# Méthodes
 
 ## `containsTag(tag)`
 `tag`, type: `string`, The tag to lookup
 return: `boolean`
 
-Check if the current roll or any of its children contains this tag.
+Vérifie si le jet courant ou ses enfants contient ce tag.
 
