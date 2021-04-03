@@ -8,28 +8,35 @@ editor: undefined
 ---
 
 # `log(var1, var2, ...)`
-Log variables to the console.
+Retourne `void`.
+Trace le contenu des variables dans la console.
+
+# `//region` `//endregion`
+Ajoutez `//region` pour commencer une section de code que vous voulez rendre pliable, et `//endregion` pour la terminer. Ca ajoutera une flèche de pliage/dépliage.
 
 # `wait(ms, callback)`
-**`ms`**, type: `number`, Duration in milliseconds to wait.
-**`callback`**, type: `Function`, The function to call when the timer is done.
+**`ms`**, type: `number`, La durée en millisecondes de l'attente.
+**`callback`**, type: `Function`, La fonction qui sera appelée quand l'attente sera terminée.
+Retourne `void`.
 
 # `parseInt(value)`
-**`value`**, type: `any`, The value to convert.
+**`value`**, type: `any`, La valeur à convertir.
+Retourne `void`.
 
-Converts any value to an integer.
+Convertit n'importe quelle valeur en un entier.
 
 # `_(text)`
-**`text`**, type: `string`, The text to translate.
+**`text`**, type: `string`, Le texte à traduire.
+Retourne `string`.
 
-Translate a message to the current locale.
+Traduit un message dans la langue choisie.
 
 # `each(data, callback)`
-**`data`**, type: `Object` `Array`, The data to iterate over.
+**`data`**, type: `Object|Array`, Les données sur lesquelles itérer.
+**`callback`**, type: `Function`, La fonction appelée pour chaque élément des données. Doit retourner `false` si vous voulez arrêter l'itération. Le premier argument est l'élément courant, le second son index.
+Retourne `void`.
 
-**`callback`**, type: `Function`, The function called for each element in the data. Return `false` if you want to stop the iteration. The first argument is the item, the second the index.
-
-Iterates over an object or array.
+Itère sur un objet ou un tableau.
 
 Examples : 
 ```javascript
@@ -43,5 +50,7 @@ each(animals, function(noise, type) {
     log(noise);
 });
 ``` 
+
 # `Math`
-The [Math API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) is exposed.
+
+L'[API Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) est disponible.

@@ -7,26 +7,27 @@ tags:
 editor: undefined
 ---
 
-A Sheet instance represents a Character Sheet or Craft.
+Une instance de feuille représente une feuille de personnage ou un craft.
 
-# Methods
+# Methodes
 
 ## `get(id)`
-**`id`**, type: `string`
-return: [`Component`](/system-builder/scripting/component)`|null`
+**`id`**, type: `string`, L'identifiant de l'élément.
+Retourne : [`Component`](/fr/system-builder/scripting/component)`|null`.
 
-Get a component.
+Récupère un élément.
 
 ## `getVariable(id)`
-**`id`**, type: `string`
-Return: `number|null`
+**`id`**, type: `string`, L'identifiant de la variable.
+Retourne : `number|null`.
 
-Get a variable's value.
+Récupère la valeur d'une variable.
 
 ## `setData(data)`
 **`data`**, type: `object`
+Retourne : `void`.
 
-Set multiple sheet data at once (including components values).
+Définit plusieurs données de la feuille en une seule fois (incluant les valeurs des composants).
 ```javascript
 sheet.setData({
     "hp": 30,
@@ -36,8 +37,9 @@ sheet.setData({
 ```
 
 ## `getData()`
+Retourne : `Object`.
 
-Returns all the sheet data at once (including components values).
+Retourne toutes les données de la feuille en une seule fois (incluant les valeurs des composants).
 ```javascript
 let values = sheet.Data();
 /* 
@@ -50,15 +52,20 @@ values = {
 */
 ```
 
-## `prompt(title, view, callback)`
-See: [Prompt API](/en/system-builder/scripting/prompt)
+## `prompt(title, view, callback, callbackInit)`
+Voir : [API Prompt](/fr/system-builder/scripting/prompt)
 
 ## `id()`
-Return: `string`
+Retourne : `string`
 
-The id of the sheet (ie the id of the top view component).
+L'identifiant de la feuille (c'est à dire l'identifiant de la vue principale de la feuille).
+
+## `getSheetId()`
+Retourne : `number`
+
+L'identifiant unique de la feuille (c'est à dire un numéro d'ordre de création de la feuille sur Let's Role). Permet de distinguer une feuille d'une autre feuille du même type.
 
 ## `name()`
-Return: `string`
+Retourne : `string`
 
-The name of the sheet.
+Le nom de la feuille.
