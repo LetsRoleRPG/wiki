@@ -22,6 +22,7 @@ each(repeaterComponent, function(entryValues){
 Note that repeatedEntry object only contains the values of the components used in the Editable view. It is not a component by itself, so you cannot use the component methods on it.
 
 If you need to parse the components in a readable view of a repeater, you have to find their ids. Their ids are build as this: *repeaterId*.*uniqueRandomEntryId*.*readableViewComponentId*.
+
 To get the *uniqueRandomEntryId*, you have to use the second parameter of the function used in the `each` utility. Here is a small example:
 ```javascript
 let repeaterComponent = sheet.get("repeaterComponentId");
