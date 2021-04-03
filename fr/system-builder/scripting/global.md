@@ -107,7 +107,7 @@ initRoll = function(result, callback) {
 **`sheet`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille avec ses références.
 Retourne `Object`.
 
-Si vous souhaitez créer des références par programmation, vous pouvez utiliser cette méthode. Retourne un objet avec les identifiants des références comme clé et le contenu de la référence comme valeur. Les valeurs sont interprétées.
+Si vous souhaitez créer des références par programmation (références avec @ dans un Label computed), vous pouvez utiliser cette méthode. Retourne un objet avec les identifiants des références comme clé et le contenu de la référence comme valeur. Les valeurs sont interprétées. Cette fonction n'est appelée automatiquement qu'une fois à l'init d'une vue. Même si vous l'appelez à nouveau (pour rafraîchir la valeur de la référence par exemple), cela ne fonctionnera pas.
 
 Exemple :
 ```javascript
