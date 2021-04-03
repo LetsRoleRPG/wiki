@@ -14,18 +14,17 @@ Représente le résultat d'un jet de dé effectué soit par un joueur soit pas u
 ## `title`
 return: `string`
 
-Seulement disponible dans le résultat supérieur.
+Seulement disponible dans le premier résultat.
 
 ## `expression`
 return: `string`
 
-Seulement disponible dans le résultat supérieur.
+Seulement disponible dans le premier résultat.
 
 ## `visibility`
 return: `string`
 
-La visibilité du jet de dé en cours. Les valeurs possibles sont `visible` (tout le monde voit le jet), `gm` (le joueur et le MJ voit le jet) or `gmonly` (seul le MJ voit le jet)
-The visibility of the current roll. Possible values are . Only available in the top result.
+La visibilité du jet de dé en cours. Les valeurs possibles sont `visible` (tout le monde voit le jet), `gm` (le joueur et le MJ voit le jet) or `gmonly` (seul le MJ voit le jet). Seulement disponible dans le premier résultat.
 
 ## `type`
 return: `string`
@@ -106,7 +105,7 @@ Le nombre d'échecs lors d'une comparaison. Retourne `null` si le jet n'est pas 
 # Méthodes
 
 ## `containsTag(tag)`
-`tag`, type: `string`, The tag to lookup
+`tag`, type: `string`, le tag à rechercher<br>
 return: `boolean`
 
 Vérifie si le jet courant ou ses enfants contient ce tag.
