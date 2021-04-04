@@ -121,30 +121,32 @@ getReferences = function(sheet) {
 ```
 
 # `getBarAttributes(sheet)`
-**`sheet`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille à laquelle seront rattachées les barres.
+**`sheet`**, type: [`Sheet`](/fr/system-builder/scripting/sheet), La feuille à laquelle seront rattachées les barres de son token.
 Retourne `Object`.
 
-Les joueurs peuvent connecter leurs barres aux attributs de leur personnage avec cette fonction. Elle requière d'avoir une valeur et une valeur maximale. Cette méthode retourne un `Object` avec les titres des barres comme clés, et un `Array(2)` (tableau de deux éléments) où le premier élément est la valeur courante, et le second, la valeur maximale de la barre.
+Les joueurs peuvent connecter les barres de leur token aux attributs de leur personnage avec cette fonction. Elle requière d'avoir une valeur et une valeur maximale. Cette méthode retourne un `Object` avec les titres des barres comme clés, et un `Array(2)` (tableau de deux éléments) où le premier élément est la valeur courante, et le second, la valeur maximale de la barre.
 
-La barre se met à jour quand la feuille est changée, et la feuille se met à jour quand la valeur de la barre est modifiée
+La barre du token se met à jour quand la feuille est changée, et la feuille se met à jour quand la valeur de la barre est modifiée
 
 Exemple :
+
 ```javascript
-getBarAttributes = function(sheet) {
-  	if (sheet.id() === "main") {
-     	return {
-            "HP": ["hp", "hpmax"],
-            "Quick Resource": ["quickResource", "quickResourceMax"]
-        };
-    }
-    
-    if (sheet.id() === "monster") {
+getBarAttributes = function (sheet) { // [triggered when dropping a token onto a scene] adds options to the "Connect to" dropdown menu. The selected field will be displayed as a dynamic gauge on the token
+   if (sheet.id() === "main") { // limits the code to the cases where it's a character being dropped onto the scene, as opposed to a craft for example.
+      return {
+         "Hunger": ['counter_hunger', 5],
+         "Willpower": ["counter_willpower", "counter_willpower_max"],
+         "Health": ['counter_health', 'counter_health_max']
+      };
+   }
+   if (sheet.id() === "monster") {
      	return {
             "HP": ["hp", "hpmax"],
             "Mana": ["mana", 30] // you can use numbers directly for maximums
         };
     }
-    
-    return {};
 };
 ```
+
+![getBarAttributes](https://user-images.githubusercontent.com/71561162/113360624-6ec1f500-934a-11eb-9b00-31f33a1198a0.png)
+
