@@ -7,7 +7,7 @@ tags:
 editor: undefined
 ---
 
-# `log(var1, var2, ...)`
+# `log(var1)`
 Log variables to the console.
 
 # `//region` `//endregion`
