@@ -7,7 +7,7 @@ tags:
 editor: undefined
 ---
 
-# `log(var1, var2, ...)`
+# `log(var1)`
 Retourne `void`.
 Trace le contenu des variables dans la console.
 
