@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-03-17T10:29:41.772Z
+date: 2021-04-08T08:21:41.772Z
 tags: 
 editor: markdown
 ---
@@ -48,6 +48,7 @@ All the systems above were created by the community and will be maintained by th
 | Dungeon World 2                                | Yarod                | :fr: :gb:                   | [Dungeon World 2](https://alpha.lets-role.com/sy/4KbgXaEAGuj7rka3)                     | [Dungeon World 2](https://community.lets-role.com/t/dungeon-world-2-wip/6652)                                             |
 | Dungeon World Class Warfare                    | Klnavajo             | :fr:                        | [Dungeon World Class Warfare](https://alpha.lets-role.com/sy/P3JubQxiMjkcP7tP)         | [Dungeon World Class Warfare](https://community.lets-role.com/t/dungeon-world-2-class-warfare-fr/7035)                    |
 | Earthdawn Anarchy                              | Ilphrin & Klnavajo   | :fr:                        | [Earthdawn Anarchy](https://alpha.lets-role.com/sy/DivA63tkfU2JkJpi)                   | [Earthdawn Anarchy](https://community.lets-role.com/t/earthdawn-anarchy/7302)                                             |
+| Earthdawn Classic                              | Klnavajo             | :fr:                        | [Earthdawn classic](https://alpha.lets-role.com/sy/c7lsSdNVaA4Zlsxu)                   | [Earthdawn Classic](https://community.lets-role.com/t/earthdawn-classic/9921)                                             |
 | Ecryme - La geste des traveres                 | Liesunder68          | :fr:                        | [Ecryme](https://alpha.lets-role.com/sy/taWjEWS2eA8xMzh8)                              | [Ecryme](https://community.lets-role.com/t/ecryme-la-geste-des-traveres/2432)                                             |
 | The end of the world                           | Jaggerwock           | :fr:                        | [The end of the world](https://alpha.lets-role.com/sy/M53K0xhfgcUzvXgX)                | [The end of the world](https://community.lets-role.com/t/la-fin-du-monde/7567)                                            |
 | Esoteric Entreprises                           | Neuralnoise          | :gb:                        | [Esoteric Entreprises](https://alpha.lets-role.com/sy/DeiZTfGg2dHF58aR)                | [Esoteric Entreprises](https://community.lets-role.com/t/esoteric-entreprises-vo/5694)                                    |
@@ -59,6 +60,7 @@ All the systems above were created by the community and will be maintained by th
 | Le fer et le froid                             | Dyzae                | :fr:                        | [Le fer et le froid](https://alpha.lets-role.com/sy/RDvoNlZtvVzQAxsV)                  | [Le fer et le froid](https://community.lets-role.com/t/le-fer-et-le-froid-fr/4190)                                        |
 | FateForge                                      | Tsuna77              | :fr: :gb:                   | [FateForge](https://alpha.lets-role.com/sy/rEH7fJmHxP3BGYnJ)                           | [FateForge](https://community.lets-role.com/t/wip-fr-en-dragons-fateforge/6181)                                           |
 | Freeform Universal                             | Fanfan               | :fr: :gb:                   | [Freeform Universal](https://alpha.lets-role.com/sy/cWhE0GXVhstVtMqo)                  | [Freeform Universal by Nathan Russel](https://community.lets-role.com/t/freeform-universal-by-nathan-russel-en-fr-f/3590) |
+| GURPS Lite                                     | Klnavajo             | :gb:                        | [GURPS](https://alpha.lets-role.com/sy/dfhT86Z6WyRgphiu)                               | [GURPS](https://community.lets-role.com/t/gurps-lite-eng/9782)                                                            |
 | Green Dawn Mall                                | CaiusRomanus         | :gb:                        | [Green Dawn Mall](https://alpha.lets-role.com/sy/rYZOloYj8erWfROT)                     | [Green Dawn Mall](https://community.lets-role.com/t/green-dawn-mall/3219)                                                 |
 | Harry Potter Wolrd                             | Kurblink             | :fr:                        | [Harry Potter Wolrd](https://alpha.lets-role.com/sy/JbYAOAeoA02H1Eqh)                  | [Harry Potter Wolrd](https://community.lets-role.com/t/jdr-harry-potter-wolrd/4264)                                       |
 | The heirs                                      | Lameth               | :fr:                        | [The heirs](https://alpha.lets-role.com/sy/Vx6QC8DLTqBzuChS)                           | [The heirs](https://community.lets-role.com/t/les-heritiers-aventures-feeriques-a-la-belle-epoque/7164)                   |
