@@ -33,6 +33,26 @@ sheet.get('attack').on('click', function() {
 **`callback`**, type: `Function` *`required`*, La fonction callback pour récupérer les données une fois que le joueur clique sur le bouton "next". Le premier argument est l'objet données de la vue prompt.
 **`callbackInit`, type: `Function`, La fonction callback appelée quand le prompt s'ouvre qui vous permet de modifier les éléments de la vue du prompt à partir d'informations provenant de la feuille qui appelle `sheet.prompt(...)`. Le premier argument est la vue du prompt, c'est à dire une instance de la vue `view`. Vous pouvez la manipuler avec les fonctions habituelles de vues, par exemple si vous la nommez `promptView`, vous pouvez en cacher des composants avec `promptView.get('componentId').hide()`.
 
+Exemple
+```javascript
+sheet.get('attack').on('click', function() {
+    sheet.prompt('Modifiers ?', 'rollprompt', function(result) { // rollprompt is the id of the view
+        // result is an object of the data of the view
+        // after the user clicks "continue".
+        // if the user cancel the prompt, the function is not called
+        if (result.advantage) {
+            Dice.roll(sheet, 'keeph(2d20) + ' + result.prompt_modifier); 
+        } else {
+            Dice.roll(sheet, '1d20 + ' + result.prompt_modifier);
+        }
+    }, function(promptView){ // callbackInit
+        // la fonction callbackInit peut acceder a la feuille qui appelle le prompt et a la feuille du prompt
+        const dex_modifier = sheet.get('dex_modifier').value(); // dex_modifier est sur la feuille de personnage
+        promptView.get('prompt_modifier').value(dex_modifier); // prompt_modifier est sur la feuille du prompt
+    });
+}); 
+```
+
 `Prompt(title, view, callback)`
 > This stand-alone function has been deprecated, use sheet.prompt() instead
 {.is-warning}
