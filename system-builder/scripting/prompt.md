@@ -33,7 +33,7 @@ sheet.get('attack').on('click', function() {
 **`callback`**, type: `Function` *`required`*, The callback to get the data once the user click the "next" button. The first argument is the view's data.
 **`callbackInit`**, type: `Function`, The callback called when opening the prompt which allows to modify elements of the prompt view from information coming from the sheet which calls `sheet.prompt(...)`
 
-Exemple
+Example
 ```javascript
 sheet.get('attack').on('click', function() {
     sheet.prompt('Modifiers ?', 'rollprompt', function(result) { // rollprompt is the id of the view
