@@ -18,6 +18,7 @@ Les scripts utilisent un sous-ensemble du langage **javascript**.
 * [Créateur de dès *Les fonctions qui permettent de créer des formules de lancer de dès*](/system-builder/scripting/dice-builder)
 * [Résultat de dès *Comment interpréter les résultats d'un lancer*](/system-builder/scripting/dice-result)
 * [API de lancers *Comment lancer les dès*](/system-builder/scripting/dice-api)
+* [Créateur de lancers *Une interface pour créer des lancers de dés*](/system-builder/scripting/roll-builder)
 * [API de tchat *Comment afficher des informations dans le tchat*](/system-builder/scripting/bindings)
 * [API de demandes *Comment demander au joueurs des informations adittionelles*](/system-builder/scripting/prompt)
 * [API des tableaux *API pour accèder aux données des tableaux*](/system-builder/scripting/tables)
