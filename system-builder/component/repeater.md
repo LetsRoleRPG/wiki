@@ -27,8 +27,7 @@ To get the *uniqueRandomEntryId*, you have to use the second parameter of the fu
 ```javascript
 let repeaterComponent = sheet.get("repeaterComponentId");
 each (repeaterComponent.value(), function(entryValues, uniqueRandomEntryId){
-  let myReadableViewComponentFullId = "repeaterComponentId."+uniqueRandomEntryId+".myReadableViewComponentId"; // myReadableViewComponentFullId is the complete id of the component in the global view
-  let myReadableViewComponent = sheet.get(myReadableViewComponentFullId);
+  let myReadableViewComponent = repeaterComponent.find(uniqueRandomEntryId).find("myReadableViewComponentId");
   // do whatever you want you want with the component (add an event handler, etc.)
 });
 ```
