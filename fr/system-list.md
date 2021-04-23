@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-04-08T08:27:19.061Z
+date: 2021-04-23T19:40:53.166Z
 tags: 
 editor: markdown
 ---
@@ -13,7 +13,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 
 | Jeu                                            | Auteur                          | Langue                      | Lien système                                                                           | Lien forum                                                                                                                |
 | ---------------------------------------------- | ------------------------------- | --------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 7e Mer V2                                      | Neuralnoise                     | :fr:                        | [7e Mer V2](https://alpha.lets-role.com/sy/VdyCrUJ7wmhXhHfW)                           | [7e Mer v2](https://community.lets-role.com/t/7e-mer-v2-les-secrets-de-la-septieme-mer/2997)                              |
+| 7e Mer V2                                      | Neuralnoise, Vorapsak  & Knil   | :fr:                        | [7e Mer V2](https://alpha.lets-role.com/sy/VdyCrUJ7wmhXhHfW)                           | [7e Mer v2](https://community.lets-role.com/t/7e-mer-v2-les-secrets-de-la-septieme-mer/2997)                              |
 | Abstract                                       | Menida                          | :fr:                        | [Abstract](https://alpha.lets-role.com/sy/DvHa3t9YB0GPAom4)                            | [Abstract](https://community.lets-role.com/t/fr-abstract-dungeon-et-cie/9802)                                             |
 | ALIEN by Free League Publishing                | Stefouch                        | :fr: :gb:                   | [ALIEN RPG](https://alpha.lets-role.com/sy/QqEoxwYVhRR6zvdx)                           | [ALIEN RPG](https://community.lets-role.com/t/alien-rpg-by-free-league-eng-fra/3060)                                      |
 | Amber Diceless Role Playing                    | Tryphon                         | :gb:                        | [Amber Diceless RP](https://alpha.lets-role.com/sy/t28PTuxEocir6vfG)                   | [Amber Diceless RP](https://community.lets-role.com/t/amber-diceless-rp/9427)                                             |
