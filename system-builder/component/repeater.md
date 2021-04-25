@@ -45,4 +45,72 @@ each (repeaterComponent.value(), function(entryValues, uniqueRandomEntryId){
 });
 ```
 
+# How to script init VIEWER VIEW of a repeater
+
+When Lets Role needs to show a repeater entry VIEWER VIEW, it does not call the global `init` function. To alter the initialization of the VIEWER VIEW of a repeater, you have to listen to the `update` event of the repeater. Inside this event, which is called each time an entry has been modified and or added, you have access to all the entries of the repeater using the previous code. Here is a small example where we would like to change an icon of the VIEWER VIEW according to the choice (choice1) made in the EDIT view:
+```javascript
+init = function(sheet){
+    if(sheet.id()=="main"){
+        // tests on repeaters
+        let repeater1Cmp = sheet.get("repeater1");
+        // add update event to initialize the VIEW VIEW
+        repeater1Cmp.on("update", function(repeater){
+            log("UPDATE ON "+repeater.id());
+            each(repeater.value(), function (entry, entryId){   // We do not know which entry has been modified, so we do this on all entries
+                let entryCmp = repeater.find(entryId);
+                log("   UPDATING "+entryId);
+                let iconCmp = entryCmp.find("viewIcon");
+                log("   icon component is "+iconCmp.id());
+                let iconName;
+                switch(entry.choice1){  // get the value of the choice made in the EDITOR VIEW
+                    case "R1": iconName = "plus"; break;    // if R1 icon will be +
+                    case "R2": iconName = "minus"; break;   // if R2 icon will be -
+                    default: iconName = "ad"; break;        // else icon will stay ad
+                }
+                iconCmp.value(iconName);    // change the icon of the component by settins its value
+                log("   VIEWER VIEW has been updated");
+            });
+            log("END OF UPDATE");
+        });
+    }
+```
+
+# How to script init EDITOR VIEW of a repeater
+
+When Lets Role needs to show a repeater entry EDITOR VIEW, it does not call the global `init` function. To alter the initialization of the EDITOR VIEW of a repeater, you have to listen to the `click` event of the repeater. Inside this event, which is called each time a click is made on a repeater (Add button, Edit button, anynwhere inside the repeater), you have access to all the entries of the repeater using the previous code, including the new entry if you hit Add button. Be careful, as you can imagine, this event is called very often, and you need to initialized the EDITOR VIEW only for the first time it is shown for new entry (most of the time anyway). To remember which entry has its EDITOR VIEW intialized, you will have to memorize the ones you have already initialized. One way to do this is to create a global array that will contain the ids of the entries that have been already initialized, and check this array before initializing a new entry. Here is a small example where we would like to change the choices of a choice2 component in the EDITOR VIEW according to the selected value of a choice1 component of this same EDITOR VIEW:
+```javascript
+// write your custom scripts here
+let globalRepeaterEntryInits=[];
+
+init = function(sheet){
+    if(sheet.id()=="main"){
+        // add click event to initialize the EDIT VIEW
+        repeater1Cmp.on("click", function(repeater){
+            log("CLICK ON "+repeater.id()+" containing ");
+            log(Object.keys(repeater.value()));
+            each(repeater.value(), function (entry, entryId){
+                let entryCmp = repeater.find(entryId);
+                if(!globalRepeaterEntryInits.includes(entryId)){    // Only do this once, check if this EDIT VIEW has already been initialized
+                    log("   INITIALIZING "+entryId);
+                    let choice1Cmp = entryCmp.find("choice1");      // Get the choice1 componentof the EDITOR VIEW
+                    log("   choice1 component is "+choice1Cmp.id());
+                    choice1Cmp.on("update", function (targetCmp){   // Add an update event on choice1 component, so we can set the choice2 component choices according to choice1 value
+                        log("   UPDATE "+targetCmp.id());
+                        let choice2Cmp = entryCmp.find("choice2");  // Get the choice2 component of the EDITOR VIEW to change its choices
+                        let choice1Val = targetCmp.value();         // Get the value of the choice1 component which is the one with the event
+                        let choices = {};                           // Create the choices using the choice1 value
+                        choices[choice1Val+"_1"]=choice1Val+"_1";
+                        choices[choice1Val+"_2"]=choice1Val+"_2";
+                        choice2Cmp.setChoices(choices);             // Set the choices choice with setChoices method
+                    });
+                    globalRepeaterEntryInits.push(entryId);         // Do not forget to add the id of the entry to tell the system it has already been initialized
+                    log("   EDITOR VIEW has been initialized");
+                }
+            });
+            log("END OF CLICK");
+        });
+    }
+    // ...
+};
+
 If you are interested in a little more complex example, feel free to fork: https://alpha.lets-role.com/sy/jPN4xbM2mUnWcdmx
