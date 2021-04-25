@@ -111,6 +111,6 @@ init = function(sheet){
         });
     }
     // ...
-};
+};```
 
 If you are interested in a little more complex example, feel free to fork: https://alpha.lets-role.com/sy/jPN4xbM2mUnWcdmx
