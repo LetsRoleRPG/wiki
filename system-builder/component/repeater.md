@@ -2,7 +2,7 @@
 title: Repeater
 description: 
 published: true
-date: 2020-09-04T11:12:00.044Z
+date: 2021-04-25T18:21:00.044Z
 tags: 
 editor: undefined
 ---
@@ -111,6 +111,7 @@ init = function(sheet){
         });
     }
     // ...
-};```
+};
+```
 
 If you are interested in a little more complex example, feel free to fork: https://alpha.lets-role.com/sy/jPN4xbM2mUnWcdmx
