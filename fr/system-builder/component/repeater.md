@@ -7,10 +7,13 @@ tags:
 editor: undefined
 ---
 
-Un repeater vous permet de mettre en place des listes dynamiques de view. Les utilisateurs peuvent ajouter et enlever des entrées (entry). Dans une view, un composant repeater est comme un container qui contient une READABLE VIEW pour entrée qu'il regroupe. L'EDITABLE VIEW est instanciée et vue que lors de l'édition ou de la création d'une entrée dans le repeater.
+Un répétiteur/*repeater* vous permet de créer une liste dynamique de [vues/*views*](/system-builder/component/view). Les utilisateurs peuvent ajouter, modifier ou enlever des entrées.
+Dans une vue, un *repeater* sera comme une suite de *container*, un pour chaque entrées, avec une "vue affichage"/*"readable view"* à l'interieur de chaque.
+Un *repeater* possède deux champs spéciaux car il va de pair avec deux vues de types *subcomponent* :
 
 # Editable view
 Cette view est utilisée pour éditer les données d'une entrée. Cette view est initiée quand vous commencez à éditer une entrée ou à en créer une nouvelle dans le repeater. Les ids des composants utilisés dans cette EDITABLE VIEW vont générer les données que vous utiliserez pour remplir la READABLE VIEW, notamment en utilisant des composants auto complétés et le symbole `#` devant l'id du composant de l'EDITABLE VIEW dont vous voulez utiliser la valeur. Par exemple, si vous avez un TextInput avec l'id Name dans l'EDITABLE VIEW, que vous voulez afficher dans un composant Label de la READABLE VIEW, vous avez juste besoin de rendre ce Label auto calculé (Auto Computed), avec comme contenu `#Name`.
+Notez que le nom de la vue elle même peut avoir son importance, voir si-après "craft".
 
 # Readable view
 Cette view est utilisée pour afficher les informations d'une entrée du repeater. Cette view est donc répétée pour chaque entrée. Pour utiliser une référence d'une view d'un repeater (EDITEABLE ou READABLE), il suffit d'utiliser l'id du composant de saisie utilisé, précédé par un `#`. Si vous devez parcourir les entrées d'un repeater, vous pouvez utiliser la fonction globale `each` sur la valeur du repeater (`repeaterComponent.value()`) :
@@ -114,3 +117,7 @@ init = function(sheet){
 ```
 
 Si l'exemple complet vous intéresse, n'hésitez à forker : https://alpha.lets-role.com/sy/jPN4xbM2mUnWcdmx
+
+### Craft
+Vous pouvez permettre à un *reapeater* d'être "craftable", ce qui veut dire que le maître de jeu pourra créer une entrée dans l'onglet [content crafting](how-to/content-crafting) pour la déposer dans une fiche de personnage par la suite.
+Pour faire cela, cochez les cases **Craft?** et **Droppable?** dans la vue éditable (attention au nom de cette vue, qui sera le nom de la catégorie de craft).

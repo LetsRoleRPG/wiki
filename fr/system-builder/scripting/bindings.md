@@ -7,33 +7,35 @@ tags:
 editor: undefined
 ---
 
-Bindings allow players to reference an element of their character sheet in the chat. With this API, you have full control over what bindings are available, and how they are displayed.
+Les bindings (liaison en français) permettent aux joueurs de faire référence à un élément de leur feuille de personnage dans le chat. Grâce à cette API, vous avez un contrôle total sur les liens disponibles et la façon dont ils sont affichés.
 
-A binding is created with 4 elements : 
+Un binding est créé avec 4 éléments :
 
- * **name** `string` : the name used in the chat to reference the binding
- * **componentId** `string` : the id of the component referenced. You can have several bindings for a single componentId, for example in repeaters
- * **viewId** `string` : the id of the view used to display the binding
- * **data** `Function` : a function that returns an object of data passed to the view for rendering. This data will be available in the view
+ * **name** `string` : le nom utilisé dans le chat pour faire référence au binding 
+ * **componentId** `string` : l'id du composant référencé. Vous pouvez avoir plusieurs binding pour un même componentID, notamment dans le cas des [repeaters](/system-builder/component/repeater)
+ * **viewId** `string` : l'id de la [vue](/system-builder/component/view) utilisée pour afficher le binding
+ * **data** `Function` : une fonction qui retourne l'objet de données transmis à la vue pour le rendu. Ces données seront disponibles dans la vue
  
-Bindings are available thought the global `Bindings` constant.
+Les bindings sont disponibles via la constante globale `Bindings`.
 
 # `Bindings.add(name, componentId, viewId, dataCallback)`
-**`name`**, type: `string` *`required`*, The name used in the chat.
-**`componentId`**, type: `string` *`required`*, The id of the component used.
-**`viewId`**, type: `string` *`required`*, The view used for rendering.
-**`dataCallback`**, type: `Function`, A function returning an object that will be passed to the view. The object must be serializable in JSON.
+**`name`**, type: `string` *`requis`*, le nom utilisé dans le chat
+**`componentId`**, type: `string` *`requis`*, l'id du composant utilisé
+**`viewId`**, type: `string` *`requis`*, l'id de la vue utilisée pour le rendu
+**`dataCallback`**, type: `Function`, une fonction qui retourne l'objet de données transmis à la vue pour le rendu. L'objet doit être sérialisée en JSON.
 
 # `Bindings.send(sheet, name)`
-**`sheet`**, type: `Sheet` *`required`*, The sheet element attached to the binding.
-**`name`**, type: `string` *`required`*, The name of the binding.
+**`sheet`**, type: `Sheet` *`requis`*, la [fiche](/system-builder/scripting/sheet) liée au binding
+**`name`**, type: `string` *`requis`*, le nom du binding
 
-Sends a binding into the chat. The binding must have been registered with `Binding.add()`.
+Envoie un binding dans le chat. Le binding doit avoir été enregistré avec la fonction `Binding.add()`.
 
 # `Bindings.remove(name)`
-**`name`**, type: `string` *`required`*, The name of the binding.
+**`name`**, type: `string` *`requis`*, le nom du binding
 
-Remove one binding by its name.
+Enlève un binding à partir de son nom.
 
 # `Bindings.clear(componentId)`
-**`componentId`**, type: `string` *`required`*, The component's id to clear.
+**`componentId`**, type: `string` *`requis`*, l'id du composant
+
+Enlève tous les bindings liés à un composant.

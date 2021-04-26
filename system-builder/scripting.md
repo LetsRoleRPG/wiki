@@ -18,6 +18,7 @@ Scripting uses a subset of the **javascript** language.
 * [DiceBuilder *Class that allow fluid dice rolls creation*](/system-builder/scripting/dice-builder)
 * [DiceResult *How to interpret the result of a throw*](/system-builder/scripting/dice-result)
 * [Dice API *How to roll dice*](/system-builder/scripting/dice-api)
+* [Roll Builder *A fluid interface to create rolls*](/system-builder/scripting/roll-builder)
 * [Bindings API *How to display advanced information in the chat*](/system-builder/scripting/bindings)
 * [Prompt API *How to ask players for additionnal information*](/system-builder/scripting/prompt)
 * [Tables API *Data table access API*](/system-builder/scripting/tables)
