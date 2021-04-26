@@ -19,7 +19,7 @@ each(repeaterComponent.value(), function(entryValues){
   // do whatever you want with the data (values) of each entry
 });
 ```
-Note that entryValues object only contains the values of the input components (Checkbox, NumberInput, TextInput) used in the Editable view and the Viewer View. It is not a component by itself, so you cannot use the component methods on it.
+Note that entryValues object only contains the values of the input components (Checkbox, NumberInput, TextInput) used in the Editable view and the Readable View. It is not a component by itself, so you cannot use the component methods on it.
 
 If you need to parse the components in a readable view of a repeater, you have to find the id of the entry in the repeater (which we call the unique random entry id). This is really simple because the id of each entry of a repeater is passed as the second argument when calling the each method.
 
@@ -35,7 +35,7 @@ each (repeaterComponent.value(), function(entryValues, uniqueRandomEntryId){
 });
 ```
 
-2] The second method is using the find method of the components to get the components inside a repeater. To do so, you have to access first to the entry component, which is inside the repeater. This is not the first argument of the each method! Then, this entry component contains all the components used in the viewer view AND in the editor view. Whith this method you can access to both components which might be usefull to configure the editor view (still, without any inti event triggered for the editor view, this can only be done at init of the main view for now). Here is a small example:
+2] The second method is using the find method of the components to get the components inside a repeater. To do so, you have to access first to the entry component, which is inside the repeater. This is not the first argument of the each method! Then, this entry component contains all the components used in the readable view AND in the editor view. Whith this method you can access to both components which might be usefull to configure the editor view (still, without any inti event triggered for the editor view, this can only be done at init of the main view for now). Here is a small example:
 ```javascript
 let repeaterComponent = sheet.get("repeaterComponentId");
 each (repeaterComponent.value(), function(entryValues, uniqueRandomEntryId){
@@ -45,9 +45,9 @@ each (repeaterComponent.value(), function(entryValues, uniqueRandomEntryId){
 });
 ```
 
-# How to script init VIEWER VIEW of a repeater
+# How to script init READABLE VIEW of a repeater
 
-When Lets Role needs to show a repeater entry VIEWER VIEW, it does not call the global `init` function. To alter the initialization of the VIEWER VIEW of a repeater, you have to listen to the `update` event of the repeater. Inside this event, which is called each time an entry has been modified and or added, you have access to all the entries of the repeater using the previous code. Here is a small example where we would like to change an icon of the VIEWER VIEW according to the choice (choice1) made in the EDIT view:
+When Lets Role needs to show a repeater entry READABLE VIEW, it does not call the global `init` function. To alter the initialization of the READABLE VIEW of a repeater, you have to listen to the `update` event of the repeater. Inside this event, which is called each time an entry has been modified and or added, you have access to all the entries of the repeater using the previous code. Here is a small example where we would like to change an icon of the READABLE VIEW according to the choice (choice1) made in the EDIT view:
 ```javascript
 init = function(sheet){
     if(sheet.id()=="main"){
@@ -68,7 +68,7 @@ init = function(sheet){
                     default: iconName = "ad"; break;        // else icon will stay ad
                 }
                 iconCmp.value(iconName);    // change the icon of the component by settins its value
-                log("   VIEWER VIEW has been updated");
+                log("   READABLE VIEW has been updated");
             });
             log("END OF UPDATE");
         });
