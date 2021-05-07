@@ -103,7 +103,7 @@ hp.virtualValue(hp.rawValue() + 2);
 **`newValue`**, type: `string`, Le texte à écrire.
 Retourne : `null|string`.
 
-Retourne ou définit le texte contenu dans un label. La valeur n'est pas évaluée et le HTML n'est pas autorisé.
+Retourne ou définit le texte contenu dans un label. La valeur n'est pas évaluée et le HTML n'est pas autorisé. Utiliser `text` sur un Label ne modifie pas les data de la sheet (`getData`). Si on utilise `value` par contre, le texte du Label sera également changé, mais la sheet aura un nouveau data portant l'identifiant du Label et la valeur entrée. Cette donnée sera alors synchronisée sur tous les clients à la différence d'une utilisation de `text`.
 
 ```javascript
 sheet.get("job").text("Warrior");
