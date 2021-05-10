@@ -95,7 +95,7 @@ hp.virtualValue(hp.rawValue() + 2);
 **`newValue`**, type: `string`, The text to write.
 Return: `null|string`
 
-Get or set the text content of the label. The value is not computed and HTML is not allowed.
+Get or set the text content of the label. The value is not computed and HTML is not allowed. Using `text` on a Label does not change the data of the sheet. If you use `value` instead, the text will be changed but the data of the sheet also (adding a new data in the sheet). This data will then be sent over internet to all other (this does not occur when using `text`).
 
 ```javascript
 sheet.get("job").text("Warrior");
