@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-04-23T19:39:24.156Z
+date: 2021-05-11T12:04:39.309Z
 tags: 
 editor: markdown
 ---
@@ -24,7 +24,7 @@ All the systems above were created by the community and will be maintained by th
 | Barbarians of Lemuria                          | DLDone                          | :fr:                        | [Barbarians of Lemuria](https://alpha.lets-role.com/sy/XDhu9s4ROc5mFrZQ)               | [Barbarians of Lemuria](https://community.lets-role.com/t/barbarians-of-lemuria-fr/3927)                                  |
 | Beast & Barbarian                              | Pignata                         | :fr:                        | [Beast & Barbarian](https://alpha.lets-role.com/sy/N8mxjJuKDKWFpnpi)                   | [Beast & Barbarian](https://community.lets-role.com/t/beast-barbarian/2902)                                               |
 | Blades in the dark                             | Dyzae                           | :gb:                        | [Blades in the dark](https://alpha.lets-role.com/sy/Ybiox4CAiZz0pxLn)                  | [Blades in the dark](https://community.lets-role.com/t/blades-in-the-dark/7051)                                           |
-| Broken Compass                                 | Neuralnoise                     | :gb:                        | [Broken Compass](https://alpha.lets-role.com/sy/vgwBN7CFfzfcr8CO)                      | [Broken Compass](https://community.lets-role.com/t/broken-compass-eng/7694)                                               |
+| Broken Compass                                 | Neuralnoise                     | :gb: :it:                        | [Broken Compass](https://alpha.lets-role.com/sy/vgwBN7CFfzfcr8CO)                      | [Broken Compass](https://community.lets-role.com/t/broken-compass-eng/7694)                                               |
 | Channel FEAR                                   | Herya                           | :gb:                        | [Channel FEAR](https://alpha.lets-role.com/sy/XIrCrqjKUJdquPxQ)                        | [Channel FEAR](https://community.lets-role.com/t/channel-fear-system/4270)                                                |
 | Chroniques de l'étrange                        | Jaggerwock                      | :fr:                        | [Chroniques de l'étrange](ttps://alpha.lets-role.com/sy/9xR7R9AwJh3juqx2)              | [Chroniques de l'étrange](https://community.lets-role.com/t/les-chroniques-de-letrange/7578)                              |
 | Chroniques Oubliées Fantasy                    | Macmist                         | :fr:                        | [Chroniques Oubliées Fantasy](https://alpha.lets-role.com/sy/Kzr5FqYed7gYh06j)         | [Chroniques Oubliées Fantasy](https://community.lets-role.com/t/wip-fr-chroniques-oubliees/5422)                          |
