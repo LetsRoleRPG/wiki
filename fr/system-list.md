@@ -2,7 +2,7 @@
 title: System list
 description: 
 published: true
-date: 2021-05-11T12:04:53.842Z
+date: 2021-05-19T09:41:58.161Z
 tags: 
 editor: markdown
 ---
@@ -75,6 +75,7 @@ Les systèmes ci-dessous ont été créés par la communauté et sont maintenus 
 | Into the Odd / Electric BastionLand            | Neuralnoise                     | :fr:                        | [Into the Odd / Electric BastionLand](https://alpha.lets-role.com/sy/EOQxh2PfjTdSYznI) | [into the Odd](https://community.lets-role.com/t/into-the-odd-electricbastionland/2947)                                   |
 | Kémi                                           | Verdad                          | :fr:                        | [Kémi](https://alpha.lets-role.com/sy/hgDYS7KLBAGSNU9B)                                | [Kémi](https://community.lets-role.com/t/systeme-pour-kemi/3542)                                                          |
 | Knight v1.5                                    | Stram                           | :fr:                        | [Knight v1.5](https://alpha.lets-role.com/sy/sdyMdRoDETvoBvyv)                         | [JDR Knight v1.5](https://community.lets-role.com/t/jdr-knight-v1-5/3728)                                                 |
+| Kult : Divinity Lost                           | Poussin                         | :fr:                        | [Kult : Divinity Lost](https://alpha.lets-role.com/sy/ZOINocGWHYdjOjkI)                         | [Kult : Divinity Lost](https://community.lets-role.com/t/fr-wip-kult-divinity-lost/9791)                                                 |
 | Macadabre                                      | NekoUnseelie                    | :fr:                        | [Macadabre](https://alpha.lets-role.com/sy/jXM4F7e1SKcia4nO)                           | [Macadabre](https://community.lets-role.com/t/systeme-pour-macadabre/9992)                                                |
 | Mentia Mancie                                  | Lunart                          | :fr:                        | [Mentia Mancie](https://alpha.lets-role.com/sy/kY7jsmK0RTzP12SK)                       |                                                                                                                           |
 | Maze Of Rats (12 singes)                       | Laurène Lan                     | :fr:                        | [Maze Of Rats](https://alpha.lets-role.com/sy/wBUfdsrzBdAIi419)                        |                                                                                                                           |
