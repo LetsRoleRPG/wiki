@@ -133,3 +133,8 @@ Returns the name of the component as indicated in the system builder.
 Return: `string`
 
 Returns the id of the component as indicated in the system builder.
+
+## `index()`
+Return: `string|null`
+
+Returns the entry id of the component when contained in a repeater, null if the component is not in a repeater.
