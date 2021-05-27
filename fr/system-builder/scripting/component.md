@@ -143,3 +143,8 @@ Retourne le nom du composant tel qu'indiqué dans le system builder.
 Retourne : `string`.
 
 Retourne l'identifiant du composant tel qu'indiqué dans le system builder.
+
+## `index()`
+Retourne: `string|null`
+
+Retourne l'identifiant de l'entrée contenant le composant quand il est contenu dans un répéteur, retourne null si le composant n'est pas dans un répéteur.
