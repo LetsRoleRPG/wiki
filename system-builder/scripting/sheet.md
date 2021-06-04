@@ -27,6 +27,7 @@ Get a variable's value. See : [variables](/en/system-builder/general/variables)
 **`data`**, type: `object`
 
 Set multiple sheet data at once (including components values).
+You can only set 20 values at a time.
 ```javascript
 sheet.setData({
     "hp": 30,
