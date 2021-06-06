@@ -28,6 +28,7 @@ Récupère la valeur d'une variable.
 Retourne : `void`.
 
 Définit plusieurs données de la feuille en une seule fois (incluant les valeurs des composants).
+Vous ne pouvez définir qu'un maximum de 20 données à la fois.
 ```javascript
 sheet.setData({
     "hp": 30,
